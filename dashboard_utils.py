@@ -1,5 +1,6 @@
 """
 SupeRR Selector Season 2 — Dashboard Utility Functions
+Premium Light-Mode Sports Analytics SaaS Design System.
 Helper modules for data caching, styling, and interactive Plotly visualizations.
 """
 
@@ -10,18 +11,19 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 
-# Color Constants (Rajasthan Royals Theme)
-RR_PINK = "#D91E5B"
-RR_PINK_LIGHT = "#FF2E93"
-RR_BLUE = "#1E88E5"
-RR_BLUE_LIGHT = "#60A5FA"
-RR_NAVY_DARK = "#0A0F1D"
-RR_NAVY_CARD = "#151E33"
-RR_NAVY_BORDER = "#25334D"
-RR_GOLD = "#F59E0B"
-RR_GREEN = "#10B981"
-RR_WHITE = "#F8FAFC"
-RR_MUTED = "#94A3B8"
+# =============================================================================
+# EXACT COLOUR SYSTEM (PREMIUM LIGHT SAAS)
+# =============================================================================
+BG_MAIN = "#F5F7FC"
+CARD_BG = "#FFFFFF"
+TEXT_PRIMARY = "#202B45"
+TEXT_SECONDARY = "#697586"
+PRIMARY_BLUE = "#2698DC"
+ROYAL_PINK = "#E83E8C"
+PURPLE = "#7950D8"
+TEAL = "#16B8A6"
+ORANGE = "#F5A623"
+BORDER = "#E7EAF2"
 
 @st.cache_data
 def load_data(output_dir: str = "outputs"):
@@ -50,7 +52,6 @@ def load_data(output_dir: str = "outputs"):
         else:
             data[key] = pd.DataFrame()
             
-    # Load validation report text
     val_path = os.path.join(output_dir, 'validation_report.txt')
     if os.path.exists(val_path):
         with open(val_path, 'r', encoding='utf-8', errors='ignore') as f:
@@ -63,197 +64,273 @@ def load_data(output_dir: str = "outputs"):
 
 def apply_custom_css():
     """
-    Injects custom CSS styling inspired by the Rajasthan Royals aesthetic:
-    Dark navy background, hot pink and royal blue accents, crisp typography.
+    Injects custom CSS styling for a bright, colourful, premium SaaS interface.
+    Fixes header contrast and provides modern card, sidebar, and typography rules.
     """
     st.markdown(f"""
     <style>
-        /* Base Page Background */
+        /* Import Google Fonts (Inter) */
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+        /* Global App Styling */
+        html, body, [class*="css"] {{
+            font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        }}
+        
         .stApp {{
-            background-color: {RR_NAVY_DARK};
-            color: {RR_WHITE};
-            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: {BG_MAIN} !important;
+            color: {TEXT_PRIMARY} !important;
         }}
         
-        /* Sidebar Styling */
+        /* Streamlit Header / Chrome Bar */
+        header[data-testid="stHeader"] {{
+            background-color: {BG_MAIN} !important;
+            border-bottom: 1px solid {BORDER} !important;
+        }}
+        
+        /* Sidebar Styling (Elegant White) */
         section[data-testid="stSidebar"] {{
-            background-color: #0d1527;
-            border-right: 1px solid {RR_NAVY_BORDER};
+            background-color: #FFFFFF !important;
+            border-right: 1px solid {BORDER} !important;
+            box-shadow: 2px 0 16px rgba(32, 43, 69, 0.03) !important;
         }}
-        section[data-testid="stSidebar"] .stMarkdown h1, 
-        section[data-testid="stSidebar"] .stMarkdown h2, 
-        section[data-testid="stSidebar"] .stMarkdown h3 {{
-            color: {RR_PINK};
+        section[data-testid="stSidebar"] div[data-testid="stVerticalBlock"] {{
+            gap: 0.6rem;
+        }}
+        section[data-testid="stSidebar"] hr {{
+            margin: 12px 0;
+            border-color: {BORDER};
         }}
         
-        /* Metric Card Container */
-        .rr-card {{
-            background-color: {RR_NAVY_CARD};
-            border: 1px solid {RR_NAVY_BORDER};
-            border-radius: 12px;
-            padding: 20px;
+        /* Radio Navigation in Sidebar */
+        section[data-testid="stSidebar"] div[data-testid="stRadio"] label {{
+            color: {TEXT_PRIMARY} !important;
+            font-weight: 500;
+            font-size: 0.92rem;
+            padding: 8px 12px;
+            border-radius: 8px;
+            transition: all 0.2s ease;
+            margin-bottom: 2px;
+        }}
+        section[data-testid="stSidebar"] div[data-testid="stRadio"] label:hover {{
+            background-color: #F0F4FC;
+            color: {PRIMARY_BLUE} !important;
+        }}
+        
+        /* Typography */
+        h1, h2, h3, h4, h5, h6 {{
+            color: {TEXT_PRIMARY} !important;
+            font-family: 'Plus Jakarta Sans', sans-serif !important;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+        }}
+        p, span, label {{
+            color: {TEXT_PRIMARY};
+        }}
+
+        /* Premium KPI & Content Cards */
+        .saas-card {{
+            background-color: {CARD_BG};
+            border: 1px solid {BORDER};
+            border-radius: 14px;
+            padding: 20px 22px;
             margin-bottom: 16px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
-            transition: transform 0.2s ease, border-color 0.2s ease;
+            box-shadow: 0 4px 16px rgba(32, 43, 69, 0.04);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            position: relative;
         }}
-        .rr-card:hover {{
+        .saas-card:hover {{
             transform: translateY(-2px);
-            border-color: {RR_PINK};
+            box-shadow: 0 8px 24px rgba(32, 43, 69, 0.08);
         }}
         
-        .rr-card-title {{
-            font-size: 0.82rem;
+        /* Card Accents (Top Border Strips) */
+        .card-accent-blue {{ border-top: 4px solid {PRIMARY_BLUE}; }}
+        .card-accent-pink {{ border-top: 4px solid {ROYAL_PINK}; }}
+        .card-accent-purple {{ border-top: 4px solid {PURPLE}; }}
+        .card-accent-teal {{ border-top: 4px solid {TEAL}; }}
+        .card-accent-orange {{ border-top: 4px solid {ORANGE}; }}
+        
+        .kpi-header {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }}
+        .kpi-title {{
+            font-size: 0.78rem;
+            font-weight: 700;
             text-transform: uppercase;
-            letter-spacing: 0.08em;
-            color: {RR_MUTED};
-            margin-bottom: 6px;
-            font-weight: 600;
+            letter-spacing: 0.06em;
+            color: {TEXT_SECONDARY};
         }}
-        
-        .rr-card-value {{
-            font-size: 2.1rem;
-            font-weight: 700;
-            color: {RR_WHITE};
-            margin-bottom: 4px;
+        .kpi-icon-wrap {{
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.05rem;
+        }}
+        .kpi-value {{
+            font-size: 2.15rem;
+            font-weight: 800;
+            color: {TEXT_PRIMARY};
             line-height: 1.1;
+            margin-bottom: 4px;
+            letter-spacing: -0.03em;
+        }}
+        .kpi-subtitle {{
+            font-size: 0.82rem;
+            color: {TEXT_SECONDARY};
+            font-weight: 500;
         }}
         
-        .rr-card-subtitle {{
-            font-size: 0.85rem;
-            color: {RR_BLUE_LIGHT};
-        }}
-        
-        .rr-card-pink {{
-            border-left: 4px solid {RR_PINK};
-        }}
-        
-        .rr-card-blue {{
-            border-left: 4px solid {RR_BLUE};
-        }}
-        
-        .rr-card-gold {{
-            border-left: 4px solid {RR_GOLD};
-        }}
-
-        /* Section Headings */
-        h1, h2, h3 {{
-            color: {RR_WHITE};
+        /* Badges & Pills */
+        .badge {{
+            display: inline-flex;
+            align-items: center;
+            border-radius: 6px;
+            padding: 3px 10px;
+            font-size: 0.75rem;
             font-weight: 700;
+            letter-spacing: 0.02em;
         }}
+        .badge-blue {{ background-color: rgba(38, 152, 220, 0.12); color: {PRIMARY_BLUE}; border: 1px solid rgba(38, 152, 220, 0.25); }}
+        .badge-pink {{ background-color: rgba(232, 62, 140, 0.12); color: {ROYAL_PINK}; border: 1px solid rgba(232, 62, 140, 0.25); }}
+        .badge-purple {{ background-color: rgba(121, 80, 216, 0.12); color: {PURPLE}; border: 1px solid rgba(121, 80, 216, 0.25); }}
+        .badge-teal {{ background-color: rgba(22, 184, 166, 0.12); color: {TEAL}; border: 1px solid rgba(22, 184, 166, 0.25); }}
+        .badge-orange {{ background-color: rgba(245, 166, 35, 0.12); color: {ORANGE}; border: 1px solid rgba(245, 166, 35, 0.25); }}
         
-        .rr-badge-pink {{
-            background-color: rgba(217, 30, 91, 0.18);
-            color: {RR_PINK_LIGHT};
-            border: 1px solid {RR_PINK};
-            border-radius: 6px;
-            padding: 3px 8px;
-            font-size: 0.78rem;
-            font-weight: 600;
-            display: inline-block;
+        /* Custom Modern Tabs */
+        .stTabs [data-baseweb="tab-list"] {{
+            background-color: #EAEFF8;
+            padding: 4px;
+            border-radius: 10px;
+            gap: 4px;
         }}
-
-        .rr-badge-blue {{
-            background-color: rgba(30, 136, 229, 0.18);
-            color: {RR_BLUE_LIGHT};
-            border: 1px solid {RR_BLUE};
-            border-radius: 6px;
-            padding: 3px 8px;
-            font-size: 0.78rem;
+        .stTabs [data-baseweb="tab"] {{
+            background-color: transparent;
+            border-radius: 8px;
+            padding: 8px 18px;
+            color: {TEXT_SECONDARY};
             font-weight: 600;
-            display: inline-block;
+            border: none;
+            transition: all 0.2s ease;
         }}
-
-        .rr-badge-gold {{
-            background-color: rgba(245, 158, 11, 0.18);
-            color: {RR_GOLD};
-            border: 1px solid {RR_GOLD};
-            border-radius: 6px;
-            padding: 3px 8px;
-            font-size: 0.78rem;
-            font-weight: 600;
-            display: inline-block;
+        .stTabs [aria-selected="true"] {{
+            background-color: #FFFFFF !important;
+            color: {TEXT_PRIMARY} !important;
+            box-shadow: 0 2px 8px rgba(32, 43, 69, 0.08);
         }}
 
         /* Buttons */
         .stButton>button {{
-            background: linear-gradient(135deg, {RR_PINK} 0%, #ad1457 100%);
-            color: white;
+            background: linear-gradient(135deg, {PRIMARY_BLUE} 0%, #1a7ebc 100%);
+            color: #FFFFFF !important;
             border: none;
             border-radius: 8px;
             padding: 8px 18px;
             font-weight: 600;
+            box-shadow: 0 3px 10px rgba(38, 152, 220, 0.25);
             transition: all 0.2s ease;
         }}
         .stButton>button:hover {{
-            background: linear-gradient(135deg, {RR_PINK_LIGHT} 0%, {RR_PINK} 100%);
-            box-shadow: 0 4px 12px rgba(217, 30, 91, 0.4);
-            color: white;
-        }}
-
-        /* Download button styling */
-        .stDownloadButton>button {{
-            background: linear-gradient(135deg, #1e3a8a 0%, {RR_BLUE} 100%);
-            color: white;
-            border: none;
-            border-radius: 8px;
-            font-weight: 600;
-        }}
-        .stDownloadButton>button:hover {{
-            background: linear-gradient(135deg, {RR_BLUE} 0%, {RR_BLUE_LIGHT} 100%);
-            box-shadow: 0 4px 12px rgba(30, 136, 229, 0.4);
-            color: white;
+            background: linear-gradient(135deg, #3aa7e8 0%, {PRIMARY_BLUE} 100%);
+            box-shadow: 0 5px 16px rgba(38, 152, 220, 0.35);
+            transform: translateY(-1px);
         }}
         
-        /* Table styling */
-        div[data-testid="stDataFrame"] {{
-            border: 1px solid {RR_NAVY_BORDER};
+        /* Download Buttons */
+        .stDownloadButton>button {{
+            background: #FFFFFF !important;
+            color: {TEXT_PRIMARY} !important;
+            border: 1px solid {BORDER} !important;
             border-radius: 8px;
+            font-weight: 600;
+            box-shadow: 0 2px 6px rgba(32, 43, 69, 0.04);
+            transition: all 0.2s ease;
+        }}
+        .stDownloadButton>button:hover {{
+            border-color: {PRIMARY_BLUE} !important;
+            color: {PRIMARY_BLUE} !important;
+            background: #F8FAFC !important;
+            transform: translateY(-1px);
+        }}
+        
+        /* Table & DataFrames */
+        div[data-testid="stDataFrame"] {{
+            background-color: #FFFFFF !important;
+            border: 1px solid {BORDER} !important;
+            border-radius: 12px !important;
             overflow: hidden;
+            box-shadow: 0 2px 10px rgba(32, 43, 69, 0.03);
         }}
 
-        /* Tabs */
-        .stTabs [data-baseweb="tab-list"] {{
-            gap: 8px;
+        /* Input Elements */
+        .stTextInput>div>div>input {{
+            background-color: #FFFFFF;
+            border: 1px solid {BORDER};
+            border-radius: 8px;
+            color: {TEXT_PRIMARY};
         }}
-        .stTabs [data-baseweb="tab"] {{
-            background-color: {RR_NAVY_CARD};
-            border-radius: 6px 6px 0px 0px;
-            padding: 8px 16px;
-            border: 1px solid {RR_NAVY_BORDER};
-            color: {RR_MUTED};
+        .stSelectbox>div>div {{
+            background-color: #FFFFFF;
+            border: 1px solid {BORDER};
+            border-radius: 8px;
+            color: {TEXT_PRIMARY};
         }}
-        .stTabs [aria-selected="true"] {{
-            background-color: {RR_PINK} !important;
-            color: white !important;
-            border-color: {RR_PINK} !important;
+        
+        /* Metric widget styling */
+        div[data-testid="stMetricValue"] {{
+            color: {TEXT_PRIMARY} !important;
+            font-weight: 700 !important;
+        }}
+        div[data-testid="stMetricLabel"] {{
+            color: {TEXT_SECONDARY} !important;
+            font-weight: 600 !important;
         }}
     </style>
     """, unsafe_allow_html=True)
 
 
-def render_metric_card(title: str, value: str, subtitle: str = "", card_type: str = "pink"):
+def render_metric_card(title: str, value: str, subtitle: str = "", accent: str = "blue", icon: str = "📊"):
     """
-    Renders an HTML metric card with Rajasthan Royals design.
+    Renders a bright, modern SaaS KPI card with a colourful accent and icon.
     """
-    border_class = f"rr-card-{card_type}"
+    accent_map = {
+        'blue': ('card-accent-blue', 'rgba(38, 152, 220, 0.12)', PRIMARY_BLUE),
+        'pink': ('card-accent-pink', 'rgba(232, 62, 140, 0.12)', ROYAL_PINK),
+        'purple': ('card-accent-purple', 'rgba(121, 80, 216, 0.12)', PURPLE),
+        'teal': ('card-accent-teal', 'rgba(22, 184, 166, 0.12)', TEAL),
+        'orange': ('card-accent-orange', 'rgba(245, 166, 35, 0.12)', ORANGE)
+    }
+    
+    card_class, icon_bg, icon_color = accent_map.get(accent, ('card-accent-blue', 'rgba(38, 152, 220, 0.12)', PRIMARY_BLUE))
+    
     st.markdown(f"""
-    <div class="rr-card {border_class}">
-        <div class="rr-card-title">{title}</div>
-        <div class="rr-card-value">{value}</div>
-        <div class="rr-card-subtitle">{subtitle}</div>
+    <div class="saas-card {card_class}">
+        <div class="kpi-header">
+            <span class="kpi-title">{title}</span>
+            <div class="kpi-icon-wrap" style="background-color: {icon_bg}; color: {icon_color};">
+                {icon}
+            </div>
+        </div>
+        <div class="kpi-value">{value}</div>
+        <div class="kpi-subtitle">{subtitle}</div>
     </div>
     """, unsafe_allow_html=True)
 
 
 def create_top10_bar_chart(df: pd.DataFrame, is_batter: bool = True):
     """
-    Creates an interactive horizontal bar chart for the Top 10 PPI performers.
+    Creates an interactive horizontal bar chart for the Top 10 PPI performers in Light Mode.
     """
     player_col = 'striker_name' if is_batter else 'bowler_name'
     title = "Top 10 Batters — Pressure Performance Index (PPI)" if is_batter else "Top 10 Bowlers — Pressure Performance Index (PPI)"
-    color_scale = [[0, '#3b82f6'], [1, RR_PINK]] if is_batter else [[0, '#06b6d4'], [1, RR_BLUE]]
+    color_scale = [[0, '#ffd1e8'], [1, ROYAL_PINK]] if is_batter else [[0, '#c7e6fa'], [1, PRIMARY_BLUE]]
     
-    # Sort ascending for horizontal bar chart display
     plot_df = df.sort_values('ppi_score', ascending=True).copy()
     
     fig = px.bar(
@@ -262,29 +339,37 @@ def create_top10_bar_chart(df: pd.DataFrame, is_batter: bool = True):
         y=player_col,
         orientation='h',
         text='ppi_score',
-        title=title,
+        title=f"<b>{title}</b>",
         color='ppi_score',
         color_continuous_scale=color_scale,
-        labels={'ppi_score': 'PPI Score (40-100)', player_col: 'Player'}
+        labels={'ppi_score': 'PPI Score (40–100)', player_col: 'Player'}
     )
     
     fig.update_traces(
         texttemplate='%{text:.2f}',
         textposition='outside',
-        marker_line_width=1,
-        marker_line_color=RR_NAVY_BORDER,
-        hovertemplate="<b>%{y}</b><br>PPI Score: %{x:.2f}<extra></extra>"
+        marker=dict(line=dict(width=1, color="#FFFFFF")),
+        hovertemplate="<b>%{y}</b><br>PPI Score: <b>%{x:.2f}</b><extra></extra>"
     )
     
     fig.update_layout(
-        template="plotly_dark",
-        paper_bgcolor=RR_NAVY_CARD,
-        plot_bgcolor=RR_NAVY_CARD,
-        font=dict(color=RR_WHITE, family="Segoe UI, sans-serif"),
-        height=450,
-        margin=dict(l=20, r=40, t=50, b=30),
-        xaxis=dict(range=[35, 105], showgrid=True, gridcolor="#223048"),
-        yaxis=dict(showgrid=False),
+        template="plotly_white",
+        paper_bgcolor=CARD_BG,
+        plot_bgcolor=CARD_BG,
+        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, Segoe UI, sans-serif"),
+        height=460,
+        margin=dict(l=20, r=45, t=55, b=30),
+        xaxis=dict(
+            range=[35, 105], 
+            showgrid=True, 
+            gridcolor=BORDER,
+            zeroline=False,
+            tickfont=dict(color=TEXT_SECONDARY)
+        ),
+        yaxis=dict(
+            showgrid=False,
+            tickfont=dict(color=TEXT_PRIMARY, size=12)
+        ),
         coloraxis_showscale=False
     )
     
@@ -293,7 +378,7 @@ def create_top10_bar_chart(df: pd.DataFrame, is_batter: bool = True):
 
 def create_batter_scatter_chart(all_batters: pd.DataFrame, top10_batters: pd.DataFrame):
     """
-    Creates an interactive scatter plot: Delta SR vs Pressure Balls faced.
+    Creates an interactive scatter plot: Delta SR vs Pressure Balls faced in Light Mode.
     """
     df = all_batters.copy()
     top_ids = set(top10_batters['striker_id'])
@@ -315,36 +400,49 @@ def create_batter_scatter_chart(all_batters: pd.DataFrame, top10_batters: pd.Dat
             'group': False
         },
         color_discrete_map={
-            'Top 10 PPI Performer': RR_PINK_LIGHT,
-            'Other Eligible Batters': '#64748B'
+            'Top 10 PPI Performer': ROYAL_PINK,
+            'Other Eligible Batters': '#A0AEC0'
         },
         labels={
             'hp_balls': 'High-Pressure Balls Faced',
             'delta_sr': 'Δ Strike Rate (Pressure SR − Baseline SR)',
             'ppi_score': 'PPI Score'
         },
-        title="Batter Acceleration: Δ Strike Rate vs Sample Size (Bubble Size = PPI Score)"
+        title="<b>Batter Acceleration: Δ Strike Rate vs Sample Size (Bubble Size = PPI Score)</b>"
     )
     
-    # Add horizontal baseline line (delta = 0)
-    fig.add_hline(y=0, line_dash="dash", line_color="#94A3B8", annotation_text="Baseline Par (Δ SR = 0)", annotation_position="bottom right")
+    fig.add_hline(
+        y=0, 
+        line_dash="dash", 
+        line_color="#CBD5E1", 
+        annotation_text="Baseline Par (Δ SR = 0)", 
+        annotation_position="bottom right",
+        annotation_font=dict(color=TEXT_SECONDARY, size=11)
+    )
+    
+    fig.update_traces(
+        marker=dict(line=dict(width=1.5, color="#FFFFFF")),
+        opacity=0.88
+    )
     
     fig.update_layout(
-        template="plotly_dark",
-        paper_bgcolor=RR_NAVY_CARD,
-        plot_bgcolor=RR_NAVY_CARD,
-        font=dict(color=RR_WHITE, family="Segoe UI, sans-serif"),
+        template="plotly_white",
+        paper_bgcolor=CARD_BG,
+        plot_bgcolor=CARD_BG,
+        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, Segoe UI, sans-serif"),
         height=520,
-        margin=dict(l=20, r=20, t=50, b=30),
-        xaxis=dict(showgrid=True, gridcolor="#223048"),
-        yaxis=dict(showgrid=True, gridcolor="#223048"),
+        margin=dict(l=20, r=20, t=55, b=30),
+        xaxis=dict(showgrid=True, gridcolor=BORDER, tickfont=dict(color=TEXT_SECONDARY)),
+        yaxis=dict(showgrid=True, gridcolor=BORDER, tickfont=dict(color=TEXT_SECONDARY)),
         legend=dict(
             orientation="h",
             yanchor="bottom",
             y=1.02,
             xanchor="right",
             x=1,
-            bgcolor="rgba(21, 30, 51, 0.8)"
+            bgcolor="rgba(255, 255, 255, 0.9)",
+            bordercolor=BORDER,
+            borderwidth=1
         )
     )
     
@@ -353,7 +451,7 @@ def create_batter_scatter_chart(all_batters: pd.DataFrame, top10_batters: pd.Dat
 
 def create_bowler_scatter_chart(all_bowlers: pd.DataFrame, top10_bowlers: pd.DataFrame):
     """
-    Creates an interactive scatter plot: Delta Economy vs RSAE/ball.
+    Creates an interactive scatter plot: Delta Economy vs RSAE/ball in Light Mode.
     """
     df = all_bowlers.copy()
     top_ids = set(top10_bowlers['bowler_id'])
@@ -375,36 +473,50 @@ def create_bowler_scatter_chart(all_bowlers: pd.DataFrame, top10_bowlers: pd.Dat
             'group': False
         },
         color_discrete_map={
-            'Top 10 PPI Performer': RR_BLUE_LIGHT,
-            'Other Eligible Bowlers': '#64748B'
+            'Top 10 PPI Performer': PRIMARY_BLUE,
+            'Other Eligible Bowlers': '#A0AEC0'
         },
         labels={
             'rsae_per_ball': 'Runs Saved Above Expected / Ball (RSAE)',
             'delta_econ': 'Δ Economy Rate (Pressure Econ − Baseline Econ)',
             'ppi_score': 'PPI Score'
         },
-        title="Bowler Containment: Δ Economy vs RSAE/ball (Bubble Size = PPI Score)"
+        title="<b>Bowler Containment: Δ Economy vs RSAE/ball (Bubble Size = PPI Score)</b>"
     )
     
-    fig.add_hline(y=0, line_dash="dash", line_color="#94A3B8", annotation_text="Baseline Par (Δ Econ = 0)", annotation_position="top right")
-    fig.add_vline(x=0, line_dash="dash", line_color="#94A3B8")
+    fig.add_hline(
+        y=0, 
+        line_dash="dash", 
+        line_color="#CBD5E1", 
+        annotation_text="Baseline Par (Δ Econ = 0)", 
+        annotation_position="top right",
+        annotation_font=dict(color=TEXT_SECONDARY, size=11)
+    )
+    fig.add_vline(x=0, line_dash="dash", line_color="#CBD5E1")
+    
+    fig.update_traces(
+        marker=dict(line=dict(width=1.5, color="#FFFFFF")),
+        opacity=0.88
+    )
     
     fig.update_layout(
-        template="plotly_dark",
-        paper_bgcolor=RR_NAVY_CARD,
-        plot_bgcolor=RR_NAVY_CARD,
-        font=dict(color=RR_WHITE, family="Segoe UI, sans-serif"),
+        template="plotly_white",
+        paper_bgcolor=CARD_BG,
+        plot_bgcolor=CARD_BG,
+        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, Segoe UI, sans-serif"),
         height=520,
-        margin=dict(l=20, r=20, t=50, b=30),
-        xaxis=dict(showgrid=True, gridcolor="#223048"),
-        yaxis=dict(showgrid=True, gridcolor="#223048"),
+        margin=dict(l=20, r=20, t=55, b=30),
+        xaxis=dict(showgrid=True, gridcolor=BORDER, tickfont=dict(color=TEXT_SECONDARY)),
+        yaxis=dict(showgrid=True, gridcolor=BORDER, tickfont=dict(color=TEXT_SECONDARY)),
         legend=dict(
             orientation="h",
             yanchor="bottom",
             y=1.02,
             xanchor="right",
             x=1,
-            bgcolor="rgba(21, 30, 51, 0.8)"
+            bgcolor="rgba(255, 255, 255, 0.9)",
+            bordercolor=BORDER,
+            borderwidth=1
         )
     )
     
@@ -413,12 +525,10 @@ def create_bowler_scatter_chart(all_bowlers: pd.DataFrame, top10_bowlers: pd.Dat
 
 def create_player_radar_chart(player_row: pd.Series, is_batter: bool = True, benchmark_df: pd.DataFrame = None):
     """
-    Renders an interactive radar chart comparing a player's percentile rankings across 5 key metrics.
+    Renders an interactive radar chart comparing a player's percentile rankings in Light Mode.
     """
     if is_batter:
         categories = ['RVAE / Ball', 'Pressure SR', 'Δ Strike Rate', 'Dot Avoidance %', 'Consistency']
-        
-        # Calculate percentiles relative to all eligible batters
         vals = [
             (benchmark_df['rvae_per_ball'] <= player_row['rvae_per_ball']).mean() * 100 if benchmark_df is not None else 85,
             (benchmark_df['hp_sr'] <= player_row['hp_sr']).mean() * 100 if benchmark_df is not None else 80,
@@ -426,20 +536,20 @@ def create_player_radar_chart(player_row: pd.Series, is_batter: bool = True, ben
             (benchmark_df['hp_dot_avoid'] <= player_row['hp_dot_avoid']).mean() * 100 if benchmark_df is not None else 80,
             (benchmark_df['consistency'] <= player_row['consistency']).mean() * 100 if benchmark_df is not None else 85
         ]
-        color = RR_PINK
-        fill_color = "rgba(217, 30, 91, 0.35)"
+        color = ROYAL_PINK
+        fill_color = "rgba(232, 62, 140, 0.22)"
         name = player_row['striker_name']
     else:
         categories = ['RSAE / Ball', 'Econ Suppression', 'Dot Ball %', 'Wicket Threat', 'Consistency']
         vals = [
             (benchmark_df['rsae_per_ball'] <= player_row['rsae_per_ball']).mean() * 100 if benchmark_df is not None else 85,
-            (benchmark_df['delta_econ'] >= player_row['delta_econ']).mean() * 100 if benchmark_df is not None else 80, # lower econ is better
+            (benchmark_df['delta_econ'] >= player_row['delta_econ']).mean() * 100 if benchmark_df is not None else 80,
             (benchmark_df['hp_dot_pct'] <= player_row['hp_dot_pct']).mean() * 100 if benchmark_df is not None else 80,
             (benchmark_df['hp_wkt_rate'] <= player_row['hp_wkt_rate']).mean() * 100 if benchmark_df is not None else 75,
             (benchmark_df['consistency'] <= player_row['consistency']).mean() * 100 if benchmark_df is not None else 85
         ]
-        color = RR_BLUE
-        fill_color = "rgba(30, 136, 229, 0.35)"
+        color = PRIMARY_BLUE
+        fill_color = "rgba(38, 152, 220, 0.22)"
         name = player_row['bowler_name']
         
     fig = go.Figure()
@@ -449,8 +559,8 @@ def create_player_radar_chart(player_row: pd.Series, is_batter: bool = True, ben
         r=[50, 50, 50, 50, 50, 50],
         theta=categories + [categories[0]],
         fill='toself',
-        fillcolor="rgba(100, 116, 139, 0.15)",
-        line=dict(color="#64748B", dash="dash"),
+        fillcolor="rgba(203, 213, 225, 0.2)",
+        line=dict(color="#94A3B8", dash="dash", width=1.5),
         name="Tournament Median (50th %ile)"
     ))
 
@@ -460,22 +570,41 @@ def create_player_radar_chart(player_row: pd.Series, is_batter: bool = True, ben
         theta=categories + [categories[0]],
         fill='toself',
         fillcolor=fill_color,
-        line=dict(color=color, width=2.5),
+        line=dict(color=color, width=3),
         name=f"{name} (Percentiles)"
     ))
 
     fig.update_layout(
-        template="plotly_dark",
+        template="plotly_white",
         polar=dict(
-            radialaxis=dict(visible=True, range=[0, 100], showticklabels=True, tickfont=dict(size=10, color="#94A3B8")),
-            bgcolor=RR_NAVY_CARD
+            radialaxis=dict(
+                visible=True, 
+                range=[0, 100], 
+                showticklabels=True, 
+                tickfont=dict(size=10, color=TEXT_SECONDARY),
+                gridcolor=BORDER
+            ),
+            angularaxis=dict(
+                gridcolor=BORDER,
+                tickfont=dict(size=11, color=TEXT_PRIMARY, family="Plus Jakarta Sans, sans-serif")
+            ),
+            bgcolor="#FAFCFF"
         ),
-        paper_bgcolor=RR_NAVY_CARD,
-        plot_bgcolor=RR_NAVY_CARD,
-        font=dict(color=RR_WHITE, family="Segoe UI, sans-serif"),
-        height=380,
+        paper_bgcolor=CARD_BG,
+        plot_bgcolor=CARD_BG,
+        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, Segoe UI, sans-serif"),
+        height=390,
         margin=dict(l=35, r=35, t=30, b=30),
-        legend=dict(orientation="h", yanchor="bottom", y=-0.15, xanchor="center", x=0.5)
+        legend=dict(
+            orientation="h", 
+            yanchor="bottom", 
+            y=-0.18, 
+            xanchor="center", 
+            x=0.5,
+            bordercolor=BORDER,
+            borderwidth=1,
+            bgcolor="#FFFFFF"
+        )
     )
 
     return fig
@@ -483,11 +612,10 @@ def create_player_radar_chart(player_row: pd.Series, is_batter: bool = True, ben
 
 def create_sensitivity_plot(sens_df: pd.DataFrame, category: str = "Batter"):
     """
-    Renders an interactive sensitivity line chart across pressure thresholds 60, 65, and 70.
+    Renders an interactive sensitivity line chart in Light Mode.
     """
     df = sens_df[sens_df['category'] == category].copy()
     
-    # Pick Top 6 players from threshold 65 to track
     ref_players = df[df['threshold'] == 65].sort_values('rank').head(6)['player_name'].tolist()
     sub_df = df[df['player_name'].isin(ref_players)].copy()
     
@@ -497,24 +625,27 @@ def create_sensitivity_plot(sens_df: pd.DataFrame, category: str = "Batter"):
         y='rank',
         color='player_name',
         markers=True,
-        title=f"Threshold Sensitivity (60 vs 65 vs 70) — Top {category}s Rank Stability",
+        title=f"<b>Threshold Sensitivity (60 vs 65 vs 70) — Top {category}s Rank Stability</b>",
         labels={'threshold': 'High-Pressure Threshold Cutoff', 'rank': 'Rank Position', 'player_name': 'Player'},
-        color_discrete_sequence=px.colors.qualitative.Plotly
+        color_discrete_sequence=[ROYAL_PINK, PRIMARY_BLUE, PURPLE, TEAL, ORANGE, "#E11D48"]
     )
     
-    fig.update_yaxes(autorange="reversed", dtick=1)
-    fig.update_xaxes(tickvals=[60, 65, 70])
+    fig.update_traces(line=dict(width=2.5), marker=dict(size=8, line=dict(width=1.5, color="#FFFFFF")))
+    fig.update_yaxes(autorange="reversed", dtick=1, gridcolor=BORDER, tickfont=dict(color=TEXT_SECONDARY))
+    fig.update_xaxes(tickvals=[60, 65, 70], gridcolor=BORDER, tickfont=dict(color=TEXT_SECONDARY))
     
     fig.update_layout(
-        template="plotly_dark",
-        paper_bgcolor=RR_NAVY_CARD,
-        plot_bgcolor=RR_NAVY_CARD,
-        font=dict(color=RR_WHITE, family="Segoe UI, sans-serif"),
-        height=400,
-        margin=dict(l=20, r=20, t=50, b=30),
-        xaxis=dict(showgrid=True, gridcolor="#223048"),
-        yaxis=dict(showgrid=True, gridcolor="#223048"),
-        legend=dict(bgcolor="rgba(21, 30, 51, 0.8)")
+        template="plotly_white",
+        paper_bgcolor=CARD_BG,
+        plot_bgcolor=CARD_BG,
+        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, Segoe UI, sans-serif"),
+        height=410,
+        margin=dict(l=20, r=20, t=55, b=30),
+        legend=dict(
+            bgcolor="rgba(255, 255, 255, 0.95)",
+            bordercolor=BORDER,
+            borderwidth=1
+        )
     )
     
     return fig
