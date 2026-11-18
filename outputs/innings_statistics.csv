@@ -1,0 +1,1661 @@
+match_id,competition,season,innings_number,batting_team,bowling_team,total_runs,wickets_lost,legal_balls,overs,run_rate,target,runs_required,balls_remaining,wickets_remaining
+13511,England in West Indies T20I Series 2022,2022,1,England,West Indies,103,10,118,19.4,5.24,,,2,0
+13511,England in West Indies T20I Series 2022,2022,2,West Indies,England,104,1,103,17.1,6.06,104.0,0.0,17,9
+13512,England in West Indies T20I Series 2022,2022,1,England,West Indies,171,8,120,20.0,8.55,,,0,2
+13512,England in West Indies T20I Series 2022,2022,2,West Indies,England,170,8,120,20.0,8.5,172.0,2.0,0,2
+13513,England in West Indies T20I Series 2022,2022,1,West Indies,England,224,5,120,20.0,11.2,,,0,5
+13513,England in West Indies T20I Series 2022,2022,2,England,West Indies,204,9,120,20.0,10.2,225.0,21.0,0,1
+13514,England in West Indies T20I Series 2022,2022,1,England,West Indies,193,6,120,20.0,9.65,,,0,4
+13514,England in West Indies T20I Series 2022,2022,2,West Indies,England,159,5,120,20.0,7.95,194.0,35.0,0,5
+13515,England in West Indies T20I Series 2022,2022,1,West Indies,England,179,4,120,20.0,8.95,,,0,6
+13515,England in West Indies T20I Series 2022,2022,2,England,West Indies,162,10,119,19.5,8.17,180.0,18.0,1,0
+13522,West Indies in India T20I Series 2022,2022,1,West Indies,India,157,7,120,20.0,7.85,,,0,3
+13522,West Indies in India T20I Series 2022,2022,2,India,West Indies,162,4,113,18.5,8.6,158.0,0.0,7,6
+13523,West Indies in India T20I Series 2022,2022,1,India,West Indies,186,5,120,20.0,9.3,,,0,5
+13523,West Indies in India T20I Series 2022,2022,2,West Indies,India,178,3,120,20.0,8.9,187.0,9.0,0,7
+13524,West Indies in India T20I Series 2022,2022,1,India,West Indies,184,5,120,20.0,9.2,,,0,5
+13524,West Indies in India T20I Series 2022,2022,2,West Indies,India,167,9,120,20.0,8.35,185.0,18.0,0,1
+13612,Sri Lanka in Australia T20I Series 2022,2022,1,Australia,Sri Lanka,149,9,120,20.0,7.45,,,0,1
+13612,Sri Lanka in Australia T20I Series 2022,2022,2,Sri Lanka,Australia,122,8,114,19.0,6.42,143.0,21.0,0,2
+13613,Sri Lanka in Australia T20I Series 2022,2022,1,Australia,Sri Lanka,164,6,120,20.0,8.2,,,0,4
+13613,Sri Lanka in Australia T20I Series 2022,2022,2,Sri Lanka,Australia,164,8,120,20.0,8.2,165.0,1.0,0,2
+13614,Sri Lanka in Australia T20I Series 2022,2022,1,Sri Lanka,Australia,121,6,120,20.0,6.05,,,0,4
+13614,Sri Lanka in Australia T20I Series 2022,2022,2,Australia,Sri Lanka,124,4,101,16.5,7.37,122.0,0.0,19,6
+13615,Sri Lanka in Australia T20I Series 2022,2022,1,Sri Lanka,Australia,139,8,120,20.0,6.95,,,0,2
+13615,Sri Lanka in Australia T20I Series 2022,2022,2,Australia,Sri Lanka,143,4,109,18.1,7.87,140.0,0.0,11,6
+13616,Sri Lanka in Australia T20I Series 2022,2022,1,Australia,Sri Lanka,154,6,120,20.0,7.7,,,0,4
+13616,Sri Lanka in Australia T20I Series 2022,2022,2,Sri Lanka,Australia,155,5,119,19.5,7.82,155.0,0.0,1,5
+14094,IPL 2022,2022,1,Chennai Super Kings,Kolkata Knight Riders,131,5,120,20.0,6.55,,,0,5
+14094,IPL 2022,2022,2,Kolkata Knight Riders,Chennai Super Kings,133,4,111,18.3,7.19,132.0,0.0,9,6
+14095,IPL 2022,2022,1,Mumbai Indians,Delhi Capitals,177,5,120,20.0,8.85,,,0,5
+14095,IPL 2022,2022,2,Delhi Capitals,Mumbai Indians,179,6,110,18.2,9.76,178.0,0.0,10,4
+14096,IPL 2022,2022,1,Royal Challengers Bengaluru,Punjab Kings,205,2,120,20.0,10.25,,,0,8
+14096,IPL 2022,2022,2,Punjab Kings,Royal Challengers Bengaluru,208,5,114,19.0,10.95,206.0,0.0,6,5
+14097,IPL 2022,2022,1,Lucknow Super Giants,Gujarat Titans,158,6,120,20.0,7.9,,,0,4
+14097,IPL 2022,2022,2,Gujarat Titans,Lucknow Super Giants,161,5,118,19.4,8.19,159.0,0.0,2,5
+14098,IPL 2022,2022,1,Rajasthan Royals,Sunrisers Hyderabad,210,6,120,20.0,10.5,,,0,4
+14098,IPL 2022,2022,2,Sunrisers Hyderabad,Rajasthan Royals,149,7,120,20.0,7.45,211.0,62.0,0,3
+14099,IPL 2022,2022,1,Kolkata Knight Riders,Royal Challengers Bengaluru,128,10,113,18.5,6.8,,,7,0
+14099,IPL 2022,2022,2,Royal Challengers Bengaluru,Kolkata Knight Riders,132,7,116,19.2,6.83,129.0,0.0,4,3
+14100,IPL 2022,2022,1,Chennai Super Kings,Lucknow Super Giants,210,7,120,20.0,10.5,,,0,3
+14100,IPL 2022,2022,2,Lucknow Super Giants,Chennai Super Kings,211,4,117,19.3,10.82,211.0,0.0,3,6
+14101,IPL 2022,2022,1,Punjab Kings,Kolkata Knight Riders,137,10,110,18.2,7.47,,,10,0
+14101,IPL 2022,2022,2,Kolkata Knight Riders,Punjab Kings,141,4,87,14.3,9.72,138.0,0.0,33,6
+14102,IPL 2022,2022,1,Rajasthan Royals,Mumbai Indians,193,8,120,20.0,9.65,,,0,2
+14102,IPL 2022,2022,2,Mumbai Indians,Rajasthan Royals,170,8,120,20.0,8.5,194.0,24.0,0,2
+14103,IPL 2022,2022,1,Gujarat Titans,Delhi Capitals,171,6,120,20.0,8.55,,,0,4
+14103,IPL 2022,2022,2,Delhi Capitals,Gujarat Titans,157,9,120,20.0,7.85,172.0,15.0,0,1
+14104,IPL 2022,2022,1,Punjab Kings,Chennai Super Kings,180,8,120,20.0,9.0,,,0,2
+14104,IPL 2022,2022,2,Chennai Super Kings,Punjab Kings,126,10,108,18.0,7.0,181.0,55.0,12,0
+14105,IPL 2022,2022,1,Lucknow Super Giants,Sunrisers Hyderabad,169,7,120,20.0,8.45,,,0,3
+14105,IPL 2022,2022,2,Sunrisers Hyderabad,Lucknow Super Giants,157,9,120,20.0,7.85,170.0,13.0,0,1
+14106,IPL 2022,2022,1,Rajasthan Royals,Royal Challengers Bengaluru,169,3,120,20.0,8.45,,,0,7
+14106,IPL 2022,2022,2,Royal Challengers Bengaluru,Rajasthan Royals,173,6,115,19.1,9.03,170.0,0.0,5,4
+14107,IPL 2022,2022,1,Mumbai Indians,Kolkata Knight Riders,161,4,120,20.0,8.05,,,0,6
+14107,IPL 2022,2022,2,Kolkata Knight Riders,Mumbai Indians,162,5,96,16.0,10.12,162.0,0.0,24,5
+14108,IPL 2022,2022,1,Delhi Capitals,Lucknow Super Giants,149,3,120,20.0,7.45,,,0,7
+14108,IPL 2022,2022,2,Lucknow Super Giants,Delhi Capitals,155,4,118,19.4,7.88,150.0,0.0,2,6
+14109,IPL 2022,2022,1,Punjab Kings,Gujarat Titans,189,9,120,20.0,9.45,,,0,1
+14109,IPL 2022,2022,2,Gujarat Titans,Punjab Kings,190,4,120,20.0,9.5,190.0,0.0,0,6
+14110,IPL 2022,2022,1,Chennai Super Kings,Sunrisers Hyderabad,154,7,120,20.0,7.7,,,0,3
+14110,IPL 2022,2022,2,Sunrisers Hyderabad,Chennai Super Kings,155,2,106,17.4,8.77,155.0,0.0,14,8
+14111,IPL 2022,2022,1,Mumbai Indians,Royal Challengers Bengaluru,151,6,120,20.0,7.55,,,0,4
+14111,IPL 2022,2022,2,Royal Challengers Bengaluru,Mumbai Indians,152,3,111,18.3,8.22,152.0,0.0,9,7
+14112,IPL 2022,2022,1,Delhi Capitals,Kolkata Knight Riders,215,5,120,20.0,10.75,,,0,5
+14112,IPL 2022,2022,2,Kolkata Knight Riders,Delhi Capitals,171,10,118,19.4,8.69,216.0,45.0,2,0
+14113,IPL 2022,2022,1,Rajasthan Royals,Lucknow Super Giants,165,6,120,20.0,8.25,,,0,4
+14113,IPL 2022,2022,2,Lucknow Super Giants,Rajasthan Royals,162,8,120,20.0,8.1,166.0,4.0,0,2
+14114,IPL 2022,2022,1,Gujarat Titans,Sunrisers Hyderabad,162,7,120,20.0,8.1,,,0,3
+14114,IPL 2022,2022,2,Sunrisers Hyderabad,Gujarat Titans,168,2,115,19.1,8.77,163.0,0.0,5,8
+14115,IPL 2022,2022,1,Chennai Super Kings,Royal Challengers Bengaluru,216,4,120,20.0,10.8,,,0,6
+14115,IPL 2022,2022,2,Royal Challengers Bengaluru,Chennai Super Kings,193,9,120,20.0,9.65,217.0,24.0,0,1
+14116,IPL 2022,2022,1,Punjab Kings,Mumbai Indians,198,5,120,20.0,9.9,,,0,5
+14116,IPL 2022,2022,2,Mumbai Indians,Punjab Kings,186,9,120,20.0,9.3,199.0,13.0,0,1
+14117,IPL 2022,2022,1,Gujarat Titans,Rajasthan Royals,192,4,120,20.0,9.6,,,0,6
+14117,IPL 2022,2022,2,Rajasthan Royals,Gujarat Titans,155,9,120,20.0,7.75,193.0,38.0,0,1
+14118,IPL 2022,2022,1,Kolkata Knight Riders,Sunrisers Hyderabad,175,8,120,20.0,8.75,,,0,2
+14118,IPL 2022,2022,2,Sunrisers Hyderabad,Kolkata Knight Riders,176,3,107,17.5,9.87,176.0,0.0,13,7
+14119,IPL 2022,2022,1,Lucknow Super Giants,Mumbai Indians,199,4,120,20.0,9.95,,,0,6
+14119,IPL 2022,2022,2,Mumbai Indians,Lucknow Super Giants,181,9,120,20.0,9.05,200.0,19.0,0,1
+14120,IPL 2022,2022,1,Royal Challengers Bengaluru,Delhi Capitals,189,5,120,20.0,9.45,,,0,5
+14120,IPL 2022,2022,2,Delhi Capitals,Royal Challengers Bengaluru,173,7,120,20.0,8.65,190.0,17.0,0,3
+14121,IPL 2022,2022,1,Punjab Kings,Sunrisers Hyderabad,151,10,120,20.0,7.55,,,0,0
+14121,IPL 2022,2022,2,Sunrisers Hyderabad,Punjab Kings,152,3,113,18.5,8.07,152.0,0.0,7,7
+14122,IPL 2022,2022,1,Chennai Super Kings,Gujarat Titans,169,5,120,20.0,8.45,,,0,5
+14122,IPL 2022,2022,2,Gujarat Titans,Chennai Super Kings,170,7,119,19.5,8.57,170.0,0.0,1,3
+14123,IPL 2022,2022,1,Rajasthan Royals,Kolkata Knight Riders,217,5,120,20.0,10.85,,,0,5
+14123,IPL 2022,2022,2,Kolkata Knight Riders,Rajasthan Royals,210,10,118,19.4,10.68,218.0,8.0,2,0
+14124,IPL 2022,2022,1,Royal Challengers Bengaluru,Lucknow Super Giants,181,6,120,20.0,9.05,,,0,4
+14124,IPL 2022,2022,2,Lucknow Super Giants,Royal Challengers Bengaluru,163,8,120,20.0,8.15,182.0,19.0,0,2
+14125,IPL 2022,2022,1,Punjab Kings,Delhi Capitals,115,10,120,20.0,5.75,,,0,0
+14125,IPL 2022,2022,2,Delhi Capitals,Punjab Kings,119,1,63,10.3,11.33,116.0,0.0,57,9
+14126,IPL 2022,2022,1,Mumbai Indians,Chennai Super Kings,155,7,120,20.0,7.75,,,0,3
+14126,IPL 2022,2022,2,Chennai Super Kings,Mumbai Indians,156,7,120,20.0,7.8,156.0,0.0,0,3
+14127,IPL 2022,2022,1,Rajasthan Royals,Delhi Capitals,222,2,120,20.0,11.1,,,0,8
+14127,IPL 2022,2022,2,Delhi Capitals,Rajasthan Royals,207,8,120,20.0,10.35,223.0,16.0,0,2
+14128,IPL 2022,2022,1,Gujarat Titans,Kolkata Knight Riders,156,9,120,20.0,7.8,,,0,1
+14128,IPL 2022,2022,2,Kolkata Knight Riders,Gujarat Titans,148,8,120,20.0,7.4,157.0,9.0,0,2
+14129,IPL 2022,2022,1,Royal Challengers Bengaluru,Sunrisers Hyderabad,68,10,97,16.1,4.21,,,23,0
+14129,IPL 2022,2022,2,Sunrisers Hyderabad,Royal Challengers Bengaluru,72,1,48,8.0,9.0,69.0,0.0,72,9
+14130,IPL 2022,2022,1,Lucknow Super Giants,Mumbai Indians,167,6,119,19.5,8.42,,,1,4
+14130,IPL 2022,2022,2,Mumbai Indians,Lucknow Super Giants,130,8,119,19.5,6.55,168.0,38.0,1,2
+14131,IPL 2022,2022,1,Punjab Kings,Chennai Super Kings,187,4,120,20.0,9.35,,,0,6
+14131,IPL 2022,2022,2,Chennai Super Kings,Punjab Kings,176,6,120,20.0,8.8,188.0,12.0,0,4
+14132,IPL 2022,2022,1,Rajasthan Royals,Royal Challengers Bengaluru,144,8,120,20.0,7.2,,,0,2
+14132,IPL 2022,2022,2,Royal Challengers Bengaluru,Rajasthan Royals,115,10,117,19.3,5.9,145.0,30.0,3,0
+14133,IPL 2022,2022,1,Sunrisers Hyderabad,Gujarat Titans,195,6,120,20.0,9.75,,,0,4
+14133,IPL 2022,2022,2,Gujarat Titans,Sunrisers Hyderabad,199,5,120,20.0,9.95,196.0,0.0,0,5
+14134,IPL 2022,2022,1,Kolkata Knight Riders,Delhi Capitals,146,9,120,20.0,7.3,,,0,1
+14134,IPL 2022,2022,2,Delhi Capitals,Kolkata Knight Riders,150,6,114,19.0,7.89,147.0,0.0,6,4
+14135,IPL 2022,2022,1,Lucknow Super Giants,Punjab Kings,153,8,120,20.0,7.65,,,0,2
+14135,IPL 2022,2022,2,Punjab Kings,Lucknow Super Giants,133,8,120,20.0,6.65,154.0,21.0,0,2
+14136,IPL 2022,2022,1,Royal Challengers Bengaluru,Gujarat Titans,170,6,120,20.0,8.5,,,0,4
+14136,IPL 2022,2022,2,Gujarat Titans,Royal Challengers Bengaluru,174,4,117,19.3,8.92,171.0,0.0,3,6
+14137,IPL 2022,2022,1,Rajasthan Royals,Mumbai Indians,158,6,120,20.0,7.9,,,0,4
+14137,IPL 2022,2022,2,Mumbai Indians,Rajasthan Royals,161,5,116,19.2,8.33,159.0,0.0,4,5
+14139,IPL 2022,2022,1,Lucknow Super Giants,Delhi Capitals,195,3,120,20.0,9.75,,,0,7
+14139,IPL 2022,2022,2,Delhi Capitals,Lucknow Super Giants,189,7,120,20.0,9.45,196.0,7.0,0,3
+14140,IPL 2022,2022,1,Chennai Super Kings,Sunrisers Hyderabad,202,2,120,20.0,10.1,,,0,8
+14140,IPL 2022,2022,2,Sunrisers Hyderabad,Chennai Super Kings,189,6,120,20.0,9.45,203.0,14.0,0,4
+14141,IPL 2022,2022,1,Rajasthan Royals,Kolkata Knight Riders,152,5,120,20.0,7.6,,,0,5
+14141,IPL 2022,2022,2,Kolkata Knight Riders,Rajasthan Royals,158,3,115,19.1,8.24,153.0,0.0,5,7
+14142,IPL 2022,2022,1,Gujarat Titans,Punjab Kings,143,8,120,20.0,7.15,,,0,2
+14142,IPL 2022,2022,2,Punjab Kings,Gujarat Titans,145,2,96,16.0,9.06,144.0,0.0,24,8
+14143,IPL 2022,2022,1,Royal Challengers Bengaluru,Chennai Super Kings,173,8,120,20.0,8.65,,,0,2
+14143,IPL 2022,2022,2,Chennai Super Kings,Royal Challengers Bengaluru,160,8,120,20.0,8.0,174.0,14.0,0,2
+14144,IPL 2022,2022,1,Delhi Capitals,Sunrisers Hyderabad,207,3,120,20.0,10.35,,,0,7
+14144,IPL 2022,2022,2,Sunrisers Hyderabad,Delhi Capitals,186,8,120,20.0,9.3,208.0,22.0,0,2
+14145,IPL 2022,2022,1,Mumbai Indians,Gujarat Titans,177,6,120,20.0,8.85,,,0,4
+14145,IPL 2022,2022,2,Gujarat Titans,Mumbai Indians,172,5,120,20.0,8.6,178.0,6.0,0,5
+14146,IPL 2022,2022,1,Punjab Kings,Rajasthan Royals,189,5,120,20.0,9.45,,,0,5
+14146,IPL 2022,2022,2,Rajasthan Royals,Punjab Kings,190,4,118,19.4,9.66,190.0,0.0,2,6
+14147,IPL 2022,2022,1,Lucknow Super Giants,Kolkata Knight Riders,176,7,120,20.0,8.8,,,0,3
+14147,IPL 2022,2022,2,Kolkata Knight Riders,Lucknow Super Giants,101,10,87,14.3,6.97,177.0,76.0,33,0
+14148,IPL 2022,2022,1,Royal Challengers Bengaluru,Sunrisers Hyderabad,192,3,120,20.0,9.6,,,0,7
+14148,IPL 2022,2022,2,Sunrisers Hyderabad,Royal Challengers Bengaluru,125,10,116,19.2,6.47,193.0,68.0,4,0
+14149,IPL 2022,2022,1,Chennai Super Kings,Delhi Capitals,208,6,120,20.0,10.4,,,0,4
+14149,IPL 2022,2022,2,Delhi Capitals,Chennai Super Kings,117,10,106,17.4,6.62,209.0,92.0,14,0
+14150,IPL 2022,2022,1,Kolkata Knight Riders,Mumbai Indians,165,9,120,20.0,8.25,,,0,1
+14150,IPL 2022,2022,2,Mumbai Indians,Kolkata Knight Riders,113,10,105,17.3,6.46,166.0,53.0,15,0
+14151,IPL 2022,2022,1,Gujarat Titans,Lucknow Super Giants,144,4,120,20.0,7.2,,,0,6
+14151,IPL 2022,2022,2,Lucknow Super Giants,Gujarat Titans,82,10,83,13.5,5.93,145.0,63.0,37,0
+14152,IPL 2022,2022,1,Rajasthan Royals,Delhi Capitals,160,6,120,20.0,8.0,,,0,4
+14152,IPL 2022,2022,2,Delhi Capitals,Rajasthan Royals,161,2,109,18.1,8.86,161.0,0.0,11,8
+14153,IPL 2022,2022,1,Chennai Super Kings,Mumbai Indians,97,10,96,16.0,6.06,,,24,0
+14153,IPL 2022,2022,2,Mumbai Indians,Chennai Super Kings,103,5,89,14.5,6.94,98.0,0.0,31,5
+14154,IPL 2022,2022,1,Punjab Kings,Royal Challengers Bengaluru,209,9,120,20.0,10.45,,,0,1
+14154,IPL 2022,2022,2,Royal Challengers Bengaluru,Punjab Kings,155,9,120,20.0,7.75,210.0,55.0,0,1
+14155,IPL 2022,2022,1,Kolkata Knight Riders,Sunrisers Hyderabad,177,6,120,20.0,8.85,,,0,4
+14155,IPL 2022,2022,2,Sunrisers Hyderabad,Kolkata Knight Riders,123,8,120,20.0,6.15,178.0,55.0,0,2
+14156,IPL 2022,2022,1,Chennai Super Kings,Gujarat Titans,133,5,120,20.0,6.65,,,0,5
+14156,IPL 2022,2022,2,Gujarat Titans,Chennai Super Kings,137,3,115,19.1,7.15,134.0,0.0,5,7
+14157,IPL 2022,2022,1,Rajasthan Royals,Lucknow Super Giants,178,6,120,20.0,8.9,,,0,4
+14157,IPL 2022,2022,2,Lucknow Super Giants,Rajasthan Royals,154,8,120,20.0,7.7,179.0,25.0,0,2
+14158,IPL 2022,2022,1,Delhi Capitals,Punjab Kings,159,7,120,20.0,7.95,,,0,3
+14158,IPL 2022,2022,2,Punjab Kings,Delhi Capitals,142,9,120,20.0,7.1,160.0,18.0,0,1
+14159,IPL 2022,2022,1,Sunrisers Hyderabad,Mumbai Indians,193,6,120,20.0,9.65,,,0,4
+14159,IPL 2022,2022,2,Mumbai Indians,Sunrisers Hyderabad,190,7,120,20.0,9.5,194.0,4.0,0,3
+14160,IPL 2022,2022,1,Lucknow Super Giants,Kolkata Knight Riders,210,0,120,20.0,10.5,,,0,10
+14160,IPL 2022,2022,2,Kolkata Knight Riders,Lucknow Super Giants,208,8,120,20.0,10.4,211.0,3.0,0,2
+14161,IPL 2022,2022,1,Gujarat Titans,Royal Challengers Bengaluru,168,5,120,20.0,8.4,,,0,5
+14161,IPL 2022,2022,2,Royal Challengers Bengaluru,Gujarat Titans,170,2,112,18.4,9.11,169.0,0.0,8,8
+14162,IPL 2022,2022,1,Chennai Super Kings,Rajasthan Royals,150,6,120,20.0,7.5,,,0,4
+14162,IPL 2022,2022,2,Rajasthan Royals,Chennai Super Kings,151,5,118,19.4,7.68,151.0,0.0,2,5
+14163,IPL 2022,2022,1,Delhi Capitals,Mumbai Indians,159,7,120,20.0,7.95,,,0,3
+14163,IPL 2022,2022,2,Mumbai Indians,Delhi Capitals,160,5,115,19.1,8.35,160.0,0.0,5,5
+14164,IPL 2022,2022,1,Sunrisers Hyderabad,Punjab Kings,156,8,119,19.5,7.87,,,1,2
+14164,IPL 2022,2022,2,Punjab Kings,Sunrisers Hyderabad,160,5,91,15.1,10.55,157.0,0.0,29,5
+15187,IPL 2022,2022,1,Rajasthan Royals,Gujarat Titans,188,6,120,20.0,9.4,,,0,4
+15187,IPL 2022,2022,2,Gujarat Titans,Rajasthan Royals,191,3,117,19.3,9.79,189.0,0.0,3,7
+15188,IPL 2022,2022,1,Royal Challengers Bengaluru,Lucknow Super Giants,207,4,120,20.0,10.35,,,0,6
+15188,IPL 2022,2022,2,Lucknow Super Giants,Royal Challengers Bengaluru,193,6,120,20.0,9.65,208.0,15.0,0,4
+15189,IPL 2022,2022,1,Royal Challengers Bengaluru,Rajasthan Royals,157,8,120,20.0,7.85,,,0,2
+15189,IPL 2022,2022,2,Rajasthan Royals,Royal Challengers Bengaluru,161,3,109,18.1,8.86,158.0,0.0,11,7
+15190,IPL 2022,2022,1,Rajasthan Royals,Gujarat Titans,130,9,120,20.0,6.5,,,0,1
+15190,IPL 2022,2022,2,Gujarat Titans,Rajasthan Royals,133,3,109,18.1,7.32,131.0,0.0,11,7
+15406,South Africa in India T20I Series 2022,2022,1,India,South Africa,211,4,120,20.0,10.55,,,0,6
+15406,South Africa in India T20I Series 2022,2022,2,South Africa,India,212,3,115,19.1,11.06,212.0,0.0,5,7
+15407,South Africa in India T20I Series 2022,2022,1,India,South Africa,148,6,120,20.0,7.4,,,0,4
+15407,South Africa in India T20I Series 2022,2022,2,South Africa,India,149,6,110,18.2,8.13,149.0,0.0,10,4
+15408,South Africa in India T20I Series 2022,2022,1,India,South Africa,179,5,120,20.0,8.95,,,0,5
+15408,South Africa in India T20I Series 2022,2022,2,South Africa,India,131,10,115,19.1,6.83,180.0,49.0,5,0
+15409,South Africa in India T20I Series 2022,2022,1,India,South Africa,169,6,120,20.0,8.45,,,0,4
+15409,South Africa in India T20I Series 2022,2022,2,South Africa,India,87,9,101,16.5,5.17,170.0,83.0,19,1
+15410,South Africa in India T20I Series 2022,2022,1,India,South Africa,28,2,21,3.3,8.0,,,93,8
+15458,Australia in Sri Lanka T20I Series 2022,2022,1,Sri Lanka,Australia,128,10,117,19.3,6.56,,,3,0
+15458,Australia in Sri Lanka T20I Series 2022,2022,2,Australia,Sri Lanka,134,0,84,14.0,9.57,129.0,0.0,36,10
+15459,Australia in Sri Lanka T20I Series 2022,2022,1,Sri Lanka,Australia,124,9,120,20.0,6.2,,,0,1
+15459,Australia in Sri Lanka T20I Series 2022,2022,2,Australia,Sri Lanka,126,7,107,17.5,7.07,125.0,0.0,13,3
+15460,Australia in Sri Lanka T20I Series 2022,2022,1,Australia,Sri Lanka,176,5,120,20.0,8.8,,,0,5
+15460,Australia in Sri Lanka T20I Series 2022,2022,2,Sri Lanka,Australia,177,6,119,19.5,8.92,177.0,0.0,1,4
+15546,Bangladesh in West Indies T20I Series 2022,2022,1,Bangladesh,West Indies,105,8,78,13.0,8.08,,,6,2
+15547,Bangladesh in West Indies T20I Series 2022,2022,1,West Indies,Bangladesh,193,5,120,20.0,9.65,,,0,5
+15547,Bangladesh in West Indies T20I Series 2022,2022,2,Bangladesh,West Indies,158,6,120,20.0,7.9,194.0,36.0,0,4
+15548,Bangladesh in West Indies T20I Series 2022,2022,1,Bangladesh,West Indies,163,5,120,20.0,8.15,,,0,5
+15548,Bangladesh in West Indies T20I Series 2022,2022,2,West Indies,Bangladesh,169,5,110,18.2,9.22,164.0,0.0,10,5
+15609,Afghanistan in Zimbabwe T20I Series 2022,2022,1,Zimbabwe,Afghanistan,159,8,120,20.0,7.95,,,0,2
+15609,Afghanistan in Zimbabwe T20I Series 2022,2022,2,Afghanistan,Zimbabwe,160,4,116,19.2,8.28,160.0,0.0,4,6
+15610,Afghanistan in Zimbabwe T20I Series 2022,2022,1,Afghanistan,Zimbabwe,170,5,120,20.0,8.5,,,0,5
+15610,Afghanistan in Zimbabwe T20I Series 2022,2022,2,Zimbabwe,Afghanistan,149,7,120,20.0,7.45,171.0,22.0,0,3
+15611,Afghanistan in Zimbabwe T20I Series 2022,2022,1,Afghanistan,Zimbabwe,125,8,120,20.0,6.25,,,0,2
+15611,Afghanistan in Zimbabwe T20I Series 2022,2022,2,Zimbabwe,Afghanistan,90,9,120,20.0,4.5,126.0,36.0,0,1
+15795,India in Ireland T20I Series 2022,2022,1,Ireland,India,108,4,72,12.0,9.0,,,48,6
+15795,India in Ireland T20I Series 2022,2022,2,India,Ireland,111,3,56,9.2,11.89,109.0,0.0,64,7
+15796,India in Ireland T20I Series 2022,2022,1,India,Ireland,225,7,120,20.0,11.25,,,0,3
+15796,India in Ireland T20I Series 2022,2022,2,Ireland,India,221,5,120,20.0,11.05,226.0,5.0,0,5
+16040,India in England T20I Series 2022,2022,1,India,England,198,8,120,20.0,9.9,,,0,2
+16040,India in England T20I Series 2022,2022,2,England,India,148,10,117,19.3,7.59,199.0,51.0,3,0
+16041,India in England T20I Series 2022,2022,1,India,England,170,8,120,20.0,8.5,,,0,2
+16041,India in England T20I Series 2022,2022,2,England,India,121,10,102,17.0,7.12,171.0,50.0,18,0
+16042,India in England T20I Series 2022,2022,1,England,India,215,7,120,20.0,10.75,,,0,3
+16042,India in England T20I Series 2022,2022,2,India,England,198,9,120,20.0,9.9,216.0,18.0,0,1
+16062,India in West Indies T20I Series 2022,2022,1,India,West Indies,190,6,120,20.0,9.5,,,0,4
+16062,India in West Indies T20I Series 2022,2022,2,West Indies,India,122,8,120,20.0,6.1,191.0,69.0,0,2
+16063,India in West Indies T20I Series 2022,2022,1,India,West Indies,138,10,118,19.4,7.02,,,2,0
+16063,India in West Indies T20I Series 2022,2022,2,West Indies,India,141,5,116,19.2,7.29,139.0,0.0,4,5
+16064,India in West Indies T20I Series 2022,2022,1,West Indies,India,164,5,120,20.0,8.2,,,0,5
+16064,India in West Indies T20I Series 2022,2022,2,India,West Indies,165,3,114,19.0,8.68,165.0,0.0,6,7
+16065,India in West Indies T20I Series 2022,2022,1,India,West Indies,191,5,120,20.0,9.55,,,0,5
+16065,India in West Indies T20I Series 2022,2022,2,West Indies,India,132,10,115,19.1,6.89,192.0,60.0,5,0
+16066,India in West Indies T20I Series 2022,2022,1,India,West Indies,188,7,120,20.0,9.4,,,0,3
+16066,India in West Indies T20I Series 2022,2022,2,West Indies,India,100,10,94,15.4,6.38,189.0,89.0,26,0
+16258,New Zealand in Ireland T20I Series 2022,2022,1,New Zealand,Ireland,173,8,120,20.0,8.65,,,0,2
+16258,New Zealand in Ireland T20I Series 2022,2022,2,Ireland,New Zealand,142,10,110,18.2,7.75,174.0,32.0,10,0
+16259,New Zealand in Ireland T20I Series 2022,2022,1,New Zealand,Ireland,179,4,120,20.0,8.95,,,0,6
+16259,New Zealand in Ireland T20I Series 2022,2022,2,Ireland,New Zealand,91,10,83,13.5,6.58,180.0,89.0,37,0
+16260,New Zealand in Ireland T20I Series 2022,2022,1,Ireland,New Zealand,174,6,120,20.0,8.7,,,0,4
+16260,New Zealand in Ireland T20I Series 2022,2022,2,New Zealand,Ireland,180,4,114,19.0,9.47,175.0,0.0,6,6
+16315,South Africa in England T20I Series 2022,2022,1,England,South Africa,234,6,120,20.0,11.7,,,0,4
+16315,South Africa in England T20I Series 2022,2022,2,South Africa,England,193,8,120,20.0,9.65,235.0,42.0,0,2
+16316,South Africa in England T20I Series 2022,2022,1,South Africa,England,207,3,120,20.0,10.35,,,0,7
+16316,South Africa in England T20I Series 2022,2022,2,England,South Africa,149,10,100,16.4,8.94,208.0,59.0,20,0
+16317,South Africa in England T20I Series 2022,2022,1,South Africa,England,191,5,120,20.0,9.55,,,0,5
+16317,South Africa in England T20I Series 2022,2022,2,England,South Africa,101,10,100,16.4,6.06,192.0,91.0,20,0
+16424,Bangladesh in Zimbabwe T20I Series 2022,2022,1,Zimbabwe,Bangladesh,205,3,120,20.0,10.25,,,0,7
+16424,Bangladesh in Zimbabwe T20I Series 2022,2022,2,Bangladesh,Zimbabwe,188,6,120,20.0,9.4,206.0,18.0,0,4
+16425,Bangladesh in Zimbabwe T20I Series 2022,2022,1,Zimbabwe,Bangladesh,135,8,120,20.0,6.75,,,0,2
+16425,Bangladesh in Zimbabwe T20I Series 2022,2022,2,Bangladesh,Zimbabwe,136,3,105,17.3,7.77,136.0,0.0,15,7
+16426,Bangladesh in Zimbabwe T20I Series 2022,2022,1,Zimbabwe,Bangladesh,156,8,120,20.0,7.8,,,0,2
+16426,Bangladesh in Zimbabwe T20I Series 2022,2022,2,Bangladesh,Zimbabwe,146,8,120,20.0,7.3,157.0,11.0,0,2
+16646,South Africa vs Ireland T20I Series 2022,2022,1,South Africa,Ireland,211,5,120,20.0,10.55,,,0,5
+16646,South Africa vs Ireland T20I Series 2022,2022,2,Ireland,South Africa,190,9,120,20.0,9.5,212.0,22.0,0,1
+16647,South Africa vs Ireland T20I Series 2022,2022,1,South Africa,Ireland,182,6,120,20.0,9.1,,,0,4
+16647,South Africa vs Ireland T20I Series 2022,2022,2,Ireland,South Africa,138,10,113,18.5,7.33,183.0,45.0,7,0
+16653,Mens Twenty20 Asia Cup 2022,2022,1,Sri Lanka,Afghanistan,105,10,118,19.4,5.34,,,2,0
+16653,Mens Twenty20 Asia Cup 2022,2022,2,Afghanistan,Sri Lanka,106,2,61,10.1,10.43,106.0,0.0,59,8
+16654,Mens Twenty20 Asia Cup 2022,2022,1,Pakistan,India,147,10,119,19.5,7.41,,,1,0
+16654,Mens Twenty20 Asia Cup 2022,2022,2,India,Pakistan,148,5,118,19.4,7.53,148.0,0.0,2,5
+16655,Mens Twenty20 Asia Cup 2022,2022,1,Bangladesh,Afghanistan,127,7,120,20.0,6.35,,,0,3
+16655,Mens Twenty20 Asia Cup 2022,2022,2,Afghanistan,Bangladesh,131,3,111,18.3,7.08,128.0,0.0,9,7
+16656,Mens Twenty20 Asia Cup 2022,2022,1,India,Hong Kong,192,2,120,20.0,9.6,,,0,8
+16656,Mens Twenty20 Asia Cup 2022,2022,2,Hong Kong,India,152,5,120,20.0,7.6,193.0,41.0,0,5
+16657,Mens Twenty20 Asia Cup 2022,2022,1,Bangladesh,Sri Lanka,183,7,120,20.0,9.15,,,0,3
+16657,Mens Twenty20 Asia Cup 2022,2022,2,Sri Lanka,Bangladesh,184,8,116,19.2,9.52,184.0,0.0,4,2
+16658,Mens Twenty20 Asia Cup 2022,2022,1,Pakistan,Hong Kong,193,2,120,20.0,9.65,,,0,8
+16658,Mens Twenty20 Asia Cup 2022,2022,2,Hong Kong,Pakistan,38,10,64,10.4,3.56,194.0,156.0,56,0
+16659,Mens Twenty20 Asia Cup 2022,2022,1,Afghanistan,Sri Lanka,175,6,120,20.0,8.75,,,0,4
+16659,Mens Twenty20 Asia Cup 2022,2022,2,Sri Lanka,Afghanistan,179,6,115,19.1,9.34,176.0,0.0,5,4
+16660,Mens Twenty20 Asia Cup 2022,2022,1,India,Pakistan,181,7,120,20.0,9.05,,,0,3
+16660,Mens Twenty20 Asia Cup 2022,2022,2,Pakistan,India,182,5,119,19.5,9.18,182.0,0.0,1,5
+16661,Mens Twenty20 Asia Cup 2022,2022,1,India,Sri Lanka,173,8,120,20.0,8.65,,,0,2
+16661,Mens Twenty20 Asia Cup 2022,2022,2,Sri Lanka,India,174,4,119,19.5,8.77,174.0,0.0,1,6
+16662,Mens Twenty20 Asia Cup 2022,2022,1,Afghanistan,Pakistan,129,6,120,20.0,6.45,,,0,4
+16662,Mens Twenty20 Asia Cup 2022,2022,2,Pakistan,Afghanistan,131,9,116,19.2,6.78,130.0,0.0,4,1
+16663,Mens Twenty20 Asia Cup 2022,2022,1,India,Afghanistan,212,2,120,20.0,10.6,,,0,8
+16663,Mens Twenty20 Asia Cup 2022,2022,2,Afghanistan,India,111,8,120,20.0,5.55,213.0,102.0,0,2
+16664,Mens Twenty20 Asia Cup 2022,2022,1,Pakistan,Sri Lanka,121,10,115,19.1,6.31,,,5,0
+16664,Mens Twenty20 Asia Cup 2022,2022,2,Sri Lanka,Pakistan,124,5,102,17.0,7.29,122.0,0.0,18,5
+16665,Mens Twenty20 Asia Cup 2022,2022,1,Sri Lanka,Pakistan,170,6,120,20.0,8.5,,,0,4
+16665,Mens Twenty20 Asia Cup 2022,2022,2,Pakistan,Sri Lanka,147,10,120,20.0,7.35,171.0,24.0,0,0
+16666,New Zealand in Netherlands T20I Series 2022,2022,1,New Zealand,Netherlands,148,7,120,20.0,7.4,,,0,3
+16666,New Zealand in Netherlands T20I Series 2022,2022,2,Netherlands,New Zealand,132,10,117,19.3,6.77,149.0,17.0,3,0
+16667,New Zealand in Netherlands T20I Series 2022,2022,1,Netherlands,New Zealand,147,4,120,20.0,7.35,,,0,6
+16667,New Zealand in Netherlands T20I Series 2022,2022,2,New Zealand,Netherlands,149,2,84,14.0,10.64,148.0,0.0,36,8
+16683,New Zealand in West Indies T20I Series 2022,2022,1,New Zealand,West Indies,185,5,120,20.0,9.25,,,0,5
+16683,New Zealand in West Indies T20I Series 2022,2022,2,West Indies,New Zealand,172,7,120,20.0,8.6,186.0,14.0,0,3
+16684,New Zealand in West Indies T20I Series 2022,2022,1,New Zealand,West Indies,215,5,120,20.0,10.75,,,0,5
+16684,New Zealand in West Indies T20I Series 2022,2022,2,West Indies,New Zealand,125,9,120,20.0,6.25,216.0,91.0,0,1
+16685,New Zealand in West Indies T20I Series 2022,2022,1,New Zealand,West Indies,145,7,120,20.0,7.25,,,0,3
+16685,New Zealand in West Indies T20I Series 2022,2022,2,West Indies,New Zealand,150,2,114,19.0,7.89,146.0,0.0,6,8
+16750,Afghanistan in Ireland T20I Series 2022,2022,1,Afghanistan,Ireland,168,7,120,20.0,8.4,,,0,3
+16750,Afghanistan in Ireland T20I Series 2022,2022,2,Ireland,Afghanistan,171,3,119,19.5,8.62,169.0,0.0,1,7
+16751,Afghanistan in Ireland T20I Series 2022,2022,1,Afghanistan,Ireland,122,8,120,20.0,6.1,,,0,2
+16751,Afghanistan in Ireland T20I Series 2022,2022,2,Ireland,Afghanistan,125,5,114,19.0,6.58,123.0,0.0,6,5
+16752,Afghanistan in Ireland T20I Series 2022,2022,1,Afghanistan,Ireland,189,5,120,20.0,9.45,,,0,5
+16752,Afghanistan in Ireland T20I Series 2022,2022,2,Ireland,Afghanistan,167,9,120,20.0,8.35,190.0,23.0,0,1
+16753,Afghanistan in Ireland T20I Series 2022,2022,1,Afghanistan,Ireland,132,6,66,11.0,12.0,,,0,4
+16753,Afghanistan in Ireland T20I Series 2022,2022,2,Ireland,Afghanistan,105,10,66,11.0,9.55,133.0,28.0,54,0
+16754,Afghanistan in Ireland T20I Series 2022,2022,1,Afghanistan,Ireland,95,5,90,15.0,6.33,,,30,5
+16754,Afghanistan in Ireland T20I Series 2022,2022,2,Ireland,Afghanistan,56,3,40,6.4,8.4,56.0,0.0,2,7
+16862,Asia Cup T20 Qualifiers 2022,2022,1,Hong Kong,Singapore,148,9,120,20.0,7.4,,,0,1
+16862,Asia Cup T20 Qualifiers 2022,2022,2,Singapore,Hong Kong,140,7,120,20.0,7.0,149.0,9.0,0,3
+16863,Asia Cup T20 Qualifiers 2022,2022,1,United Arab Emirates,Kuwait,173,5,120,20.0,8.65,,,0,5
+16863,Asia Cup T20 Qualifiers 2022,2022,2,Kuwait,United Arab Emirates,177,9,119,19.5,8.92,174.0,0.0,1,1
+16864,Asia Cup T20 Qualifiers 2022,2022,1,United Arab Emirates,Singapore,160,8,120,20.0,8.0,,,0,2
+16864,Asia Cup T20 Qualifiers 2022,2022,2,Singapore,United Arab Emirates,113,10,111,18.3,6.11,161.0,48.0,9,0
+16865,Asia Cup T20 Qualifiers 2022,2022,1,Kuwait,Hong Kong,151,9,120,20.0,7.55,,,0,1
+16865,Asia Cup T20 Qualifiers 2022,2022,2,Hong Kong,Kuwait,153,2,106,17.4,8.66,152.0,0.0,14,8
+16866,Asia Cup T20 Qualifiers 2022,2022,1,United Arab Emirates,Hong Kong,147,10,117,19.3,7.54,,,3,0
+16866,Asia Cup T20 Qualifiers 2022,2022,2,Hong Kong,United Arab Emirates,149,2,114,19.0,7.84,148.0,0.0,6,8
+16867,Asia Cup T20 Qualifiers 2022,2022,1,Singapore,Kuwait,104,10,119,19.5,5.24,,,1,0
+16867,Asia Cup T20 Qualifiers 2022,2022,2,Kuwait,Singapore,105,4,47,7.5,13.4,105.0,0.0,73,6
+17394,Australia in India T20I Series 2022,2022,1,India,Australia,208,6,120,20.0,10.4,,,0,4
+17394,Australia in India T20I Series 2022,2022,2,Australia,India,211,6,116,19.2,10.91,209.0,0.0,4,4
+17395,Australia in India T20I Series 2022,2022,1,Australia,India,90,5,48,8.0,11.25,,,0,5
+17395,Australia in India T20I Series 2022,2022,2,India,Australia,92,4,44,7.2,12.55,91.0,0.0,4,6
+17396,Australia in India T20I Series 2022,2022,1,Australia,India,186,7,120,20.0,9.3,,,0,3
+17396,Australia in India T20I Series 2022,2022,2,India,Australia,187,4,119,19.5,9.43,187.0,0.0,1,6
+17553,England in Pakistan T20I Series 2022,2022,1,Pakistan,England,158,7,120,20.0,7.9,,,0,3
+17553,England in Pakistan T20I Series 2022,2022,2,England,Pakistan,160,4,116,19.2,8.28,159.0,0.0,4,6
+17554,England in Pakistan T20I Series 2022,2022,1,England,Pakistan,199,5,120,20.0,9.95,,,0,5
+17554,England in Pakistan T20I Series 2022,2022,2,Pakistan,England,203,0,117,19.3,10.41,200.0,0.0,3,10
+17555,England in Pakistan T20I Series 2022,2022,1,England,Pakistan,221,3,120,20.0,11.05,,,0,7
+17555,England in Pakistan T20I Series 2022,2022,2,Pakistan,England,158,8,120,20.0,7.9,222.0,64.0,0,2
+17556,England in Pakistan T20I Series 2022,2022,1,Pakistan,England,166,4,120,20.0,8.3,,,0,6
+17556,England in Pakistan T20I Series 2022,2022,2,England,Pakistan,163,10,116,19.2,8.43,167.0,4.0,4,0
+17557,England in Pakistan T20I Series 2022,2022,1,Pakistan,England,145,10,114,19.0,7.63,,,6,0
+17557,England in Pakistan T20I Series 2022,2022,2,England,Pakistan,139,7,120,20.0,6.95,146.0,7.0,0,3
+17558,England in Pakistan T20I Series 2022,2022,1,Pakistan,England,169,6,120,20.0,8.45,,,0,4
+17558,England in Pakistan T20I Series 2022,2022,2,England,Pakistan,170,2,87,14.3,11.72,170.0,0.0,33,8
+17559,England in Pakistan T20I Series 2022,2022,1,England,Pakistan,209,3,120,20.0,10.45,,,0,7
+17559,England in Pakistan T20I Series 2022,2022,2,Pakistan,England,142,8,120,20.0,7.1,210.0,68.0,0,2
+17625,South Africa in India T20I Series 2022/23,2022/23,1,South Africa,India,106,8,120,20.0,5.3,,,0,2
+17625,South Africa in India T20I Series 2022/23,2022/23,2,India,South Africa,110,2,100,16.4,6.6,107.0,0.0,20,8
+17626,South Africa in India T20I Series 2022/23,2022/23,1,India,South Africa,237,3,120,20.0,11.85,,,0,7
+17626,South Africa in India T20I Series 2022/23,2022/23,2,South Africa,India,221,3,120,20.0,11.05,238.0,17.0,0,7
+17627,South Africa in India T20I Series 2022/23,2022/23,1,South Africa,India,227,3,120,20.0,11.35,,,0,7
+17627,South Africa in India T20I Series 2022/23,2022/23,2,India,South Africa,178,9,111,18.3,9.62,228.0,50.0,9,1
+17631,Bangladesh in United Arab Emirates T20I Series 2022,2022,1,Bangladesh,United Arab Emirates,158,5,120,20.0,7.9,,,0,5
+17631,Bangladesh in United Arab Emirates T20I Series 2022,2022,2,United Arab Emirates,Bangladesh,151,10,118,19.4,7.68,159.0,8.0,2,0
+17632,Bangladesh in United Arab Emirates T20I Series 2022,2022,1,Bangladesh,United Arab Emirates,169,5,120,20.0,8.45,,,0,5
+17632,Bangladesh in United Arab Emirates T20I Series 2022,2022,2,United Arab Emirates,Bangladesh,137,5,120,20.0,6.85,170.0,33.0,0,5
+17640,West Indies in Australia T20I Series 2022,2022,1,West Indies,Australia,145,9,120,20.0,7.25,,,0,1
+17640,West Indies in Australia T20I Series 2022,2022,2,Australia,West Indies,146,7,119,19.5,7.36,146.0,0.0,1,3
+17641,West Indies in Australia T20I Series 2022,2022,1,Australia,West Indies,178,7,120,20.0,8.9,,,0,3
+17641,West Indies in Australia T20I Series 2022,2022,2,West Indies,Australia,147,8,120,20.0,7.35,179.0,32.0,0,2
+17737,New Zealand T20I Tri Series 2022/23,2022/23,1,Pakistan,Bangladesh,167,5,120,20.0,8.35,,,0,5
+17737,New Zealand T20I Tri Series 2022/23,2022/23,2,Bangladesh,Pakistan,146,8,120,20.0,7.3,168.0,22.0,0,2
+17738,New Zealand T20I Tri Series 2022/23,2022/23,1,New Zealand,Pakistan,147,8,120,20.0,7.35,,,0,2
+17738,New Zealand T20I Tri Series 2022/23,2022/23,2,Pakistan,New Zealand,149,4,110,18.2,8.13,148.0,0.0,10,6
+17739,New Zealand T20I Tri Series 2022/23,2022/23,1,Bangladesh,New Zealand,137,8,120,20.0,6.85,,,0,2
+17739,New Zealand T20I Tri Series 2022/23,2022/23,2,New Zealand,Bangladesh,142,2,107,17.5,7.96,138.0,0.0,13,8
+17740,New Zealand T20I Tri Series 2022/23,2022/23,1,Pakistan,New Zealand,130,7,120,20.0,6.5,,,0,3
+17740,New Zealand T20I Tri Series 2022/23,2022/23,2,New Zealand,Pakistan,131,1,97,16.1,8.1,131.0,0.0,23,9
+17741,New Zealand T20I Tri Series 2022/23,2022/23,1,New Zealand,Bangladesh,208,5,120,20.0,10.4,,,0,5
+17741,New Zealand T20I Tri Series 2022/23,2022/23,2,Bangladesh,New Zealand,160,7,120,20.0,8.0,209.0,49.0,0,3
+17742,New Zealand T20I Tri Series 2022/23,2022/23,1,Bangladesh,Pakistan,173,6,120,20.0,8.65,,,0,4
+17742,New Zealand T20I Tri Series 2022/23,2022/23,2,Pakistan,Bangladesh,177,3,119,19.5,8.92,174.0,0.0,1,7
+17743,New Zealand T20I Tri Series 2022/23,2022/23,1,New Zealand,Pakistan,163,7,120,20.0,8.15,,,0,3
+17743,New Zealand T20I Tri Series 2022/23,2022/23,2,Pakistan,New Zealand,168,5,117,19.3,8.62,164.0,0.0,3,5
+17763,England in Australia T20I Series 2022,2022,1,England,Australia,208,6,120,20.0,10.4,,,0,4
+17763,England in Australia T20I Series 2022,2022,2,Australia,England,200,9,120,20.0,10.0,209.0,9.0,0,1
+17764,England in Australia T20I Series 2022,2022,1,England,Australia,178,7,120,20.0,8.9,,,0,3
+17764,England in Australia T20I Series 2022,2022,2,Australia,England,170,6,120,20.0,8.5,179.0,9.0,0,4
+17765,England in Australia T20I Series 2022,2022,1,England,Australia,112,2,72,12.0,9.33,,,0,8
+17765,England in Australia T20I Series 2022,2022,2,Australia,England,30,3,23,3.5,7.83,130.0,100.0,49,7
+18531,India in New Zealand T20I Series 2022/23,2022/23,1,India,New Zealand,191,6,120,20.0,9.55,,,0,4
+18531,India in New Zealand T20I Series 2022/23,2022/23,2,New Zealand,India,126,10,113,18.5,6.69,192.0,66.0,7,0
+18532,India in New Zealand T20I Series 2022/23,2022/23,1,New Zealand,India,160,10,118,19.4,8.14,,,2,0
+18532,India in New Zealand T20I Series 2022/23,2022/23,2,India,New Zealand,75,4,54,9.0,8.33,161.0,86.0,66,6
+19556,Sri Lanka in India T20I Series 2023,2023,1,India,Sri Lanka,162,5,120,20.0,8.1,,,0,5
+19556,Sri Lanka in India T20I Series 2023,2023,2,Sri Lanka,India,160,10,120,20.0,8.0,163.0,3.0,0,0
+19557,Sri Lanka in India T20I Series 2023,2023,1,Sri Lanka,India,206,6,120,20.0,10.3,,,0,4
+19557,Sri Lanka in India T20I Series 2023,2023,2,India,Sri Lanka,190,8,120,20.0,9.5,207.0,17.0,0,2
+19558,Sri Lanka in India T20I Series 2023,2023,1,India,Sri Lanka,228,5,120,20.0,11.4,,,0,5
+19558,Sri Lanka in India T20I Series 2023,2023,2,Sri Lanka,India,137,10,100,16.4,8.22,229.0,92.0,20,0
+19690,Ireland in Zimbabwe T20I Series 2023,2023,1,Ireland,Zimbabwe,114,10,116,19.2,5.9,,,4,0
+19690,Ireland in Zimbabwe T20I Series 2023,2023,2,Zimbabwe,Ireland,118,5,108,18.0,6.56,115.0,0.0,12,5
+19691,Ireland in Zimbabwe T20I Series 2023,2023,1,Zimbabwe,Ireland,144,10,120,20.0,7.2,,,0,0
+19691,Ireland in Zimbabwe T20I Series 2023,2023,2,Ireland,Zimbabwe,150,4,118,19.4,7.63,145.0,0.0,2,6
+19692,Ireland in Zimbabwe T20I Series 2023,2023,1,Ireland,Zimbabwe,141,9,120,20.0,7.05,,,0,1
+19692,Ireland in Zimbabwe T20I Series 2023,2023,2,Zimbabwe,Ireland,144,6,114,19.0,7.58,142.0,0.0,6,4
+19715,New Zealand in India T20I Series 2023,2023,1,New Zealand,India,176,6,120,20.0,8.8,,,0,4
+19715,New Zealand in India T20I Series 2023,2023,2,India,New Zealand,155,9,120,20.0,7.75,177.0,22.0,0,1
+19716,New Zealand in India T20I Series 2023,2023,1,New Zealand,India,99,8,120,20.0,4.95,,,0,2
+19716,New Zealand in India T20I Series 2023,2023,2,India,New Zealand,101,4,119,19.5,5.09,100.0,0.0,1,6
+19717,New Zealand in India T20I Series 2023,2023,1,India,New Zealand,234,4,120,20.0,11.7,,,0,6
+19717,New Zealand in India T20I Series 2023,2023,2,New Zealand,India,66,10,73,12.1,5.42,235.0,169.0,47,0
+19959,West Indies in South Africa T20I Series 2023,2023,1,South Africa,West Indies,131,8,66,11.0,11.91,,,0,2
+19959,West Indies in South Africa T20I Series 2023,2023,2,West Indies,South Africa,132,7,63,10.3,12.57,132.0,0.0,57,3
+19960,West Indies in South Africa T20I Series 2023,2023,1,West Indies,South Africa,258,5,120,20.0,12.9,,,0,5
+19960,West Indies in South Africa T20I Series 2023,2023,2,South Africa,West Indies,259,4,113,18.5,13.75,259.0,0.0,7,6
+19961,West Indies in South Africa T20I Series 2023,2023,1,West Indies,South Africa,220,8,120,20.0,11.0,,,0,2
+19961,West Indies in South Africa T20I Series 2023,2023,2,South Africa,West Indies,213,6,120,20.0,10.65,221.0,8.0,0,4
+20133,England in Bangladesh T20I Series 2023,2023,1,England,Bangladesh,156,6,120,20.0,7.8,,,0,4
+20133,England in Bangladesh T20I Series 2023,2023,2,Bangladesh,England,158,4,108,18.0,8.78,157.0,0.0,12,6
+20134,England in Bangladesh T20I Series 2023,2023,1,England,Bangladesh,117,10,120,20.0,5.85,,,0,0
+20134,England in Bangladesh T20I Series 2023,2023,2,Bangladesh,England,120,6,113,18.5,6.37,118.0,0.0,7,4
+20135,England in Bangladesh T20I Series 2023,2023,1,Bangladesh,England,158,2,120,20.0,7.9,,,0,8
+20135,England in Bangladesh T20I Series 2023,2023,2,England,Bangladesh,142,6,120,20.0,7.1,159.0,17.0,0,4
+20181,IPL 2023,2023,1,Chennai Super Kings,Gujarat Titans,178,7,120,20.0,8.9,,,0,3
+20181,IPL 2023,2023,2,Gujarat Titans,Chennai Super Kings,182,5,116,19.2,9.41,179.0,0.0,4,5
+20182,IPL 2023,2023,1,Punjab Kings,Kolkata Knight Riders,191,5,120,20.0,9.55,,,0,5
+20182,IPL 2023,2023,2,Kolkata Knight Riders,Punjab Kings,146,7,96,16.0,9.12,192.0,46.0,24,3
+20183,IPL 2023,2023,1,Lucknow Super Giants,Delhi Capitals,193,6,120,20.0,9.65,,,0,4
+20183,IPL 2023,2023,2,Delhi Capitals,Lucknow Super Giants,143,9,120,20.0,7.15,194.0,51.0,0,1
+20184,IPL 2023,2023,1,Rajasthan Royals,Sunrisers Hyderabad,203,5,120,20.0,10.15,,,0,5
+20184,IPL 2023,2023,2,Sunrisers Hyderabad,Rajasthan Royals,131,8,120,20.0,6.55,204.0,73.0,0,2
+20185,IPL 2023,2023,1,Mumbai Indians,Royal Challengers Bengaluru,171,7,120,20.0,8.55,,,0,3
+20185,IPL 2023,2023,2,Royal Challengers Bengaluru,Mumbai Indians,172,2,98,16.2,10.53,172.0,0.0,22,8
+20186,IPL 2023,2023,1,Chennai Super Kings,Lucknow Super Giants,217,7,120,20.0,10.85,,,0,3
+20186,IPL 2023,2023,2,Lucknow Super Giants,Chennai Super Kings,205,7,120,20.0,10.25,218.0,13.0,0,3
+20187,IPL 2023,2023,1,Delhi Capitals,Gujarat Titans,162,8,120,20.0,8.1,,,0,2
+20187,IPL 2023,2023,2,Gujarat Titans,Delhi Capitals,163,4,109,18.1,8.97,163.0,0.0,11,6
+20188,IPL 2023,2023,1,Punjab Kings,Rajasthan Royals,197,4,120,20.0,9.85,,,0,6
+20188,IPL 2023,2023,2,Rajasthan Royals,Punjab Kings,192,7,120,20.0,9.6,198.0,6.0,0,3
+20189,IPL 2023,2023,1,Kolkata Knight Riders,Royal Challengers Bengaluru,204,7,120,20.0,10.2,,,0,3
+20189,IPL 2023,2023,2,Royal Challengers Bengaluru,Kolkata Knight Riders,123,10,106,17.4,6.96,205.0,82.0,14,0
+20190,IPL 2023,2023,1,Sunrisers Hyderabad,Lucknow Super Giants,121,8,120,20.0,6.05,,,0,2
+20190,IPL 2023,2023,2,Lucknow Super Giants,Sunrisers Hyderabad,127,5,96,16.0,7.94,122.0,0.0,24,5
+20191,IPL 2023,2023,1,Rajasthan Royals,Delhi Capitals,199,4,120,20.0,9.95,,,0,6
+20191,IPL 2023,2023,2,Delhi Capitals,Rajasthan Royals,142,9,120,20.0,7.1,200.0,58.0,0,1
+20192,IPL 2023,2023,1,Mumbai Indians,Chennai Super Kings,157,8,120,20.0,7.85,,,0,2
+20192,IPL 2023,2023,2,Chennai Super Kings,Mumbai Indians,159,3,109,18.1,8.75,158.0,0.0,11,7
+20193,IPL 2023,2023,1,Gujarat Titans,Kolkata Knight Riders,204,4,120,20.0,10.2,,,0,6
+20193,IPL 2023,2023,2,Kolkata Knight Riders,Gujarat Titans,207,7,120,20.0,10.35,205.0,0.0,0,3
+20194,IPL 2023,2023,1,Punjab Kings,Sunrisers Hyderabad,143,9,120,20.0,7.15,,,0,1
+20194,IPL 2023,2023,2,Sunrisers Hyderabad,Punjab Kings,145,2,103,17.1,8.45,144.0,0.0,17,8
+20195,IPL 2023,2023,1,Royal Challengers Bengaluru,Lucknow Super Giants,212,2,120,20.0,10.6,,,0,8
+20195,IPL 2023,2023,2,Lucknow Super Giants,Royal Challengers Bengaluru,213,9,120,20.0,10.65,213.0,0.0,0,1
+20196,IPL 2023,2023,1,Delhi Capitals,Mumbai Indians,172,10,118,19.4,8.75,,,2,0
+20196,IPL 2023,2023,2,Mumbai Indians,Delhi Capitals,173,4,120,20.0,8.65,173.0,0.0,0,6
+20197,IPL 2023,2023,1,Rajasthan Royals,Chennai Super Kings,175,8,120,20.0,8.75,,,0,2
+20197,IPL 2023,2023,2,Chennai Super Kings,Rajasthan Royals,172,6,120,20.0,8.6,176.0,4.0,0,4
+20198,IPL 2023,2023,1,Punjab Kings,Gujarat Titans,153,8,120,20.0,7.65,,,0,2
+20198,IPL 2023,2023,2,Gujarat Titans,Punjab Kings,154,4,119,19.5,7.76,154.0,0.0,1,6
+20199,IPL 2023,2023,1,Sunrisers Hyderabad,Kolkata Knight Riders,228,4,120,20.0,11.4,,,0,6
+20199,IPL 2023,2023,2,Kolkata Knight Riders,Sunrisers Hyderabad,205,7,120,20.0,10.25,229.0,24.0,0,3
+20200,IPL 2023,2023,1,Royal Challengers Bengaluru,Delhi Capitals,174,6,120,20.0,8.7,,,0,4
+20200,IPL 2023,2023,2,Delhi Capitals,Royal Challengers Bengaluru,151,9,120,20.0,7.55,175.0,24.0,0,1
+20201,IPL 2023,2023,1,Lucknow Super Giants,Punjab Kings,159,8,120,20.0,7.95,,,0,2
+20201,IPL 2023,2023,2,Punjab Kings,Lucknow Super Giants,161,8,117,19.3,8.26,160.0,0.0,3,2
+20202,IPL 2023,2023,1,Kolkata Knight Riders,Mumbai Indians,185,6,120,20.0,9.25,,,0,4
+20202,IPL 2023,2023,2,Mumbai Indians,Kolkata Knight Riders,186,5,106,17.4,10.53,186.0,0.0,14,5
+20203,IPL 2023,2023,1,Gujarat Titans,Rajasthan Royals,177,7,120,20.0,8.85,,,0,3
+20203,IPL 2023,2023,2,Rajasthan Royals,Gujarat Titans,179,7,116,19.2,9.26,178.0,0.0,4,3
+20204,IPL 2023,2023,1,Chennai Super Kings,Royal Challengers Bengaluru,226,6,120,20.0,11.3,,,0,4
+20204,IPL 2023,2023,2,Royal Challengers Bengaluru,Chennai Super Kings,218,8,120,20.0,10.9,227.0,9.0,0,2
+20205,IPL 2023,2023,1,Mumbai Indians,Sunrisers Hyderabad,192,5,120,20.0,9.6,,,0,5
+20205,IPL 2023,2023,2,Sunrisers Hyderabad,Mumbai Indians,178,10,119,19.5,8.97,193.0,15.0,1,0
+20206,IPL 2023,2023,1,Lucknow Super Giants,Rajasthan Royals,154,7,120,20.0,7.7,,,0,3
+20206,IPL 2023,2023,2,Rajasthan Royals,Lucknow Super Giants,144,6,120,20.0,7.2,155.0,11.0,0,4
+20207,IPL 2023,2023,1,Royal Challengers Bengaluru,Punjab Kings,174,4,120,20.0,8.7,,,0,6
+20207,IPL 2023,2023,2,Punjab Kings,Royal Challengers Bengaluru,150,10,110,18.2,8.18,175.0,25.0,10,0
+20208,IPL 2023,2023,1,Kolkata Knight Riders,Delhi Capitals,127,10,120,20.0,6.35,,,0,0
+20208,IPL 2023,2023,2,Delhi Capitals,Kolkata Knight Riders,128,6,116,19.2,6.62,128.0,0.0,4,4
+20209,IPL 2023,2023,1,Sunrisers Hyderabad,Chennai Super Kings,134,7,120,20.0,6.7,,,0,3
+20209,IPL 2023,2023,2,Chennai Super Kings,Sunrisers Hyderabad,138,3,112,18.4,7.39,135.0,0.0,8,7
+20210,IPL 2023,2023,1,Gujarat Titans,Lucknow Super Giants,135,6,120,20.0,6.75,,,0,4
+20210,IPL 2023,2023,2,Lucknow Super Giants,Gujarat Titans,128,7,120,20.0,6.4,136.0,8.0,0,3
+20211,IPL 2023,2023,1,Punjab Kings,Mumbai Indians,214,8,120,20.0,10.7,,,0,2
+20211,IPL 2023,2023,2,Mumbai Indians,Punjab Kings,201,6,120,20.0,10.05,215.0,14.0,0,4
+20212,IPL 2023,2023,1,Royal Challengers Bengaluru,Rajasthan Royals,189,9,120,20.0,9.45,,,0,1
+20212,IPL 2023,2023,2,Rajasthan Royals,Royal Challengers Bengaluru,182,6,120,20.0,9.1,190.0,8.0,0,4
+20213,IPL 2023,2023,1,Chennai Super Kings,Kolkata Knight Riders,235,4,120,20.0,11.75,,,0,6
+20213,IPL 2023,2023,2,Kolkata Knight Riders,Chennai Super Kings,186,8,120,20.0,9.3,236.0,50.0,0,2
+20214,IPL 2023,2023,1,Delhi Capitals,Sunrisers Hyderabad,144,9,120,20.0,7.2,,,0,1
+20214,IPL 2023,2023,2,Sunrisers Hyderabad,Delhi Capitals,137,6,120,20.0,6.85,145.0,8.0,0,4
+20215,IPL 2023,2023,1,Gujarat Titans,Mumbai Indians,207,6,120,20.0,10.35,,,0,4
+20215,IPL 2023,2023,2,Mumbai Indians,Gujarat Titans,152,9,120,20.0,7.6,208.0,56.0,0,1
+20216,IPL 2023,2023,1,Kolkata Knight Riders,Royal Challengers Bengaluru,200,5,120,20.0,10.0,,,0,5
+20216,IPL 2023,2023,2,Royal Challengers Bengaluru,Kolkata Knight Riders,179,8,120,20.0,8.95,201.0,22.0,0,2
+20217,IPL 2023,2023,1,Rajasthan Royals,Chennai Super Kings,202,5,120,20.0,10.1,,,0,5
+20217,IPL 2023,2023,2,Chennai Super Kings,Rajasthan Royals,170,6,120,20.0,8.5,203.0,33.0,0,4
+20218,IPL 2023,2023,1,Lucknow Super Giants,Punjab Kings,257,5,120,20.0,12.85,,,0,5
+20218,IPL 2023,2023,2,Punjab Kings,Lucknow Super Giants,201,10,119,19.5,10.13,258.0,57.0,1,0
+20219,IPL 2023,2023,1,Kolkata Knight Riders,Gujarat Titans,179,7,120,20.0,8.95,,,0,3
+20219,IPL 2023,2023,2,Gujarat Titans,Kolkata Knight Riders,180,3,107,17.5,10.09,180.0,0.0,13,7
+20220,IPL 2023,2023,1,Sunrisers Hyderabad,Delhi Capitals,197,6,120,20.0,9.85,,,0,4
+20220,IPL 2023,2023,2,Delhi Capitals,Sunrisers Hyderabad,188,6,120,20.0,9.4,198.0,10.0,0,4
+20221,IPL 2023,2023,1,Chennai Super Kings,Punjab Kings,200,4,120,20.0,10.0,,,0,6
+20221,IPL 2023,2023,2,Punjab Kings,Chennai Super Kings,201,6,120,20.0,10.05,201.0,0.0,0,4
+20222,IPL 2023,2023,1,Rajasthan Royals,Mumbai Indians,212,7,120,20.0,10.6,,,0,3
+20222,IPL 2023,2023,2,Mumbai Indians,Rajasthan Royals,214,4,117,19.3,10.97,213.0,0.0,3,6
+20223,IPL 2023,2023,1,Royal Challengers Bengaluru,Lucknow Super Giants,126,9,120,20.0,6.3,,,0,1
+20223,IPL 2023,2023,2,Lucknow Super Giants,Royal Challengers Bengaluru,108,10,119,19.5,5.45,127.0,19.0,1,0
+20224,IPL 2023,2023,1,Delhi Capitals,Gujarat Titans,130,8,120,20.0,6.5,,,0,2
+20224,IPL 2023,2023,2,Gujarat Titans,Delhi Capitals,125,6,120,20.0,6.25,131.0,6.0,0,4
+20225,IPL 2023,2023,1,Punjab Kings,Mumbai Indians,214,3,120,20.0,10.7,,,0,7
+20225,IPL 2023,2023,2,Mumbai Indians,Punjab Kings,216,4,113,18.5,11.47,215.0,0.0,7,6
+20226,IPL 2023,2023,1,Lucknow Super Giants,Chennai Super Kings,125,7,116,19.2,6.47,,,4,3
+20227,IPL 2023,2023,1,Kolkata Knight Riders,Sunrisers Hyderabad,171,9,120,20.0,8.55,,,0,1
+20227,IPL 2023,2023,2,Sunrisers Hyderabad,Kolkata Knight Riders,166,8,120,20.0,8.3,172.0,6.0,0,2
+20228,IPL 2023,2023,1,Rajasthan Royals,Gujarat Titans,118,10,107,17.5,6.62,,,13,0
+20228,IPL 2023,2023,2,Gujarat Titans,Rajasthan Royals,119,1,83,13.5,8.6,119.0,0.0,37,9
+20229,IPL 2023,2023,1,Mumbai Indians,Chennai Super Kings,139,8,120,20.0,6.95,,,0,2
+20229,IPL 2023,2023,2,Chennai Super Kings,Mumbai Indians,140,4,106,17.4,7.92,140.0,0.0,14,6
+20230,IPL 2023,2023,1,Royal Challengers Bengaluru,Delhi Capitals,181,4,120,20.0,9.05,,,0,6
+20230,IPL 2023,2023,2,Delhi Capitals,Royal Challengers Bengaluru,187,3,100,16.4,11.22,182.0,0.0,20,7
+20231,IPL 2023,2023,1,Gujarat Titans,Lucknow Super Giants,227,2,120,20.0,11.35,,,0,8
+20231,IPL 2023,2023,2,Lucknow Super Giants,Gujarat Titans,171,7,120,20.0,8.55,228.0,57.0,0,3
+20232,IPL 2023,2023,1,Rajasthan Royals,Sunrisers Hyderabad,214,2,120,20.0,10.7,,,0,8
+20232,IPL 2023,2023,2,Sunrisers Hyderabad,Rajasthan Royals,217,6,120,20.0,10.85,215.0,0.0,0,4
+20233,IPL 2023,2023,1,Punjab Kings,Kolkata Knight Riders,179,7,120,20.0,8.95,,,0,3
+20233,IPL 2023,2023,2,Kolkata Knight Riders,Punjab Kings,182,5,120,20.0,9.1,180.0,0.0,0,5
+20234,IPL 2023,2023,1,Royal Challengers Bengaluru,Mumbai Indians,199,6,120,20.0,9.95,,,0,4
+20234,IPL 2023,2023,2,Mumbai Indians,Royal Challengers Bengaluru,200,4,99,16.3,12.12,200.0,0.0,21,6
+20235,IPL 2023,2023,1,Chennai Super Kings,Delhi Capitals,167,8,120,20.0,8.35,,,0,2
+20235,IPL 2023,2023,2,Delhi Capitals,Chennai Super Kings,140,8,120,20.0,7.0,168.0,28.0,0,2
+20236,IPL 2023,2023,1,Kolkata Knight Riders,Rajasthan Royals,149,8,120,20.0,7.45,,,0,2
+20236,IPL 2023,2023,2,Rajasthan Royals,Kolkata Knight Riders,151,1,79,13.1,11.47,150.0,0.0,41,9
+20237,IPL 2023,2023,1,Mumbai Indians,Gujarat Titans,218,5,120,20.0,10.9,,,0,5
+20237,IPL 2023,2023,2,Gujarat Titans,Mumbai Indians,191,8,120,20.0,9.55,219.0,28.0,0,2
+20238,IPL 2023,2023,1,Sunrisers Hyderabad,Lucknow Super Giants,182,6,120,20.0,9.1,,,0,4
+20238,IPL 2023,2023,2,Lucknow Super Giants,Sunrisers Hyderabad,185,3,116,19.2,9.57,183.0,0.0,4,7
+20239,IPL 2023,2023,1,Punjab Kings,Delhi Capitals,167,7,120,20.0,8.35,,,0,3
+20239,IPL 2023,2023,2,Delhi Capitals,Punjab Kings,136,8,120,20.0,6.8,168.0,32.0,0,2
+20240,IPL 2023,2023,1,Royal Challengers Bengaluru,Rajasthan Royals,171,5,120,20.0,8.55,,,0,5
+20240,IPL 2023,2023,2,Rajasthan Royals,Royal Challengers Bengaluru,59,10,63,10.3,5.62,172.0,113.0,57,0
+20241,IPL 2023,2023,1,Chennai Super Kings,Kolkata Knight Riders,144,6,120,20.0,7.2,,,0,4
+20241,IPL 2023,2023,2,Kolkata Knight Riders,Chennai Super Kings,147,4,111,18.3,7.95,145.0,0.0,9,6
+20242,IPL 2023,2023,1,Gujarat Titans,Sunrisers Hyderabad,188,9,120,20.0,9.4,,,0,1
+20242,IPL 2023,2023,2,Sunrisers Hyderabad,Gujarat Titans,154,9,120,20.0,7.7,189.0,35.0,0,1
+20243,IPL 2023,2023,1,Lucknow Super Giants,Mumbai Indians,177,3,120,20.0,8.85,,,0,7
+20243,IPL 2023,2023,2,Mumbai Indians,Lucknow Super Giants,172,5,120,20.0,8.6,178.0,6.0,0,5
+20244,IPL 2023,2023,1,Delhi Capitals,Punjab Kings,213,2,120,20.0,10.65,,,0,8
+20244,IPL 2023,2023,2,Punjab Kings,Delhi Capitals,198,8,120,20.0,9.9,214.0,16.0,0,2
+20245,IPL 2023,2023,1,Sunrisers Hyderabad,Royal Challengers Bengaluru,186,5,120,20.0,9.3,,,0,5
+20245,IPL 2023,2023,2,Royal Challengers Bengaluru,Sunrisers Hyderabad,187,2,116,19.2,9.67,187.0,0.0,4,8
+20246,IPL 2023,2023,1,Punjab Kings,Rajasthan Royals,187,5,120,20.0,9.35,,,0,5
+20246,IPL 2023,2023,2,Rajasthan Royals,Punjab Kings,189,6,118,19.4,9.61,188.0,0.0,2,4
+20247,IPL 2023,2023,1,Chennai Super Kings,Delhi Capitals,223,3,120,20.0,11.15,,,0,7
+20247,IPL 2023,2023,2,Delhi Capitals,Chennai Super Kings,146,9,120,20.0,7.3,224.0,78.0,0,1
+20248,IPL 2023,2023,1,Lucknow Super Giants,Kolkata Knight Riders,176,8,120,20.0,8.8,,,0,2
+20248,IPL 2023,2023,2,Kolkata Knight Riders,Lucknow Super Giants,175,7,120,20.0,8.75,177.0,2.0,0,3
+20249,IPL 2023,2023,1,Sunrisers Hyderabad,Mumbai Indians,200,5,120,20.0,10.0,,,0,5
+20249,IPL 2023,2023,2,Mumbai Indians,Sunrisers Hyderabad,201,2,108,18.0,11.17,201.0,0.0,12,8
+20250,IPL 2023,2023,1,Royal Challengers Bengaluru,Gujarat Titans,197,5,120,20.0,9.85,,,0,5
+20250,IPL 2023,2023,2,Gujarat Titans,Royal Challengers Bengaluru,198,4,115,19.1,10.33,198.0,0.0,5,6
+20878,Afghanistan v Pakistan T20I Series 2023,2023,1,Pakistan,Afghanistan,92,9,120,20.0,4.6,,,0,1
+20878,Afghanistan v Pakistan T20I Series 2023,2023,2,Afghanistan,Pakistan,98,4,107,17.5,5.5,93.0,0.0,13,6
+20879,Afghanistan v Pakistan T20I Series 2023,2023,1,Pakistan,Afghanistan,130,6,120,20.0,6.5,,,0,4
+20879,Afghanistan v Pakistan T20I Series 2023,2023,2,Afghanistan,Pakistan,133,3,119,19.5,6.71,131.0,0.0,1,7
+20880,Afghanistan v Pakistan T20I Series 2023,2023,1,Pakistan,Afghanistan,182,7,120,20.0,9.1,,,0,3
+20880,Afghanistan v Pakistan T20I Series 2023,2023,2,Afghanistan,Pakistan,116,10,112,18.4,6.21,183.0,67.0,8,0
+21070,Ireland in Bangladesh T20I Series 2023,2023,1,Bangladesh,Ireland,207,5,116,19.2,10.71,,,4,5
+21070,Ireland in Bangladesh T20I Series 2023,2023,2,Ireland,Bangladesh,81,5,48,8.0,10.12,104.0,23.0,0,5
+21071,Ireland in Bangladesh T20I Series 2023,2023,1,Bangladesh,Ireland,202,3,102,17.0,11.88,,,0,7
+21071,Ireland in Bangladesh T20I Series 2023,2023,2,Ireland,Bangladesh,125,9,102,17.0,7.35,203.0,78.0,0,1
+21072,Ireland in Bangladesh T20I Series 2023,2023,1,Bangladesh,Ireland,124,10,116,19.2,6.41,,,4,0
+21072,Ireland in Bangladesh T20I Series 2023,2023,2,Ireland,Bangladesh,126,3,84,14.0,9.0,125.0,0.0,36,7
+21176,Sri Lanka in New Zealand T20I Series 2023,2023,1,Sri Lanka,New Zealand,196,5,120,20.0,9.8,,,0,5
+21176,Sri Lanka in New Zealand T20I Series 2023,2023,2,New Zealand,Sri Lanka,196,8,120,20.0,9.8,197.0,1.0,0,2
+21177,Sri Lanka in New Zealand T20I Series 2023,2023,1,Sri Lanka,New Zealand,141,10,114,19.0,7.42,,,6,0
+21177,Sri Lanka in New Zealand T20I Series 2023,2023,2,New Zealand,Sri Lanka,146,1,88,14.4,9.95,142.0,0.0,32,9
+21178,Sri Lanka in New Zealand T20I Series 2023,2023,1,Sri Lanka,New Zealand,182,6,120,20.0,9.1,,,0,4
+21178,Sri Lanka in New Zealand T20I Series 2023,2023,2,New Zealand,Sri Lanka,183,6,119,19.5,9.23,183.0,0.0,1,4
+21403,New Zealand in Pakistan T20I Series 2023,2023,1,Pakistan,New Zealand,182,10,119,19.5,9.18,,,1,0
+21403,New Zealand in Pakistan T20I Series 2023,2023,2,New Zealand,Pakistan,94,10,93,15.3,6.06,183.0,89.0,27,0
+21404,New Zealand in Pakistan T20I Series 2023,2023,1,Pakistan,New Zealand,192,4,120,20.0,9.6,,,0,6
+21404,New Zealand in Pakistan T20I Series 2023,2023,2,New Zealand,Pakistan,154,7,120,20.0,7.7,193.0,39.0,0,3
+21405,New Zealand in Pakistan T20I Series 2023,2023,1,New Zealand,Pakistan,163,5,120,20.0,8.15,,,0,5
+21405,New Zealand in Pakistan T20I Series 2023,2023,2,Pakistan,New Zealand,159,10,120,20.0,7.95,164.0,5.0,0,0
+21406,New Zealand in Pakistan T20I Series 2023,2023,1,New Zealand,Pakistan,164,5,113,18.5,8.71,,,7,5
+21407,New Zealand in Pakistan T20I Series 2023,2023,1,Pakistan,New Zealand,193,5,120,20.0,9.65,,,0,5
+21407,New Zealand in Pakistan T20I Series 2023,2023,2,New Zealand,Pakistan,194,4,116,19.2,10.03,194.0,0.0,4,6
+21583,IPL 2023,2023,1,Chennai Super Kings,Gujarat Titans,172,7,120,20.0,8.6,,,0,3
+21583,IPL 2023,2023,2,Gujarat Titans,Chennai Super Kings,157,10,120,20.0,7.85,173.0,16.0,0,0
+21584,IPL 2023,2023,1,Mumbai Indians,Lucknow Super Giants,182,8,120,20.0,9.1,,,0,2
+21584,IPL 2023,2023,2,Lucknow Super Giants,Mumbai Indians,101,10,99,16.3,6.12,183.0,82.0,21,0
+21585,IPL 2023,2023,1,Gujarat Titans,Mumbai Indians,233,3,120,20.0,11.65,,,0,7
+21585,IPL 2023,2023,2,Mumbai Indians,Gujarat Titans,171,10,110,18.2,9.33,234.0,63.0,10,0
+21586,IPL 2023,2023,1,Gujarat Titans,Chennai Super Kings,214,4,120,20.0,10.7,,,0,6
+21586,IPL 2023,2023,2,Chennai Super Kings,Gujarat Titans,171,5,90,15.0,11.4,171.0,0.0,0,5
+23673,Afghanistan in Bangladesh T20I Series 2023,2023,1,Afghanistan,Bangladesh,154,7,120,20.0,7.7,,,0,3
+23673,Afghanistan in Bangladesh T20I Series 2023,2023,2,Bangladesh,Afghanistan,157,8,119,19.5,7.92,155.0,0.0,1,2
+23674,Afghanistan in Bangladesh T20I Series 2023,2023,1,Afghanistan,Bangladesh,116,7,102,17.0,6.82,,,18,3
+23674,Afghanistan in Bangladesh T20I Series 2023,2023,2,Bangladesh,Afghanistan,119,4,97,16.1,7.36,117.0,0.0,23,6
+24350,India in West Indies T20I Series 2023,2023,1,West Indies,India,149,6,120,20.0,7.45,,,0,4
+24350,India in West Indies T20I Series 2023,2023,2,India,West Indies,145,9,120,20.0,7.25,150.0,5.0,0,1
+24351,India in West Indies T20I Series 2023,2023,1,India,West Indies,152,7,120,20.0,7.6,,,0,3
+24351,India in West Indies T20I Series 2023,2023,2,West Indies,India,155,8,113,18.5,8.23,153.0,0.0,7,2
+24352,India in West Indies T20I Series 2023,2023,1,West Indies,India,159,5,120,20.0,7.95,,,0,5
+24352,India in West Indies T20I Series 2023,2023,2,India,West Indies,164,3,107,17.5,9.2,160.0,0.0,13,7
+24353,India in West Indies T20I Series 2023,2023,1,West Indies,India,178,8,120,20.0,8.9,,,0,2
+24353,India in West Indies T20I Series 2023,2023,2,India,West Indies,179,1,102,17.0,10.53,179.0,0.0,18,9
+24354,India in West Indies T20I Series 2023,2023,1,India,West Indies,165,9,120,20.0,8.25,,,0,1
+24354,India in West Indies T20I Series 2023,2023,2,West Indies,India,171,2,108,18.0,9.5,166.0,0.0,12,8
+24792,New Zealand in United Arab Emirates T20I Series 2023,2023,1,New Zealand,United Arab Emirates,155,6,120,20.0,7.75,,,0,4
+24792,New Zealand in United Arab Emirates T20I Series 2023,2023,2,United Arab Emirates,New Zealand,136,10,118,19.4,6.92,156.0,20.0,2,0
+24793,New Zealand in United Arab Emirates T20I Series 2023,2023,1,New Zealand,United Arab Emirates,142,8,120,20.0,7.1,,,0,2
+24793,New Zealand in United Arab Emirates T20I Series 2023,2023,2,United Arab Emirates,New Zealand,144,3,94,15.4,9.19,143.0,0.0,26,7
+24794,New Zealand in United Arab Emirates T20I Series 2023,2023,1,New Zealand,United Arab Emirates,166,5,120,20.0,8.3,,,0,5
+24794,New Zealand in United Arab Emirates T20I Series 2023,2023,2,United Arab Emirates,New Zealand,134,7,120,20.0,6.7,167.0,33.0,0,3
+24822,India in Ireland T20I Series 2023,2023,1,Ireland,India,139,7,120,20.0,6.95,,,0,3
+24822,India in Ireland T20I Series 2023,2023,2,India,Ireland,47,2,41,6.5,6.88,140.0,93.0,79,8
+24823,India in Ireland T20I Series 2023,2023,1,India,Ireland,185,5,120,20.0,9.25,,,0,5
+24823,India in Ireland T20I Series 2023,2023,2,Ireland,India,152,8,120,20.0,7.6,186.0,34.0,0,2
+25155,Australia in South Africa T20I Series 2023,2023,1,Australia,South Africa,226,6,120,20.0,11.3,,,0,4
+25155,Australia in South Africa T20I Series 2023,2023,2,South Africa,Australia,115,10,93,15.3,7.42,227.0,112.0,27,0
+25156,Australia in South Africa T20I Series 2023,2023,1,South Africa,Australia,164,8,120,20.0,8.2,,,0,2
+25156,Australia in South Africa T20I Series 2023,2023,2,Australia,South Africa,168,2,89,14.5,11.33,165.0,0.0,31,8
+25157,Australia in South Africa T20I Series 2023,2023,1,South Africa,Australia,190,8,120,20.0,9.5,,,0,2
+25157,Australia in South Africa T20I Series 2023,2023,2,Australia,South Africa,191,5,107,17.5,10.71,191.0,0.0,13,5
+25158,New Zealand in England T20I Series 2023,2023,1,New Zealand,England,139,9,120,20.0,6.95,,,0,1
+25158,New Zealand in England T20I Series 2023,2023,2,England,New Zealand,143,3,84,14.0,10.21,140.0,0.0,36,7
+25159,New Zealand in England T20I Series 2023,2023,1,England,New Zealand,198,4,120,20.0,9.9,,,0,6
+25159,New Zealand in England T20I Series 2023,2023,2,New Zealand,England,103,10,83,13.5,7.45,199.0,96.0,37,0
+25160,New Zealand in England T20I Series 2023,2023,1,New Zealand,England,202,5,120,20.0,10.1,,,0,5
+25160,New Zealand in England T20I Series 2023,2023,2,England,New Zealand,128,10,111,18.3,6.92,203.0,75.0,9,0
+25161,New Zealand in England T20I Series 2023,2023,1,England,New Zealand,175,8,120,20.0,8.75,,,0,2
+25161,New Zealand in England T20I Series 2023,2023,2,New Zealand,England,179,4,104,17.2,10.33,176.0,0.0,16,6
+27060,Australia in India T20I Series 2023,2023,1,Australia,India,208,3,120,20.0,10.4,,,0,7
+27060,Australia in India T20I Series 2023,2023,2,India,Australia,209,8,119,19.5,10.54,209.0,0.0,1,2
+27061,Australia in India T20I Series 2023,2023,1,India,Australia,235,4,120,20.0,11.75,,,0,6
+27061,Australia in India T20I Series 2023,2023,2,Australia,India,191,9,120,20.0,9.55,236.0,45.0,0,1
+27062,Australia in India T20I Series 2023,2023,1,India,Australia,222,3,120,20.0,11.1,,,0,7
+27062,Australia in India T20I Series 2023,2023,2,Australia,India,225,5,120,20.0,11.25,223.0,0.0,0,5
+27063,Australia in India T20I Series 2023,2023,1,India,Australia,174,9,120,20.0,8.7,,,0,1
+27063,Australia in India T20I Series 2023,2023,2,Australia,India,154,7,120,20.0,7.7,175.0,21.0,0,3
+27064,Australia in India T20I Series 2023,2023,1,India,Australia,160,8,120,20.0,8.0,,,0,2
+27064,Australia in India T20I Series 2023,2023,2,Australia,India,154,8,120,20.0,7.7,161.0,7.0,0,2
+28046,India in South Africa T20I Series 2023,2023,1,India,South Africa,180,7,117,19.3,9.23,,,3,3
+28046,India in South Africa T20I Series 2023,2023,2,South Africa,India,154,5,83,13.5,11.13,152.0,0.0,7,5
+28047,India in South Africa T20I Series 2023,2023,1,India,South Africa,201,7,120,20.0,10.05,,,0,3
+28047,India in South Africa T20I Series 2023,2023,2,South Africa,India,95,10,83,13.5,6.87,202.0,107.0,37,0
+28057,Ireland in Zimbabwe T20I Series 2023/24,2023/24,1,Ireland,Zimbabwe,147,8,120,20.0,7.35,,,0,2
+28057,Ireland in Zimbabwe T20I Series 2023/24,2023/24,2,Zimbabwe,Ireland,148,9,120,20.0,7.4,148.0,0.0,0,1
+28058,Ireland in Zimbabwe T20I Series 2023/24,2023/24,1,Zimbabwe,Ireland,165,5,120,20.0,8.25,,,0,5
+28058,Ireland in Zimbabwe T20I Series 2023/24,2023/24,2,Ireland,Zimbabwe,166,6,118,19.4,8.44,166.0,0.0,2,4
+28059,Ireland in Zimbabwe T20I Series 2023/24,2023/24,1,Zimbabwe,Ireland,140,6,120,20.0,7.0,,,0,4
+28059,Ireland in Zimbabwe T20I Series 2023/24,2023/24,2,Ireland,Zimbabwe,141,4,112,18.4,7.55,141.0,0.0,8,6
+28063,England in West Indies T20I Series 2023,2023,1,England,West Indies,171,10,117,19.3,8.77,,,3,0
+28063,England in West Indies T20I Series 2023,2023,2,West Indies,England,172,6,109,18.1,9.47,172.0,0.0,11,4
+28064,England in West Indies T20I Series 2023,2023,1,West Indies,England,176,7,120,20.0,8.8,,,0,3
+28064,England in West Indies T20I Series 2023,2023,2,England,West Indies,166,7,120,20.0,8.3,177.0,11.0,0,3
+28065,England in West Indies T20I Series 2023,2023,1,West Indies,England,222,6,120,20.0,11.1,,,0,4
+28065,England in West Indies T20I Series 2023,2023,2,England,West Indies,226,3,119,19.5,11.39,223.0,0.0,1,7
+28066,England in West Indies T20I Series 2023,2023,1,England,West Indies,267,3,120,20.0,13.35,,,0,7
+28066,England in West Indies T20I Series 2023,2023,2,West Indies,England,192,10,93,15.3,12.39,268.0,76.0,27,0
+28067,England in West Indies T20I Series 2023,2023,1,England,West Indies,132,10,117,19.3,6.77,,,3,0
+28067,England in West Indies T20I Series 2023,2023,2,West Indies,England,133,6,116,19.2,6.88,133.0,0.0,4,4
+28332,Bangladesh in New Zealand T20I Series 2023,2023,1,New Zealand,Bangladesh,134,9,120,20.0,6.7,,,0,1
+28332,Bangladesh in New Zealand T20I Series 2023,2023,2,Bangladesh,New Zealand,137,5,112,18.4,7.34,135.0,0.0,8,5
+28333,Bangladesh in New Zealand T20I Series 2023,2023,1,New Zealand,Bangladesh,72,2,66,11.0,6.55,,,54,8
+28334,Bangladesh in New Zealand T20I Series 2023,2023,1,Bangladesh,New Zealand,110,10,116,19.2,5.69,,,4,0
+28334,Bangladesh in New Zealand T20I Series 2023,2023,2,New Zealand,Bangladesh,95,5,88,14.4,6.48,111.0,16.0,32,5
+28957,Zimbabwe in Sri Lanka T20I Series 2024,2024,1,Zimbabwe,Sri Lanka,143,5,120,20.0,7.15,,,0,5
+28957,Zimbabwe in Sri Lanka T20I Series 2024,2024,2,Sri Lanka,Zimbabwe,144,7,120,20.0,7.2,144.0,0.0,0,3
+28958,Zimbabwe in Sri Lanka T20I Series 2024,2024,1,Sri Lanka,Zimbabwe,173,6,120,20.0,8.65,,,0,4
+28958,Zimbabwe in Sri Lanka T20I Series 2024,2024,2,Zimbabwe,Sri Lanka,178,6,119,19.5,8.97,174.0,0.0,1,4
+28959,Zimbabwe in Sri Lanka T20I Series 2024,2024,1,Zimbabwe,Sri Lanka,82,10,85,14.1,5.79,,,35,0
+28959,Zimbabwe in Sri Lanka T20I Series 2024,2024,2,Sri Lanka,Zimbabwe,88,1,65,10.5,8.12,83.0,0.0,55,9
+28960,Afghanistan in India T20I Series 2024,2024,1,Afghanistan,India,158,5,120,20.0,7.9,,,0,5
+28960,Afghanistan in India T20I Series 2024,2024,2,India,Afghanistan,159,4,105,17.3,9.09,159.0,0.0,15,6
+28961,Afghanistan in India T20I Series 2024,2024,1,Afghanistan,India,172,10,120,20.0,8.6,,,0,0
+28961,Afghanistan in India T20I Series 2024,2024,2,India,Afghanistan,173,4,94,15.4,11.04,173.0,0.0,26,6
+28962,Afghanistan in India T20I Series 2024,2024,1,India,Afghanistan,212,4,120,20.0,10.6,,,0,6
+28962,Afghanistan in India T20I Series 2024,2024,2,Afghanistan,India,212,6,120,20.0,10.6,213.0,1.0,0,4
+28963,Pakistan in New Zealand T20I series 2024,2024,1,New Zealand,Pakistan,226,8,120,20.0,11.3,,,0,2
+28963,Pakistan in New Zealand T20I series 2024,2024,2,Pakistan,New Zealand,180,10,108,18.0,10.0,227.0,47.0,12,0
+28964,Pakistan in New Zealand T20I series 2024,2024,1,New Zealand,Pakistan,194,8,120,20.0,9.7,,,0,2
+28964,Pakistan in New Zealand T20I series 2024,2024,2,Pakistan,New Zealand,173,10,117,19.3,8.87,195.0,22.0,3,0
+28965,Pakistan in New Zealand T20I series 2024,2024,1,New Zealand,Pakistan,224,7,120,20.0,11.2,,,0,3
+28965,Pakistan in New Zealand T20I series 2024,2024,2,Pakistan,New Zealand,179,7,120,20.0,8.95,225.0,46.0,0,3
+28966,Pakistan in New Zealand T20I series 2024,2024,1,Pakistan,New Zealand,158,5,120,20.0,7.9,,,0,5
+28966,Pakistan in New Zealand T20I series 2024,2024,2,New Zealand,Pakistan,159,3,109,18.1,8.75,159.0,0.0,11,7
+28967,Pakistan in New Zealand T20I series 2024,2024,1,Pakistan,New Zealand,134,8,120,20.0,6.7,,,0,2
+28967,Pakistan in New Zealand T20I series 2024,2024,2,New Zealand,Pakistan,92,10,104,17.2,5.31,135.0,43.0,16,0
+29815,West Indies in Australia T20I Series 2024,2024,1,Australia,West Indies,213,7,120,20.0,10.65,,,0,3
+29815,West Indies in Australia T20I Series 2024,2024,2,West Indies,Australia,202,8,120,20.0,10.1,214.0,12.0,0,2
+29816,West Indies in Australia T20I Series 2024,2024,1,Australia,West Indies,241,4,120,20.0,12.05,,,0,6
+29816,West Indies in Australia T20I Series 2024,2024,2,West Indies,Australia,207,9,120,20.0,10.35,242.0,35.0,0,1
+29817,West Indies in Australia T20I Series 2024,2024,1,West Indies,Australia,220,6,120,20.0,11.0,,,0,4
+29817,West Indies in Australia T20I Series 2024,2024,2,Australia,West Indies,183,5,120,20.0,9.15,221.0,38.0,0,5
+29924,Afghanistan in Sri Lanka T20I Series 2024,2024,1,Sri Lanka,Afghanistan,160,10,114,19.0,8.42,,,6,0
+29924,Afghanistan in Sri Lanka T20I Series 2024,2024,2,Afghanistan,Sri Lanka,156,9,120,20.0,7.8,161.0,5.0,0,1
+29925,Afghanistan in Sri Lanka T20I Series 2024,2024,1,Sri Lanka,Afghanistan,187,6,120,20.0,9.35,,,0,4
+29925,Afghanistan in Sri Lanka T20I Series 2024,2024,2,Afghanistan,Sri Lanka,115,10,102,17.0,6.76,188.0,73.0,18,0
+29926,Afghanistan in Sri Lanka T20I Series 2024,2024,1,Afghanistan,Sri Lanka,209,5,120,20.0,10.45,,,0,5
+29926,Afghanistan in Sri Lanka T20I Series 2024,2024,2,Sri Lanka,Afghanistan,206,6,120,20.0,10.3,210.0,4.0,0,4
+29982,Australia in New Zealand T20I Series 2024,2024,1,New Zealand,Australia,215,3,120,20.0,10.75,,,0,7
+29982,Australia in New Zealand T20I Series 2024,2024,2,Australia,New Zealand,216,4,120,20.0,10.8,216.0,0.0,0,6
+29983,Australia in New Zealand T20I Series 2024,2024,1,Australia,New Zealand,174,10,119,19.5,8.77,,,1,0
+29983,Australia in New Zealand T20I Series 2024,2024,2,New Zealand,Australia,102,9,102,17.0,6.0,175.0,73.0,18,1
+29984,Australia in New Zealand T20I Series 2024,2024,1,Australia,New Zealand,118,4,64,10.4,11.06,,,56,6
+29984,Australia in New Zealand T20I Series 2024,2024,2,New Zealand,Australia,98,3,60,10.0,9.8,126.0,28.0,0,7
+30056,IPL 2024,2024,1,Royal Challengers Bengaluru,Chennai Super Kings,173,6,120,20.0,8.65,,,0,4
+30056,IPL 2024,2024,2,Chennai Super Kings,Royal Challengers Bengaluru,176,4,112,18.4,9.43,174.0,0.0,8,6
+30057,IPL 2024,2024,1,Delhi Capitals,Punjab Kings,174,9,120,20.0,8.7,,,0,1
+30057,IPL 2024,2024,2,Punjab Kings,Delhi Capitals,177,6,116,19.2,9.16,175.0,0.0,4,4
+30058,IPL 2024,2024,1,Kolkata Knight Riders,Sunrisers Hyderabad,208,7,120,20.0,10.4,,,0,3
+30058,IPL 2024,2024,2,Sunrisers Hyderabad,Kolkata Knight Riders,204,7,120,20.0,10.2,209.0,5.0,0,3
+30059,IPL 2024,2024,1,Rajasthan Royals,Lucknow Super Giants,193,4,120,20.0,9.65,,,0,6
+30059,IPL 2024,2024,2,Lucknow Super Giants,Rajasthan Royals,173,6,120,20.0,8.65,194.0,21.0,0,4
+30060,IPL 2024,2024,1,Gujarat Titans,Mumbai Indians,168,6,120,20.0,8.4,,,0,4
+30060,IPL 2024,2024,2,Mumbai Indians,Gujarat Titans,162,9,120,20.0,8.1,169.0,7.0,0,1
+30061,IPL 2024,2024,1,Punjab Kings,Royal Challengers Bengaluru,176,6,120,20.0,8.8,,,0,4
+30061,IPL 2024,2024,2,Royal Challengers Bengaluru,Punjab Kings,178,6,116,19.2,9.21,177.0,0.0,4,4
+30062,IPL 2024,2024,1,Chennai Super Kings,Gujarat Titans,206,6,120,20.0,10.3,,,0,4
+30062,IPL 2024,2024,2,Gujarat Titans,Chennai Super Kings,143,8,120,20.0,7.15,207.0,64.0,0,2
+30063,IPL 2024,2024,1,Sunrisers Hyderabad,Mumbai Indians,277,3,120,20.0,13.85,,,0,7
+30063,IPL 2024,2024,2,Mumbai Indians,Sunrisers Hyderabad,246,5,120,20.0,12.3,278.0,32.0,0,5
+30064,IPL 2024,2024,1,Rajasthan Royals,Delhi Capitals,185,5,120,20.0,9.25,,,0,5
+30064,IPL 2024,2024,2,Delhi Capitals,Rajasthan Royals,173,5,120,20.0,8.65,186.0,13.0,0,5
+30065,IPL 2024,2024,1,Royal Challengers Bengaluru,Kolkata Knight Riders,182,6,120,20.0,9.1,,,0,4
+30065,IPL 2024,2024,2,Kolkata Knight Riders,Royal Challengers Bengaluru,186,3,101,16.5,11.05,183.0,0.0,19,7
+30066,IPL 2024,2024,1,Lucknow Super Giants,Punjab Kings,199,8,120,20.0,9.95,,,0,2
+30066,IPL 2024,2024,2,Punjab Kings,Lucknow Super Giants,178,5,120,20.0,8.9,200.0,22.0,0,5
+30067,IPL 2024,2024,1,Sunrisers Hyderabad,Gujarat Titans,162,8,120,20.0,8.1,,,0,2
+30067,IPL 2024,2024,2,Gujarat Titans,Sunrisers Hyderabad,168,3,115,19.1,8.77,163.0,0.0,5,7
+30068,IPL 2024,2024,1,Delhi Capitals,Chennai Super Kings,191,5,120,20.0,9.55,,,0,5
+30068,IPL 2024,2024,2,Chennai Super Kings,Delhi Capitals,171,6,120,20.0,8.55,192.0,21.0,0,4
+30069,IPL 2024,2024,1,Mumbai Indians,Rajasthan Royals,125,9,120,20.0,6.25,,,0,1
+30069,IPL 2024,2024,2,Rajasthan Royals,Mumbai Indians,127,4,93,15.3,8.19,126.0,0.0,27,6
+30070,IPL 2024,2024,1,Lucknow Super Giants,Royal Challengers Bengaluru,181,5,120,20.0,9.05,,,0,5
+30070,IPL 2024,2024,2,Royal Challengers Bengaluru,Lucknow Super Giants,153,10,118,19.4,7.78,182.0,29.0,2,0
+30071,IPL 2024,2024,1,Kolkata Knight Riders,Delhi Capitals,272,7,120,20.0,13.6,,,0,3
+30071,IPL 2024,2024,2,Delhi Capitals,Kolkata Knight Riders,166,10,104,17.2,9.58,273.0,107.0,16,0
+30072,IPL 2024,2024,1,Gujarat Titans,Punjab Kings,199,4,120,20.0,9.95,,,0,6
+30072,IPL 2024,2024,2,Punjab Kings,Gujarat Titans,200,7,119,19.5,10.08,200.0,0.0,1,3
+30073,IPL 2024,2024,1,Chennai Super Kings,Sunrisers Hyderabad,165,5,120,20.0,8.25,,,0,5
+30073,IPL 2024,2024,2,Sunrisers Hyderabad,Chennai Super Kings,166,4,109,18.1,9.14,166.0,0.0,11,6
+30074,IPL 2024,2024,1,Royal Challengers Bengaluru,Rajasthan Royals,183,3,120,20.0,9.15,,,0,7
+30074,IPL 2024,2024,2,Rajasthan Royals,Royal Challengers Bengaluru,189,4,115,19.1,9.86,184.0,0.0,5,6
+30075,IPL 2024,2024,1,Mumbai Indians,Delhi Capitals,234,5,120,20.0,11.7,,,0,5
+30075,IPL 2024,2024,2,Delhi Capitals,Mumbai Indians,205,8,120,20.0,10.25,235.0,30.0,0,2
+30076,IPL 2024,2024,1,Lucknow Super Giants,Gujarat Titans,163,5,120,20.0,8.15,,,0,5
+30076,IPL 2024,2024,2,Gujarat Titans,Lucknow Super Giants,130,10,113,18.5,6.9,164.0,34.0,7,0
+30341,Sri Lanka in Bangladesh T20I Series 2024,2024,1,Sri Lanka,Bangladesh,206,3,120,20.0,10.3,,,0,7
+30341,Sri Lanka in Bangladesh T20I Series 2024,2024,2,Bangladesh,Sri Lanka,203,8,120,20.0,10.15,207.0,4.0,0,2
+30342,Sri Lanka in Bangladesh T20I Series 2024,2024,1,Sri Lanka,Bangladesh,165,5,120,20.0,8.25,,,0,5
+30342,Sri Lanka in Bangladesh T20I Series 2024,2024,2,Bangladesh,Sri Lanka,170,2,109,18.1,9.36,166.0,0.0,11,8
+30343,Sri Lanka in Bangladesh T20I Series 2024,2024,1,Sri Lanka,Bangladesh,174,7,120,20.0,8.7,,,0,3
+30343,Sri Lanka in Bangladesh T20I Series 2024,2024,2,Bangladesh,Sri Lanka,146,10,118,19.4,7.42,175.0,29.0,2,0
+30728,Afghanistan v Ireland T20I Series 2024,2024,1,Ireland,Afghanistan,149,6,120,20.0,7.45,,,0,4
+30728,Afghanistan v Ireland T20I Series 2024,2024,2,Afghanistan,Ireland,111,10,112,18.4,5.95,150.0,39.0,8,0
+30729,Afghanistan v Ireland T20I Series 2024,2024,1,Afghanistan,Ireland,152,9,120,20.0,7.6,,,0,1
+30729,Afghanistan v Ireland T20I Series 2024,2024,2,Ireland,Afghanistan,142,8,120,20.0,7.1,153.0,11.0,0,2
+30730,Afghanistan v Ireland T20I Series 2024,2024,1,Afghanistan,Ireland,155,7,120,20.0,7.75,,,0,3
+30730,Afghanistan v Ireland T20I Series 2024,2024,2,Ireland,Afghanistan,98,10,104,17.2,5.65,156.0,58.0,16,0
+31240,IPL 2024,2024,1,Kolkata Knight Riders,Chennai Super Kings,137,9,120,20.0,6.85,,,0,1
+31240,IPL 2024,2024,2,Chennai Super Kings,Kolkata Knight Riders,141,3,106,17.4,7.98,138.0,0.0,14,7
+31241,IPL 2024,2024,1,Sunrisers Hyderabad,Punjab Kings,182,9,120,20.0,9.1,,,0,1
+31241,IPL 2024,2024,2,Punjab Kings,Sunrisers Hyderabad,180,6,120,20.0,9.0,183.0,3.0,0,4
+31242,IPL 2024,2024,1,Rajasthan Royals,Gujarat Titans,196,3,120,20.0,9.8,,,0,7
+31242,IPL 2024,2024,2,Gujarat Titans,Rajasthan Royals,199,7,120,20.0,9.95,197.0,0.0,0,3
+31243,IPL 2024,2024,1,Royal Challengers Bengaluru,Mumbai Indians,196,8,120,20.0,9.8,,,0,2
+31243,IPL 2024,2024,2,Mumbai Indians,Royal Challengers Bengaluru,199,3,93,15.3,12.84,197.0,0.0,27,7
+31244,IPL 2024,2024,1,Lucknow Super Giants,Delhi Capitals,167,7,120,20.0,8.35,,,0,3
+31244,IPL 2024,2024,2,Delhi Capitals,Lucknow Super Giants,170,4,109,18.1,9.36,168.0,0.0,11,6
+31245,IPL 2024,2024,1,Punjab Kings,Rajasthan Royals,147,8,120,20.0,7.35,,,0,2
+31245,IPL 2024,2024,2,Rajasthan Royals,Punjab Kings,152,7,119,19.5,7.66,148.0,0.0,1,3
+31246,IPL 2024,2024,1,Lucknow Super Giants,Kolkata Knight Riders,161,7,120,20.0,8.05,,,0,3
+31246,IPL 2024,2024,2,Kolkata Knight Riders,Lucknow Super Giants,162,2,94,15.4,10.34,162.0,0.0,26,8
+31247,IPL 2024,2024,1,Chennai Super Kings,Mumbai Indians,206,4,120,20.0,10.3,,,0,6
+31247,IPL 2024,2024,2,Mumbai Indians,Chennai Super Kings,186,6,120,20.0,9.3,207.0,21.0,0,4
+31248,IPL 2024,2024,1,Sunrisers Hyderabad,Royal Challengers Bengaluru,287,3,120,20.0,14.35,,,0,7
+31248,IPL 2024,2024,2,Royal Challengers Bengaluru,Sunrisers Hyderabad,262,7,120,20.0,13.1,288.0,26.0,0,3
+31249,IPL 2024,2024,1,Gujarat Titans,Delhi Capitals,89,10,105,17.3,5.09,,,15,0
+31249,IPL 2024,2024,2,Delhi Capitals,Gujarat Titans,92,4,53,8.5,10.42,90.0,0.0,67,6
+31250,IPL 2024,2024,1,Kolkata Knight Riders,Rajasthan Royals,223,6,120,20.0,11.15,,,0,4
+31250,IPL 2024,2024,2,Rajasthan Royals,Kolkata Knight Riders,224,8,120,20.0,11.2,224.0,0.0,0,2
+31251,IPL 2024,2024,1,Mumbai Indians,Punjab Kings,192,7,120,20.0,9.6,,,0,3
+31251,IPL 2024,2024,2,Punjab Kings,Mumbai Indians,183,10,115,19.1,9.55,193.0,10.0,5,0
+31252,IPL 2024,2024,1,Chennai Super Kings,Lucknow Super Giants,176,6,120,20.0,8.8,,,0,4
+31252,IPL 2024,2024,2,Lucknow Super Giants,Chennai Super Kings,180,2,114,19.0,9.47,177.0,0.0,6,8
+31253,IPL 2024,2024,1,Sunrisers Hyderabad,Delhi Capitals,266,7,120,20.0,13.3,,,0,3
+31253,IPL 2024,2024,2,Delhi Capitals,Sunrisers Hyderabad,199,10,115,19.1,10.38,267.0,68.0,5,0
+31254,IPL 2024,2024,1,Kolkata Knight Riders,Royal Challengers Bengaluru,222,6,120,20.0,11.1,,,0,4
+31254,IPL 2024,2024,2,Royal Challengers Bengaluru,Kolkata Knight Riders,221,10,120,20.0,11.05,223.0,2.0,0,0
+31255,IPL 2024,2024,1,Punjab Kings,Gujarat Titans,142,10,120,20.0,7.1,,,0,0
+31255,IPL 2024,2024,2,Gujarat Titans,Punjab Kings,146,7,115,19.1,7.62,143.0,0.0,5,3
+31256,IPL 2024,2024,1,Mumbai Indians,Rajasthan Royals,179,9,120,20.0,8.95,,,0,1
+31256,IPL 2024,2024,2,Rajasthan Royals,Mumbai Indians,183,1,112,18.4,9.8,180.0,0.0,8,9
+31257,IPL 2024,2024,1,Chennai Super Kings,Lucknow Super Giants,210,4,120,20.0,10.5,,,0,6
+31257,IPL 2024,2024,2,Lucknow Super Giants,Chennai Super Kings,213,4,117,19.3,10.92,211.0,0.0,3,6
+31258,IPL 2024,2024,1,Delhi Capitals,Gujarat Titans,224,4,120,20.0,11.2,,,0,6
+31258,IPL 2024,2024,2,Gujarat Titans,Delhi Capitals,220,8,120,20.0,11.0,225.0,5.0,0,2
+31259,IPL 2024,2024,1,Royal Challengers Bengaluru,Sunrisers Hyderabad,206,7,120,20.0,10.3,,,0,3
+31259,IPL 2024,2024,2,Sunrisers Hyderabad,Royal Challengers Bengaluru,171,8,120,20.0,8.55,207.0,36.0,0,2
+31260,IPL 2024,2024,1,Kolkata Knight Riders,Punjab Kings,261,6,120,20.0,13.05,,,0,4
+31260,IPL 2024,2024,2,Punjab Kings,Kolkata Knight Riders,262,2,112,18.4,14.04,262.0,0.0,8,8
+31261,IPL 2024,2024,1,Delhi Capitals,Mumbai Indians,257,4,120,20.0,12.85,,,0,6
+31261,IPL 2024,2024,2,Mumbai Indians,Delhi Capitals,247,9,120,20.0,12.35,258.0,11.0,0,1
+31262,IPL 2024,2024,1,Lucknow Super Giants,Rajasthan Royals,196,5,120,20.0,9.8,,,0,5
+31262,IPL 2024,2024,2,Rajasthan Royals,Lucknow Super Giants,199,3,114,19.0,10.47,197.0,0.0,6,7
+31263,IPL 2024,2024,1,Gujarat Titans,Royal Challengers Bengaluru,200,3,120,20.0,10.0,,,0,7
+31263,IPL 2024,2024,2,Royal Challengers Bengaluru,Gujarat Titans,206,1,96,16.0,12.88,201.0,0.0,24,9
+31264,IPL 2024,2024,1,Chennai Super Kings,Sunrisers Hyderabad,212,3,120,20.0,10.6,,,0,7
+31264,IPL 2024,2024,2,Sunrisers Hyderabad,Chennai Super Kings,134,10,113,18.5,7.12,213.0,79.0,7,0
+31265,IPL 2024,2024,1,Delhi Capitals,Kolkata Knight Riders,153,9,120,20.0,7.65,,,0,1
+31265,IPL 2024,2024,2,Kolkata Knight Riders,Delhi Capitals,157,3,99,16.3,9.52,154.0,0.0,21,7
+31266,IPL 2024,2024,1,Mumbai Indians,Lucknow Super Giants,144,7,120,20.0,7.2,,,0,3
+31266,IPL 2024,2024,2,Lucknow Super Giants,Mumbai Indians,145,6,116,19.2,7.5,145.0,0.0,4,4
+31267,IPL 2024,2024,1,Chennai Super Kings,Punjab Kings,162,7,120,20.0,8.1,,,0,3
+31267,IPL 2024,2024,2,Punjab Kings,Chennai Super Kings,163,3,107,17.5,9.14,163.0,0.0,13,7
+31268,IPL 2024,2024,1,Sunrisers Hyderabad,Rajasthan Royals,201,3,120,20.0,10.05,,,0,7
+31268,IPL 2024,2024,2,Rajasthan Royals,Sunrisers Hyderabad,200,7,120,20.0,10.0,202.0,2.0,0,3
+31269,IPL 2024,2024,1,Kolkata Knight Riders,Mumbai Indians,169,10,119,19.5,8.52,,,1,0
+31269,IPL 2024,2024,2,Mumbai Indians,Kolkata Knight Riders,145,10,113,18.5,7.7,170.0,25.0,7,0
+31270,IPL 2024,2024,1,Gujarat Titans,Royal Challengers Bengaluru,147,10,117,19.3,7.54,,,3,0
+31270,IPL 2024,2024,2,Royal Challengers Bengaluru,Gujarat Titans,152,6,82,13.4,11.12,148.0,0.0,38,4
+31271,IPL 2024,2024,1,Chennai Super Kings,Punjab Kings,167,9,120,20.0,8.35,,,0,1
+31271,IPL 2024,2024,2,Punjab Kings,Chennai Super Kings,139,9,120,20.0,6.95,168.0,29.0,0,1
+31272,IPL 2024,2024,1,Kolkata Knight Riders,Lucknow Super Giants,235,6,120,20.0,11.75,,,0,4
+31272,IPL 2024,2024,2,Lucknow Super Giants,Kolkata Knight Riders,137,10,97,16.1,8.47,236.0,99.0,23,0
+31273,IPL 2024,2024,1,Sunrisers Hyderabad,Mumbai Indians,173,8,120,20.0,8.65,,,0,2
+31273,IPL 2024,2024,2,Mumbai Indians,Sunrisers Hyderabad,174,3,104,17.2,10.04,174.0,0.0,16,7
+31274,IPL 2024,2024,1,Delhi Capitals,Rajasthan Royals,221,8,120,20.0,11.05,,,0,2
+31274,IPL 2024,2024,2,Rajasthan Royals,Delhi Capitals,201,8,120,20.0,10.05,222.0,21.0,0,2
+31275,IPL 2024,2024,1,Lucknow Super Giants,Sunrisers Hyderabad,165,4,120,20.0,8.25,,,0,6
+31275,IPL 2024,2024,2,Sunrisers Hyderabad,Lucknow Super Giants,167,0,58,9.4,17.28,166.0,0.0,62,10
+31276,IPL 2024,2024,1,Royal Challengers Bengaluru,Punjab Kings,241,7,120,20.0,12.05,,,0,3
+31276,IPL 2024,2024,2,Punjab Kings,Royal Challengers Bengaluru,181,10,102,17.0,10.65,242.0,61.0,18,0
+31277,IPL 2024,2024,1,Gujarat Titans,Chennai Super Kings,231,3,120,20.0,11.55,,,0,7
+31277,IPL 2024,2024,2,Chennai Super Kings,Gujarat Titans,196,8,120,20.0,9.8,232.0,36.0,0,2
+31278,IPL 2024,2024,1,Kolkata Knight Riders,Mumbai Indians,157,7,96,16.0,9.81,,,24,3
+31278,IPL 2024,2024,2,Mumbai Indians,Kolkata Knight Riders,139,8,96,16.0,8.69,158.0,19.0,24,2
+31279,IPL 2024,2024,1,Rajasthan Royals,Chennai Super Kings,141,5,120,20.0,7.05,,,0,5
+31279,IPL 2024,2024,2,Chennai Super Kings,Rajasthan Royals,145,5,110,18.2,7.91,142.0,0.0,10,5
+31280,IPL 2024,2024,1,Royal Challengers Bengaluru,Delhi Capitals,187,9,120,20.0,9.35,,,0,1
+31280,IPL 2024,2024,2,Delhi Capitals,Royal Challengers Bengaluru,140,10,115,19.1,7.3,188.0,48.0,5,0
+31282,IPL 2024,2024,1,Delhi Capitals,Lucknow Super Giants,208,4,120,20.0,10.4,,,0,6
+31282,IPL 2024,2024,2,Lucknow Super Giants,Delhi Capitals,189,9,120,20.0,9.45,209.0,20.0,0,1
+31283,IPL 2024,2024,1,Rajasthan Royals,Punjab Kings,144,9,120,20.0,7.2,,,0,1
+31283,IPL 2024,2024,2,Punjab Kings,Rajasthan Royals,145,5,113,18.5,7.7,145.0,0.0,7,5
+31285,IPL 2024,2024,1,Lucknow Super Giants,Mumbai Indians,214,6,120,20.0,10.7,,,0,4
+31285,IPL 2024,2024,2,Mumbai Indians,Lucknow Super Giants,196,6,120,20.0,9.8,215.0,19.0,0,4
+31286,IPL 2024,2024,1,Royal Challengers Bengaluru,Chennai Super Kings,218,5,120,20.0,10.9,,,0,5
+31286,IPL 2024,2024,2,Chennai Super Kings,Royal Challengers Bengaluru,191,7,120,20.0,9.55,219.0,28.0,0,3
+31287,IPL 2024,2024,1,Punjab Kings,Sunrisers Hyderabad,214,5,120,20.0,10.7,,,0,5
+31287,IPL 2024,2024,2,Sunrisers Hyderabad,Punjab Kings,215,6,115,19.1,11.22,215.0,0.0,5,4
+31289,IPL 2024,2024,1,Sunrisers Hyderabad,Kolkata Knight Riders,159,10,117,19.3,8.15,,,3,0
+31289,IPL 2024,2024,2,Kolkata Knight Riders,Sunrisers Hyderabad,164,2,82,13.4,12.0,160.0,0.0,38,8
+31290,IPL 2024,2024,1,Royal Challengers Bengaluru,Rajasthan Royals,172,8,120,20.0,8.6,,,0,2
+31290,IPL 2024,2024,2,Rajasthan Royals,Royal Challengers Bengaluru,174,6,114,19.0,9.16,173.0,0.0,6,4
+31291,IPL 2024,2024,1,Sunrisers Hyderabad,Rajasthan Royals,175,9,120,20.0,8.75,,,0,1
+31291,IPL 2024,2024,2,Rajasthan Royals,Sunrisers Hyderabad,139,7,120,20.0,6.95,176.0,37.0,0,3
+31292,IPL 2024,2024,1,Sunrisers Hyderabad,Kolkata Knight Riders,113,10,111,18.3,6.11,,,9,0
+31292,IPL 2024,2024,2,Kolkata Knight Riders,Sunrisers Hyderabad,114,2,63,10.3,10.86,114.0,0.0,57,8
+31707,New Zealand in Pakistan T20I Series 2024,2024,1,New Zealand,Pakistan,2,1,2,0.2,6.0,,,28,9
+31708,New Zealand in Pakistan T20I Series 2024,2024,1,New Zealand,Pakistan,90,10,109,18.1,4.95,,,11,0
+31708,New Zealand in Pakistan T20I Series 2024,2024,2,Pakistan,New Zealand,92,3,73,12.1,7.56,91.0,0.0,47,7
+31709,New Zealand in Pakistan T20I Series 2024,2024,1,Pakistan,New Zealand,178,4,120,20.0,8.9,,,0,6
+31709,New Zealand in Pakistan T20I Series 2024,2024,2,New Zealand,Pakistan,179,3,110,18.2,9.76,179.0,0.0,10,7
+31710,New Zealand in Pakistan T20I Series 2024,2024,1,New Zealand,Pakistan,178,7,120,20.0,8.9,,,0,3
+31710,New Zealand in Pakistan T20I Series 2024,2024,2,Pakistan,New Zealand,174,8,120,20.0,8.7,179.0,5.0,0,2
+31711,New Zealand in Pakistan T20I Series 2024,2024,1,Pakistan,New Zealand,178,5,120,20.0,8.9,,,0,5
+31711,New Zealand in Pakistan T20I Series 2024,2024,2,New Zealand,Pakistan,169,10,116,19.2,8.74,179.0,10.0,4,0
+32132,Zimbabwe in Bangladesh T20I Series 2024,2024,1,Zimbabwe,Bangladesh,124,10,120,20.0,6.2,,,0,0
+32132,Zimbabwe in Bangladesh T20I Series 2024,2024,2,Bangladesh,Zimbabwe,126,2,92,15.2,8.22,125.0,0.0,28,8
+32133,Zimbabwe in Bangladesh T20I Series 2024,2024,1,Zimbabwe,Bangladesh,138,7,120,20.0,6.9,,,0,3
+32133,Zimbabwe in Bangladesh T20I Series 2024,2024,2,Bangladesh,Zimbabwe,142,4,111,18.3,7.68,139.0,0.0,9,6
+32134,Zimbabwe in Bangladesh T20I Series 2024,2024,1,Bangladesh,Zimbabwe,165,5,120,20.0,8.25,,,0,5
+32134,Zimbabwe in Bangladesh T20I Series 2024,2024,2,Zimbabwe,Bangladesh,156,9,120,20.0,7.8,166.0,10.0,0,1
+32135,Zimbabwe in Bangladesh T20I Series 2024,2024,1,Bangladesh,Zimbabwe,143,10,119,19.5,7.21,,,1,0
+32135,Zimbabwe in Bangladesh T20I Series 2024,2024,2,Zimbabwe,Bangladesh,138,10,118,19.4,7.02,144.0,6.0,2,0
+32136,Zimbabwe in Bangladesh T20I Series 2024,2024,1,Bangladesh,Zimbabwe,157,6,120,20.0,7.85,,,0,4
+32136,Zimbabwe in Bangladesh T20I Series 2024,2024,2,Zimbabwe,Bangladesh,158,2,111,18.3,8.54,158.0,0.0,9,8
+32290,Pakistan in Ireland T20I series 2024,2024,1,Pakistan,Ireland,182,6,120,20.0,9.1,,,0,4
+32290,Pakistan in Ireland T20I series 2024,2024,2,Ireland,Pakistan,183,5,119,19.5,9.23,183.0,0.0,1,5
+32291,Pakistan in Ireland T20I series 2024,2024,1,Ireland,Pakistan,193,7,120,20.0,9.65,,,0,3
+32291,Pakistan in Ireland T20I series 2024,2024,2,Pakistan,Ireland,195,3,101,16.5,11.58,194.0,0.0,19,7
+32292,Pakistan in Ireland T20I series 2024,2024,1,Ireland,Pakistan,178,7,120,20.0,8.9,,,0,3
+32292,Pakistan in Ireland T20I series 2024,2024,2,Pakistan,Ireland,181,4,102,17.0,10.65,179.0,0.0,18,6
+32611,Pakistan in England T20I Series 2024,2024,1,England,Pakistan,183,7,120,20.0,9.15,,,0,3
+32611,Pakistan in England T20I Series 2024,2024,2,Pakistan,England,160,10,116,19.2,8.28,184.0,24.0,4,0
+32613,Pakistan in England T20I Series 2024,2024,1,Pakistan,England,157,10,119,19.5,7.92,,,1,0
+32613,Pakistan in England T20I Series 2024,2024,2,England,Pakistan,158,3,93,15.3,10.19,158.0,0.0,27,7
+32617,South Africa in West Indies T20I Series [May 2024] 2024,2024,1,West Indies,South Africa,175,8,120,20.0,8.75,,,0,2
+32617,South Africa in West Indies T20I Series [May 2024] 2024,2024,2,South Africa,West Indies,147,10,119,19.5,7.41,176.0,29.0,1,0
+32618,South Africa in West Indies T20I Series [May 2024] 2024,2024,1,West Indies,South Africa,207,7,120,20.0,10.35,,,0,3
+32618,South Africa in West Indies T20I Series [May 2024] 2024,2024,2,South Africa,West Indies,191,7,120,20.0,9.55,208.0,17.0,0,3
+32619,South Africa in West Indies T20I Series [May 2024] 2024,2024,1,South Africa,West Indies,163,7,120,20.0,8.15,,,0,3
+32619,South Africa in West Indies T20I Series [May 2024] 2024,2024,2,West Indies,South Africa,165,2,83,13.5,11.93,164.0,0.0,37,8
+32620,Netherlands Tri-Nation T20I Series 2024,2024,1,Netherlands,Scotland,167,8,120,20.0,8.35,,,0,2
+32620,Netherlands Tri-Nation T20I Series 2024,2024,2,Scotland,Netherlands,126,10,109,18.1,6.94,168.0,42.0,11,0
+32621,Netherlands Tri-Nation T20I Series 2024,2024,1,Ireland,Netherlands,150,8,120,20.0,7.5,,,0,2
+32621,Netherlands Tri-Nation T20I Series 2024,2024,2,Netherlands,Ireland,149,8,120,20.0,7.45,151.0,2.0,0,2
+32623,Netherlands Tri-Nation T20I Series 2024,2024,1,Scotland,Netherlands,158,7,120,20.0,7.9,,,0,3
+32623,Netherlands Tri-Nation T20I Series 2024,2024,2,Netherlands,Scotland,87,10,89,14.5,5.87,159.0,72.0,31,0
+32624,Netherlands Tri-Nation T20I Series 2024,2024,1,Scotland,Ireland,157,8,120,20.0,7.85,,,0,2
+32624,Netherlands Tri-Nation T20I Series 2024,2024,2,Ireland,Scotland,158,5,117,19.3,8.1,158.0,0.0,3,5
+32625,Netherlands Tri-Nation T20I Series 2024,2024,1,Ireland,Netherlands,161,6,120,20.0,8.05,,,0,4
+32625,Netherlands Tri-Nation T20I Series 2024,2024,2,Netherlands,Ireland,158,5,120,20.0,7.9,162.0,4.0,0,5
+33803,India in Zimbabwe T20I Series 2024,2024,1,Zimbabwe,India,115,9,120,20.0,5.75,,,0,1
+33803,India in Zimbabwe T20I Series 2024,2024,2,India,Zimbabwe,102,10,119,19.5,5.14,116.0,14.0,1,0
+33804,India in Zimbabwe T20I Series 2024,2024,1,India,Zimbabwe,234,2,120,20.0,11.7,,,0,8
+33804,India in Zimbabwe T20I Series 2024,2024,2,Zimbabwe,India,134,10,112,18.4,7.18,235.0,101.0,8,0
+33805,India in Zimbabwe T20I Series 2024,2024,1,India,Zimbabwe,182,4,120,20.0,9.1,,,0,6
+33805,India in Zimbabwe T20I Series 2024,2024,2,Zimbabwe,India,159,6,120,20.0,7.95,183.0,24.0,0,4
+33806,India in Zimbabwe T20I Series 2024,2024,1,Zimbabwe,India,152,7,120,20.0,7.6,,,0,3
+33806,India in Zimbabwe T20I Series 2024,2024,2,India,Zimbabwe,156,0,92,15.2,10.17,153.0,0.0,28,10
+33807,India in Zimbabwe T20I Series 2024,2024,1,India,Zimbabwe,167,6,120,20.0,8.35,,,0,4
+33807,India in Zimbabwe T20I Series 2024,2024,2,Zimbabwe,India,125,10,111,18.3,6.76,168.0,43.0,9,0
+34427,India in Sri Lanka T20I Series 2024,2024,1,India,Sri Lanka,213,7,120,20.0,10.65,,,0,3
+34427,India in Sri Lanka T20I Series 2024,2024,2,Sri Lanka,India,170,10,116,19.2,8.79,214.0,44.0,4,0
+34428,India in Sri Lanka T20I Series 2024,2024,1,Sri Lanka,India,161,9,120,20.0,8.05,,,0,1
+34428,India in Sri Lanka T20I Series 2024,2024,2,India,Sri Lanka,81,3,39,6.3,12.46,78.0,0.0,9,7
+34429,India in Sri Lanka T20I Series 2024,2024,1,India,Sri Lanka,137,9,120,20.0,6.85,,,0,1
+34429,India in Sri Lanka T20I Series 2024,2024,2,Sri Lanka,India,137,8,120,20.0,6.85,138.0,1.0,0,2
+34429,India in Sri Lanka T20I Series 2024,2024,3,Sri Lanka,India,2,2,3,0.3,4.0,,,3,0
+34429,India in Sri Lanka T20I Series 2024,2024,4,India,Sri Lanka,4,0,1,0.1,24.0,3.0,0.0,5,2
+35423,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,1,Canada,Netherlands,152,5,120,20.0,7.6,,,0,5
+35423,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,2,Netherlands,Canada,153,5,97,16.1,9.46,153.0,0.0,23,5
+35424,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,1,Canada,United States Of America,169,5,120,20.0,8.45,,,0,5
+35425,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,1,Netherlands,United States Of America,217,5,120,20.0,10.85,,,0,5
+35425,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,2,United States Of America,Netherlands,115,10,94,15.4,7.34,218.0,103.0,26,0
+35427,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,1,Canada,Netherlands,132,9,120,20.0,6.6,,,0,1
+35427,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,2,Netherlands,Canada,124,8,120,20.0,6.2,133.0,9.0,0,2
+35428,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,1,United States Of America,Canada,168,6,120,20.0,8.4,,,0,4
+35428,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,2,Canada,United States Of America,148,7,120,20.0,7.4,169.0,21.0,0,3
+35429,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,1,Netherlands,United States Of America,132,8,120,20.0,6.6,,,0,2
+35429,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,2,United States Of America,Netherlands,128,10,115,19.1,6.68,133.0,5.0,5,0
+36096,South Africa in West Indies T20I Series 2024,2024,1,South Africa,West Indies,174,7,120,20.0,8.7,,,0,3
+36096,South Africa in West Indies T20I Series 2024,2024,2,West Indies,South Africa,176,3,107,17.5,9.87,175.0,0.0,13,7
+36097,South Africa in West Indies T20I Series 2024,2024,1,West Indies,South Africa,179,6,120,20.0,8.95,,,0,4
+36097,South Africa in West Indies T20I Series 2024,2024,2,South Africa,West Indies,149,10,118,19.4,7.58,180.0,31.0,2,0
+36098,South Africa in West Indies T20I Series 2024,2024,1,South Africa,West Indies,108,4,78,13.0,8.31,,,0,6
+36098,South Africa in West Indies T20I Series 2024,2024,2,West Indies,South Africa,116,2,56,9.2,12.43,116.0,0.0,22,8
+36199,West Indies in England T20I Series 2025,2025,1,England,West Indies,188,6,120,20.0,9.4,,,0,4
+36199,West Indies in England T20I Series 2025,2025,2,West Indies,England,167,9,120,20.0,8.35,189.0,22.0,0,1
+36200,West Indies in England T20I Series 2025,2025,1,West Indies,England,196,6,120,20.0,9.8,,,0,4
+36200,West Indies in England T20I Series 2025,2025,2,England,West Indies,199,6,111,18.3,10.76,197.0,0.0,9,4
+36201,West Indies in England T20I Series 2025,2025,1,England,West Indies,248,3,120,20.0,12.4,,,0,7
+36201,West Indies in England T20I Series 2025,2025,2,West Indies,England,211,8,120,20.0,10.55,249.0,38.0,0,2
+36208,South Africa in England T20I Series 2025,2025,1,South Africa,England,97,5,47,7.5,12.38,,,7,5
+36208,South Africa in England T20I Series 2025,2025,2,England,South Africa,54,5,30,5.0,10.8,69.0,15.0,0,5
+36209,South Africa in England T20I Series 2025,2025,1,England,South Africa,304,2,120,20.0,15.2,,,0,8
+36209,South Africa in England T20I Series 2025,2025,2,South Africa,England,158,10,97,16.1,9.77,305.0,147.0,23,0
+36559,Australia in Scotland T20I Series 2024,2024,1,Scotland,Australia,154,9,120,20.0,7.7,,,0,1
+36559,Australia in Scotland T20I Series 2024,2024,2,Australia,Scotland,156,3,58,9.4,16.14,155.0,0.0,62,7
+36560,Australia in Scotland T20I Series 2024,2024,1,Australia,Scotland,196,4,120,20.0,9.8,,,0,6
+36560,Australia in Scotland T20I Series 2024,2024,2,Scotland,Australia,126,10,100,16.4,7.56,197.0,71.0,20,0
+36561,Australia in Scotland T20I Series 2024,2024,1,Scotland,Australia,149,9,120,20.0,7.45,,,0,1
+36561,Australia in Scotland T20I Series 2024,2024,2,Australia,Scotland,153,4,97,16.1,9.46,150.0,0.0,23,6
+36562,Australia in England T20I Series 2024,2024,1,Australia,England,179,10,117,19.3,9.18,,,3,0
+36562,Australia in England T20I Series 2024,2024,2,England,Australia,151,10,116,19.2,7.81,180.0,29.0,4,0
+36563,Australia in England T20I Series 2024,2024,1,Australia,England,193,6,120,20.0,9.65,,,0,4
+36563,Australia in England T20I Series 2024,2024,2,England,Australia,194,7,114,19.0,10.21,194.0,0.0,6,3
+37014,Ireland v South Africa T20I Series 2024,2024,1,Ireland,South Africa,171,8,120,20.0,8.55,,,0,2
+37014,Ireland v South Africa T20I Series 2024,2024,2,South Africa,Ireland,174,2,106,17.4,9.85,172.0,0.0,14,8
+37015,Ireland v South Africa T20I Series 2024,2024,1,Ireland,South Africa,195,6,120,20.0,9.75,,,0,4
+37015,Ireland v South Africa T20I Series 2024,2024,2,South Africa,Ireland,185,9,120,20.0,9.25,196.0,11.0,0,1
+37276,Bangladesh in India T20I Series 2024,2024,1,Bangladesh,India,127,10,119,19.5,6.4,,,1,0
+37276,Bangladesh in India T20I Series 2024,2024,2,India,Bangladesh,132,3,71,11.5,11.15,128.0,0.0,49,7
+37277,Bangladesh in India T20I Series 2024,2024,1,India,Bangladesh,221,9,120,20.0,11.05,,,0,1
+37277,Bangladesh in India T20I Series 2024,2024,2,Bangladesh,India,135,9,120,20.0,6.75,222.0,87.0,0,1
+37278,Bangladesh in India T20I Series 2024,2024,1,India,Bangladesh,297,6,120,20.0,14.85,,,0,4
+37278,Bangladesh in India T20I Series 2024,2024,2,Bangladesh,India,164,7,120,20.0,8.2,298.0,134.0,0,3
+37349,England in West Indies T20I Series 2024,2024,1,West Indies,England,182,9,120,20.0,9.1,,,0,1
+37349,England in West Indies T20I Series 2024,2024,2,England,West Indies,183,2,101,16.5,10.87,183.0,0.0,19,8
+37350,England in West Indies T20I Series 2024,2024,1,West Indies,England,158,8,120,20.0,7.9,,,0,2
+37350,England in West Indies T20I Series 2024,2024,2,England,West Indies,161,3,89,14.5,10.85,159.0,0.0,31,7
+37351,England in West Indies T20I Series 2024,2024,1,West Indies,England,145,8,120,20.0,7.25,,,0,2
+37351,England in West Indies T20I Series 2024,2024,2,England,West Indies,149,7,116,19.2,7.71,146.0,0.0,4,3
+37352,England in West Indies T20I Series 2024,2024,1,England,West Indies,218,5,120,20.0,10.9,,,0,5
+37352,England in West Indies T20I Series 2024,2024,2,West Indies,England,221,5,114,19.0,11.63,219.0,0.0,6,5
+37353,England in West Indies T20I Series 2024,2024,1,West Indies,England,44,0,30,5.0,8.8,,,90,10
+37354,Pakistan in Australia T20I Series 2024,2024,1,Australia,Pakistan,93,4,42,7.0,13.29,,,0,6
+37354,Pakistan in Australia T20I Series 2024,2024,2,Pakistan,Australia,64,9,42,7.0,9.14,94.0,30.0,0,1
+37355,Pakistan in Australia T20I Series 2024,2024,1,Australia,Pakistan,147,9,120,20.0,7.35,,,0,1
+37355,Pakistan in Australia T20I Series 2024,2024,2,Pakistan,Australia,134,10,118,19.4,6.81,148.0,14.0,2,0
+37356,Pakistan in Australia T20I Series 2024,2024,1,Pakistan,Australia,117,10,109,18.1,6.44,,,11,0
+37356,Pakistan in Australia T20I Series 2024,2024,2,Australia,Pakistan,118,3,68,11.2,10.41,118.0,0.0,52,7
+37553,West Indies in Sri Lanka T20I Series 2024,2024,1,Sri Lanka,West Indies,179,7,120,20.0,8.95,,,0,3
+37553,West Indies in Sri Lanka T20I Series 2024,2024,2,West Indies,Sri Lanka,180,5,115,19.1,9.39,180.0,0.0,5,5
+37554,West Indies in Sri Lanka T20I Series 2024,2024,1,Sri Lanka,West Indies,162,5,120,20.0,8.1,,,0,5
+37554,West Indies in Sri Lanka T20I Series 2024,2024,2,West Indies,Sri Lanka,89,10,97,16.1,5.51,163.0,74.0,23,0
+37555,West Indies in Sri Lanka T20I Series 2024,2024,1,West Indies,Sri Lanka,162,8,120,20.0,8.1,,,0,2
+37555,West Indies in Sri Lanka T20I Series 2024,2024,2,Sri Lanka,West Indies,166,1,108,18.0,9.22,163.0,0.0,12,9
+37894,New Zealand in Sri Lanka T20I Series 2024,2024,1,New Zealand,Sri Lanka,135,10,117,19.3,6.92,,,3,0
+37894,New Zealand in Sri Lanka T20I Series 2024,2024,2,Sri Lanka,New Zealand,140,6,114,19.0,7.37,136.0,0.0,6,4
+37895,New Zealand in Sri Lanka T20I Series 2024,2024,1,New Zealand,Sri Lanka,108,10,117,19.3,5.54,,,3,0
+37895,New Zealand in Sri Lanka T20I Series 2024,2024,2,Sri Lanka,New Zealand,103,10,119,19.5,5.19,109.0,6.0,1,0
+37926,Pakistan in Zimbabwe T20I Series 2024,2024,1,Pakistan,Zimbabwe,165,4,120,20.0,8.25,,,0,6
+37926,Pakistan in Zimbabwe T20I Series 2024,2024,2,Zimbabwe,Pakistan,108,10,93,15.3,6.97,166.0,58.0,27,0
+37927,Pakistan in Zimbabwe T20I Series 2024,2024,1,Zimbabwe,Pakistan,57,10,76,12.4,4.5,,,44,0
+37927,Pakistan in Zimbabwe T20I Series 2024,2024,2,Pakistan,Zimbabwe,61,0,33,5.3,11.09,58.0,0.0,87,10
+37928,Pakistan in Zimbabwe T20I Series 2024,2024,1,Pakistan,Zimbabwe,132,7,120,20.0,6.6,,,0,3
+37928,Pakistan in Zimbabwe T20I Series 2024,2024,2,Zimbabwe,Pakistan,133,8,119,19.5,6.71,133.0,0.0,1,2
+37940,India in South Africa T20I Series 2024,2024,1,India,South Africa,202,8,120,20.0,10.1,,,0,2
+37940,India in South Africa T20I Series 2024,2024,2,South Africa,India,141,10,107,17.5,7.91,203.0,62.0,13,0
+37941,India in South Africa T20I Series 2024,2024,1,India,South Africa,124,6,120,20.0,6.2,,,0,4
+37941,India in South Africa T20I Series 2024,2024,2,South Africa,India,128,7,114,19.0,6.74,125.0,0.0,6,3
+37942,India in South Africa T20I Series 2024,2024,1,India,South Africa,219,6,120,20.0,10.95,,,0,4
+37942,India in South Africa T20I Series 2024,2024,2,South Africa,India,208,7,120,20.0,10.4,220.0,12.0,0,3
+37943,India in South Africa T20I Series 2024,2024,1,India,South Africa,283,1,120,20.0,14.15,,,0,9
+37943,India in South Africa T20I Series 2024,2024,2,South Africa,India,148,10,110,18.2,8.07,284.0,136.0,10,0
+38626,Afghanistan in Zimbabwe T20I Series 2024,2024,1,Afghanistan,Zimbabwe,144,6,120,20.0,7.2,,,0,4
+38626,Afghanistan in Zimbabwe T20I Series 2024,2024,2,Zimbabwe,Afghanistan,145,6,120,20.0,7.25,145.0,0.0,0,4
+38627,Afghanistan in Zimbabwe T20I Series 2024,2024,1,Afghanistan,Zimbabwe,153,6,120,20.0,7.65,,,0,4
+38627,Afghanistan in Zimbabwe T20I Series 2024,2024,2,Zimbabwe,Afghanistan,103,10,106,17.4,5.83,154.0,51.0,14,0
+38628,Afghanistan in Zimbabwe T20I Series 2024,2024,1,Zimbabwe,Afghanistan,127,10,119,19.5,6.4,,,1,0
+38628,Afghanistan in Zimbabwe T20I Series 2024,2024,2,Afghanistan,Zimbabwe,128,7,117,19.3,6.56,128.0,0.0,3,3
+38632,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,1,New Zealand,Sri Lanka,172,8,120,20.0,8.6,,,0,2
+38632,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,2,Sri Lanka,New Zealand,164,8,120,20.0,8.2,173.0,9.0,0,2
+38633,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,1,New Zealand,Sri Lanka,186,5,120,20.0,9.3,,,0,5
+38633,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,2,Sri Lanka,New Zealand,141,10,115,19.1,7.36,187.0,46.0,5,0
+38634,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,1,Sri Lanka,New Zealand,218,5,120,20.0,10.9,,,0,5
+38634,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,2,New Zealand,Sri Lanka,211,7,120,20.0,10.55,219.0,8.0,0,3
+38795,Pakistan in South Africa T20I Series 2024,2024,1,South Africa,Pakistan,183,9,120,20.0,9.15,,,0,1
+38795,Pakistan in South Africa T20I Series 2024,2024,2,Pakistan,South Africa,172,8,120,20.0,8.6,184.0,12.0,0,2
+38796,Pakistan in South Africa T20I Series 2024,2024,1,Pakistan,South Africa,206,5,120,20.0,10.3,,,0,5
+38796,Pakistan in South Africa T20I Series 2024,2024,2,South Africa,Pakistan,210,3,117,19.3,10.77,207.0,0.0,3,7
+38842,Bangladesh in West Indies T20I Series 2024,2024,1,Bangladesh,West Indies,147,6,120,20.0,7.35,,,0,4
+38842,Bangladesh in West Indies T20I Series 2024,2024,2,West Indies,Bangladesh,140,10,119,19.5,7.06,148.0,8.0,1,0
+38843,Bangladesh in West Indies T20I Series 2024,2024,1,Bangladesh,West Indies,129,7,120,20.0,6.45,,,0,3
+38843,Bangladesh in West Indies T20I Series 2024,2024,2,West Indies,Bangladesh,102,10,111,18.3,5.51,130.0,28.0,9,0
+38844,Bangladesh in West Indies T20I Series 2024,2024,1,Bangladesh,West Indies,189,7,120,20.0,9.45,,,0,3
+38844,Bangladesh in West Indies T20I Series 2024,2024,2,West Indies,Bangladesh,109,10,100,16.4,6.54,190.0,81.0,20,0
+39808,Pakistan in New Zealand T20I Series 2025,2025,1,Pakistan,New Zealand,91,10,112,18.4,4.88,,,8,0
+39808,Pakistan in New Zealand T20I Series 2025,2025,2,New Zealand,Pakistan,92,1,61,10.1,9.05,92.0,0.0,59,9
+39809,Pakistan in New Zealand T20I Series 2025,2025,1,Pakistan,New Zealand,135,9,90,15.0,9.0,,,0,1
+39809,Pakistan in New Zealand T20I Series 2025,2025,2,New Zealand,Pakistan,137,5,79,13.1,10.41,136.0,0.0,11,5
+39810,Pakistan in New Zealand T20I Series 2025,2025,1,New Zealand,Pakistan,204,10,119,19.5,10.29,,,1,0
+39810,Pakistan in New Zealand T20I Series 2025,2025,2,Pakistan,New Zealand,207,1,96,16.0,12.94,205.0,0.0,24,9
+39811,Pakistan in New Zealand T20I Series 2025,2025,1,New Zealand,Pakistan,220,6,120,20.0,11.0,,,0,4
+39811,Pakistan in New Zealand T20I Series 2025,2025,2,Pakistan,New Zealand,105,10,98,16.2,6.43,221.0,116.0,22,0
+39812,Pakistan in New Zealand T20I Series 2025,2025,1,Pakistan,New Zealand,128,9,120,20.0,6.4,,,0,1
+39812,Pakistan in New Zealand T20I Series 2025,2025,2,New Zealand,Pakistan,131,2,60,10.0,13.1,129.0,0.0,60,8
+39983,Ireland in Zimbabwe T20I Series 2025,2025,1,Zimbabwe,Ireland,77,5,54,9.0,8.56,,,0,5
+39984,Ireland in Zimbabwe T20I Series 2025,2025,1,Ireland,Zimbabwe,137,8,120,20.0,6.85,,,0,2
+39984,Ireland in Zimbabwe T20I Series 2025,2025,2,Zimbabwe,Ireland,141,7,116,19.2,7.29,138.0,0.0,4,3
+39985,Ireland in Zimbabwe T20I Series 2025,2025,1,Zimbabwe,Ireland,142,6,108,18.0,7.89,,,0,4
+40036,England in India T20I Series 2025,2025,1,England,India,132,10,120,20.0,6.6,,,0,0
+40036,England in India T20I Series 2025,2025,2,India,England,133,3,77,12.5,10.36,133.0,0.0,43,7
+40037,England in India T20I Series 2025,2025,1,England,India,165,9,120,20.0,8.25,,,0,1
+40037,England in India T20I Series 2025,2025,2,India,England,166,8,116,19.2,8.59,166.0,0.0,4,2
+40038,England in India T20I Series 2025,2025,1,England,India,171,9,120,20.0,8.55,,,0,1
+40038,England in India T20I Series 2025,2025,2,India,England,145,9,120,20.0,7.25,172.0,27.0,0,1
+40039,England in India T20I Series 2025,2025,1,India,England,181,9,120,20.0,9.05,,,0,1
+40039,England in India T20I Series 2025,2025,2,England,India,166,10,118,19.4,8.44,182.0,16.0,2,0
+40040,England in India T20I Series 2025,2025,1,India,England,247,9,120,20.0,12.35,,,0,1
+40040,England in India T20I Series 2025,2025,2,England,India,97,10,63,10.3,9.24,248.0,151.0,57,0
+40694,IPL 2025,2025,1,Kolkata Knight Riders,Royal Challengers Bengaluru,174,8,120,20.0,8.7,,,0,2
+40694,IPL 2025,2025,2,Royal Challengers Bengaluru,Kolkata Knight Riders,177,3,98,16.2,10.84,175.0,0.0,22,7
+40695,IPL 2025,2025,1,Sunrisers Hyderabad,Rajasthan Royals,286,6,120,20.0,14.3,,,0,4
+40695,IPL 2025,2025,2,Rajasthan Royals,Sunrisers Hyderabad,242,6,120,20.0,12.1,287.0,45.0,0,4
+40696,IPL 2025,2025,1,Mumbai Indians,Chennai Super Kings,155,9,120,20.0,7.75,,,0,1
+40696,IPL 2025,2025,2,Chennai Super Kings,Mumbai Indians,158,6,115,19.1,8.24,156.0,0.0,5,4
+40697,IPL 2025,2025,1,Lucknow Super Giants,Delhi Capitals,209,8,120,20.0,10.45,,,0,2
+40697,IPL 2025,2025,2,Delhi Capitals,Lucknow Super Giants,211,9,117,19.3,10.82,210.0,0.0,3,1
+40698,IPL 2025,2025,1,Punjab Kings,Gujarat Titans,243,5,120,20.0,12.15,,,0,5
+40698,IPL 2025,2025,2,Gujarat Titans,Punjab Kings,232,5,120,20.0,11.6,244.0,12.0,0,5
+40699,IPL 2025,2025,1,Rajasthan Royals,Kolkata Knight Riders,151,9,120,20.0,7.55,,,0,1
+40699,IPL 2025,2025,2,Kolkata Knight Riders,Rajasthan Royals,153,2,105,17.3,8.74,152.0,0.0,15,8
+40700,IPL 2025,2025,1,Sunrisers Hyderabad,Lucknow Super Giants,190,9,120,20.0,9.5,,,0,1
+40700,IPL 2025,2025,2,Lucknow Super Giants,Sunrisers Hyderabad,193,5,97,16.1,11.94,191.0,0.0,23,5
+40701,IPL 2025,2025,1,Royal Challengers Bengaluru,Chennai Super Kings,196,7,120,20.0,9.8,,,0,3
+40701,IPL 2025,2025,2,Chennai Super Kings,Royal Challengers Bengaluru,146,8,120,20.0,7.3,197.0,51.0,0,2
+40702,IPL 2025,2025,1,Gujarat Titans,Mumbai Indians,196,8,120,20.0,9.8,,,0,2
+40702,IPL 2025,2025,2,Mumbai Indians,Gujarat Titans,160,6,120,20.0,8.0,197.0,37.0,0,4
+40703,IPL 2025,2025,1,Sunrisers Hyderabad,Delhi Capitals,163,10,112,18.4,8.73,,,8,0
+40703,IPL 2025,2025,2,Delhi Capitals,Sunrisers Hyderabad,166,3,96,16.0,10.38,164.0,0.0,24,7
+40704,IPL 2025,2025,1,Rajasthan Royals,Chennai Super Kings,182,9,120,20.0,9.1,,,0,1
+40704,IPL 2025,2025,2,Chennai Super Kings,Rajasthan Royals,176,6,120,20.0,8.8,183.0,7.0,0,4
+40705,IPL 2025,2025,1,Kolkata Knight Riders,Mumbai Indians,116,10,98,16.2,7.1,,,22,0
+40705,IPL 2025,2025,2,Mumbai Indians,Kolkata Knight Riders,121,2,77,12.5,9.43,117.0,0.0,43,8
+40706,IPL 2025,2025,1,Lucknow Super Giants,Punjab Kings,171,7,120,20.0,8.55,,,0,3
+40706,IPL 2025,2025,2,Punjab Kings,Lucknow Super Giants,177,2,98,16.2,10.84,172.0,0.0,22,8
+40707,IPL 2025,2025,1,Royal Challengers Bengaluru,Gujarat Titans,169,8,120,20.0,8.45,,,0,2
+40707,IPL 2025,2025,2,Gujarat Titans,Royal Challengers Bengaluru,170,2,107,17.5,9.53,170.0,0.0,13,8
+40708,IPL 2025,2025,1,Kolkata Knight Riders,Sunrisers Hyderabad,200,6,120,20.0,10.0,,,0,4
+40708,IPL 2025,2025,2,Sunrisers Hyderabad,Kolkata Knight Riders,120,10,100,16.4,7.2,201.0,81.0,20,0
+40709,IPL 2025,2025,1,Lucknow Super Giants,Mumbai Indians,203,8,120,20.0,10.15,,,0,2
+40709,IPL 2025,2025,2,Mumbai Indians,Lucknow Super Giants,191,5,120,20.0,9.55,204.0,13.0,0,5
+40710,IPL 2025,2025,1,Delhi Capitals,Chennai Super Kings,183,6,120,20.0,9.15,,,0,4
+40710,IPL 2025,2025,2,Chennai Super Kings,Delhi Capitals,158,5,120,20.0,7.9,184.0,26.0,0,5
+40711,IPL 2025,2025,1,Rajasthan Royals,Punjab Kings,205,4,120,20.0,10.25,,,0,6
+40711,IPL 2025,2025,2,Punjab Kings,Rajasthan Royals,155,9,120,20.0,7.75,206.0,51.0,0,1
+40712,IPL 2025,2025,1,Lucknow Super Giants,Kolkata Knight Riders,238,3,120,20.0,11.9,,,0,7
+40712,IPL 2025,2025,2,Kolkata Knight Riders,Lucknow Super Giants,234,7,120,20.0,11.7,239.0,5.0,0,3
+40713,IPL 2025,2025,1,Sunrisers Hyderabad,Gujarat Titans,152,8,120,20.0,7.6,,,0,2
+40713,IPL 2025,2025,2,Gujarat Titans,Sunrisers Hyderabad,153,3,100,16.4,9.18,153.0,0.0,20,7
+40714,IPL 2025,2025,1,Royal Challengers Bengaluru,Mumbai Indians,221,5,120,20.0,11.05,,,0,5
+40714,IPL 2025,2025,2,Mumbai Indians,Royal Challengers Bengaluru,209,9,120,20.0,10.45,222.0,13.0,0,1
+40715,IPL 2025,2025,1,Punjab Kings,Chennai Super Kings,219,6,120,20.0,10.95,,,0,4
+40715,IPL 2025,2025,2,Chennai Super Kings,Punjab Kings,201,5,120,20.0,10.05,220.0,19.0,0,5
+40716,IPL 2025,2025,1,Gujarat Titans,Rajasthan Royals,217,6,120,20.0,10.85,,,0,4
+40716,IPL 2025,2025,2,Rajasthan Royals,Gujarat Titans,159,10,116,19.2,8.22,218.0,59.0,4,0
+40717,IPL 2025,2025,1,Royal Challengers Bengaluru,Delhi Capitals,163,7,120,20.0,8.15,,,0,3
+40717,IPL 2025,2025,2,Delhi Capitals,Royal Challengers Bengaluru,169,4,107,17.5,9.48,164.0,0.0,13,6
+40718,IPL 2025,2025,1,Chennai Super Kings,Kolkata Knight Riders,103,9,120,20.0,5.15,,,0,1
+40718,IPL 2025,2025,2,Kolkata Knight Riders,Chennai Super Kings,107,2,61,10.1,10.52,104.0,0.0,59,8
+40719,IPL 2025,2025,1,Gujarat Titans,Lucknow Super Giants,180,6,120,20.0,9.0,,,0,4
+40719,IPL 2025,2025,2,Lucknow Super Giants,Gujarat Titans,186,4,117,19.3,9.54,181.0,0.0,3,6
+40720,IPL 2025,2025,1,Punjab Kings,Sunrisers Hyderabad,245,6,120,20.0,12.25,,,0,4
+40720,IPL 2025,2025,2,Sunrisers Hyderabad,Punjab Kings,247,2,111,18.3,13.35,246.0,0.0,9,8
+40721,IPL 2025,2025,1,Rajasthan Royals,Royal Challengers Bengaluru,173,4,120,20.0,8.65,,,0,6
+40721,IPL 2025,2025,2,Royal Challengers Bengaluru,Rajasthan Royals,175,1,105,17.3,10.0,174.0,0.0,15,9
+40722,IPL 2025,2025,1,Mumbai Indians,Delhi Capitals,205,5,120,20.0,10.25,,,0,5
+40722,IPL 2025,2025,2,Delhi Capitals,Mumbai Indians,193,10,114,19.0,10.16,206.0,13.0,6,0
+40723,IPL 2025,2025,1,Lucknow Super Giants,Chennai Super Kings,166,7,120,20.0,8.3,,,0,3
+40723,IPL 2025,2025,2,Chennai Super Kings,Lucknow Super Giants,168,5,117,19.3,8.62,167.0,0.0,3,5
+40724,IPL 2025,2025,1,Punjab Kings,Kolkata Knight Riders,111,10,93,15.3,7.16,,,27,0
+40724,IPL 2025,2025,2,Kolkata Knight Riders,Punjab Kings,95,10,91,15.1,6.26,112.0,17.0,29,0
+40725,IPL 2025,2025,1,Delhi Capitals,Rajasthan Royals,188,5,120,20.0,9.4,,,0,5
+40725,IPL 2025,2025,2,Rajasthan Royals,Delhi Capitals,188,4,120,20.0,9.4,189.0,1.0,0,6
+40725,IPL 2025,2025,3,Rajasthan Royals,Delhi Capitals,11,2,5,0.5,13.2,,,1,0
+40725,IPL 2025,2025,4,Delhi Capitals,Rajasthan Royals,13,0,4,0.4,19.5,12.0,0.0,2,2
+40726,IPL 2025,2025,1,Sunrisers Hyderabad,Mumbai Indians,162,5,120,20.0,8.1,,,0,5
+40726,IPL 2025,2025,2,Mumbai Indians,Sunrisers Hyderabad,166,6,109,18.1,9.14,163.0,0.0,11,4
+40727,IPL 2025,2025,1,Royal Challengers Bengaluru,Punjab Kings,95,9,84,14.0,6.79,,,0,1
+40727,IPL 2025,2025,2,Punjab Kings,Royal Challengers Bengaluru,98,5,73,12.1,8.05,96.0,0.0,11,5
+40728,IPL 2025,2025,1,Delhi Capitals,Gujarat Titans,203,8,120,20.0,10.15,,,0,2
+40728,IPL 2025,2025,2,Gujarat Titans,Delhi Capitals,204,3,116,19.2,10.55,204.0,0.0,4,7
+40729,IPL 2025,2025,1,Lucknow Super Giants,Rajasthan Royals,180,5,120,20.0,9.0,,,0,5
+40729,IPL 2025,2025,2,Rajasthan Royals,Lucknow Super Giants,178,5,120,20.0,8.9,181.0,3.0,0,5
+40730,IPL 2025,2025,1,Punjab Kings,Royal Challengers Bengaluru,157,6,120,20.0,7.85,,,0,4
+40730,IPL 2025,2025,2,Royal Challengers Bengaluru,Punjab Kings,159,3,113,18.5,8.44,158.0,0.0,7,7
+40731,IPL 2025,2025,1,Chennai Super Kings,Mumbai Indians,176,5,120,20.0,8.8,,,0,5
+40731,IPL 2025,2025,2,Mumbai Indians,Chennai Super Kings,177,1,94,15.4,11.3,177.0,0.0,26,9
+40732,IPL 2025,2025,1,Gujarat Titans,Kolkata Knight Riders,198,3,120,20.0,9.9,,,0,7
+40732,IPL 2025,2025,2,Kolkata Knight Riders,Gujarat Titans,159,8,120,20.0,7.95,199.0,40.0,0,2
+40733,IPL 2025,2025,1,Lucknow Super Giants,Delhi Capitals,159,6,120,20.0,7.95,,,0,4
+40733,IPL 2025,2025,2,Delhi Capitals,Lucknow Super Giants,161,2,107,17.5,9.03,160.0,0.0,13,8
+40734,IPL 2025,2025,1,Sunrisers Hyderabad,Mumbai Indians,143,8,120,20.0,7.15,,,0,2
+40734,IPL 2025,2025,2,Mumbai Indians,Sunrisers Hyderabad,146,3,94,15.4,9.32,144.0,0.0,26,7
+40735,IPL 2025,2025,1,Royal Challengers Bengaluru,Rajasthan Royals,205,5,120,20.0,10.25,,,0,5
+40735,IPL 2025,2025,2,Rajasthan Royals,Royal Challengers Bengaluru,194,9,120,20.0,9.7,206.0,12.0,0,1
+40736,IPL 2025,2025,1,Chennai Super Kings,Sunrisers Hyderabad,154,10,119,19.5,7.76,,,1,0
+40736,IPL 2025,2025,2,Sunrisers Hyderabad,Chennai Super Kings,155,5,112,18.4,8.3,155.0,0.0,8,5
+40737,IPL 2025,2025,1,Punjab Kings,Kolkata Knight Riders,201,4,120,20.0,10.05,,,0,6
+40737,IPL 2025,2025,2,Kolkata Knight Riders,Punjab Kings,7,0,6,1.0,7.0,202.0,195.0,114,10
+40738,IPL 2025,2025,1,Mumbai Indians,Lucknow Super Giants,215,7,120,20.0,10.75,,,0,3
+40738,IPL 2025,2025,2,Lucknow Super Giants,Mumbai Indians,161,10,120,20.0,8.05,216.0,55.0,0,0
+40739,IPL 2025,2025,1,Delhi Capitals,Royal Challengers Bengaluru,162,8,120,20.0,8.1,,,0,2
+40739,IPL 2025,2025,2,Royal Challengers Bengaluru,Delhi Capitals,165,4,111,18.3,8.92,163.0,0.0,9,6
+40740,IPL 2025,2025,1,Gujarat Titans,Rajasthan Royals,209,4,120,20.0,10.45,,,0,6
+40740,IPL 2025,2025,2,Rajasthan Royals,Gujarat Titans,212,2,95,15.5,13.39,210.0,0.0,25,8
+40741,IPL 2025,2025,1,Kolkata Knight Riders,Delhi Capitals,204,9,120,20.0,10.2,,,0,1
+40741,IPL 2025,2025,2,Delhi Capitals,Kolkata Knight Riders,190,9,120,20.0,9.5,205.0,15.0,0,1
+40742,IPL 2025,2025,1,Chennai Super Kings,Punjab Kings,190,10,116,19.2,9.83,,,4,0
+40742,IPL 2025,2025,2,Punjab Kings,Chennai Super Kings,194,6,118,19.4,9.86,191.0,0.0,2,4
+40743,IPL 2025,2025,1,Mumbai Indians,Rajasthan Royals,217,2,120,20.0,10.85,,,0,8
+40743,IPL 2025,2025,2,Rajasthan Royals,Mumbai Indians,117,10,97,16.1,7.24,218.0,101.0,23,0
+40744,IPL 2025,2025,1,Gujarat Titans,Sunrisers Hyderabad,224,6,120,20.0,11.2,,,0,4
+40744,IPL 2025,2025,2,Sunrisers Hyderabad,Gujarat Titans,186,6,120,20.0,9.3,225.0,39.0,0,4
+40745,IPL 2025,2025,1,Royal Challengers Bengaluru,Chennai Super Kings,213,5,120,20.0,10.65,,,0,5
+40745,IPL 2025,2025,2,Chennai Super Kings,Royal Challengers Bengaluru,211,5,120,20.0,10.55,214.0,3.0,0,5
+40746,IPL 2025,2025,1,Kolkata Knight Riders,Rajasthan Royals,206,4,120,20.0,10.3,,,0,6
+40746,IPL 2025,2025,2,Rajasthan Royals,Kolkata Knight Riders,205,8,120,20.0,10.25,207.0,2.0,0,2
+40747,IPL 2025,2025,1,Punjab Kings,Lucknow Super Giants,236,5,120,20.0,11.8,,,0,5
+40747,IPL 2025,2025,2,Lucknow Super Giants,Punjab Kings,199,7,120,20.0,9.95,237.0,38.0,0,3
+40748,IPL 2025,2025,1,Delhi Capitals,Sunrisers Hyderabad,133,7,120,20.0,6.65,,,0,3
+40749,IPL 2025,2025,1,Mumbai Indians,Gujarat Titans,155,8,120,20.0,7.75,,,0,2
+40749,IPL 2025,2025,2,Gujarat Titans,Mumbai Indians,147,7,114,19.0,7.74,147.0,0.0,0,3
+40750,IPL 2025,2025,1,Kolkata Knight Riders,Chennai Super Kings,179,6,120,20.0,8.95,,,0,4
+40750,IPL 2025,2025,2,Chennai Super Kings,Kolkata Knight Riders,183,8,118,19.4,9.31,180.0,0.0,2,2
+40751,IPL 2025,2025,1,Punjab Kings,Delhi Capitals,122,1,61,10.1,12.0,,,59,9
+40752,IPL 2025,2025,1,Lucknow Super Giants,Royal Challengers Bengaluru,227,3,120,20.0,11.35,,,0,7
+40752,IPL 2025,2025,2,Royal Challengers Bengaluru,Lucknow Super Giants,230,4,112,18.4,12.32,228.0,0.0,8,6
+40753,IPL 2025,2025,1,Sunrisers Hyderabad,Kolkata Knight Riders,278,3,120,20.0,13.9,,,0,7
+40753,IPL 2025,2025,2,Kolkata Knight Riders,Sunrisers Hyderabad,168,10,112,18.4,9.0,279.0,111.0,8,0
+40754,IPL 2025,2025,1,Mumbai Indians,Punjab Kings,184,7,120,20.0,9.2,,,0,3
+40754,IPL 2025,2025,2,Punjab Kings,Mumbai Indians,187,3,111,18.3,10.11,185.0,0.0,9,7
+40755,IPL 2025,2025,1,Delhi Capitals,Gujarat Titans,199,3,120,20.0,9.95,,,0,7
+40755,IPL 2025,2025,2,Gujarat Titans,Delhi Capitals,205,0,114,19.0,10.79,200.0,0.0,6,10
+40756,IPL 2025,2025,1,Chennai Super Kings,Rajasthan Royals,187,8,120,20.0,9.35,,,0,2
+40756,IPL 2025,2025,2,Rajasthan Royals,Chennai Super Kings,188,4,103,17.1,10.95,188.0,0.0,17,6
+40757,IPL 2025,2025,1,Sunrisers Hyderabad,Royal Challengers Bengaluru,231,6,120,20.0,11.55,,,0,4
+40757,IPL 2025,2025,2,Royal Challengers Bengaluru,Sunrisers Hyderabad,189,10,119,19.5,9.53,232.0,43.0,1,0
+40758,IPL 2025,2025,1,Lucknow Super Giants,Gujarat Titans,235,2,120,20.0,11.75,,,0,8
+40758,IPL 2025,2025,2,Gujarat Titans,Lucknow Super Giants,202,9,120,20.0,10.1,236.0,34.0,0,1
+40759,IPL 2025,2025,1,Mumbai Indians,Delhi Capitals,180,5,120,20.0,9.0,,,0,5
+40759,IPL 2025,2025,2,Delhi Capitals,Mumbai Indians,121,10,110,18.2,6.6,181.0,60.0,10,0
+40760,IPL 2025,2025,1,Punjab Kings,Rajasthan Royals,219,5,120,20.0,10.95,,,0,5
+40760,IPL 2025,2025,2,Rajasthan Royals,Punjab Kings,209,7,120,20.0,10.45,220.0,11.0,0,3
+40762,IPL 2025,2025,1,Chennai Super Kings,Gujarat Titans,230,5,120,20.0,11.5,,,0,5
+40762,IPL 2025,2025,2,Gujarat Titans,Chennai Super Kings,147,10,111,18.3,7.95,231.0,84.0,9,0
+40763,IPL 2025,2025,1,Lucknow Super Giants,Sunrisers Hyderabad,205,7,120,20.0,10.25,,,0,3
+40763,IPL 2025,2025,2,Sunrisers Hyderabad,Lucknow Super Giants,206,4,110,18.2,11.24,206.0,0.0,10,6
+40764,IPL 2025,2025,1,Punjab Kings,Royal Challengers Bengaluru,101,10,85,14.1,7.13,,,35,0
+40764,IPL 2025,2025,2,Royal Challengers Bengaluru,Punjab Kings,106,2,60,10.0,10.6,102.0,0.0,60,8
+40765,IPL 2025,2025,1,Mumbai Indians,Gujarat Titans,228,5,120,20.0,11.4,,,0,5
+40765,IPL 2025,2025,2,Gujarat Titans,Mumbai Indians,208,6,120,20.0,10.4,229.0,21.0,0,4
+40766,IPL 2025,2025,1,Mumbai Indians,Punjab Kings,203,6,120,20.0,10.15,,,0,4
+40766,IPL 2025,2025,2,Punjab Kings,Mumbai Indians,207,5,114,19.0,10.89,204.0,0.0,6,5
+40767,IPL 2025,2025,1,Royal Challengers Bengaluru,Punjab Kings,190,9,120,20.0,9.5,,,0,1
+40767,IPL 2025,2025,2,Punjab Kings,Royal Challengers Bengaluru,184,7,120,20.0,9.2,191.0,7.0,0,3
+41504,West Indies in Ireland T20I Series 2025,2025,1,West Indies,Ireland,256,5,120,20.0,12.8,,,0,5
+41504,West Indies in Ireland T20I Series 2025,2025,2,Ireland,West Indies,194,7,120,20.0,9.7,257.0,63.0,0,3
+41505,Australia in West Indies T20I Series 2025,2025,1,West Indies,Australia,189,8,120,20.0,9.45,,,0,2
+41505,Australia in West Indies T20I Series 2025,2025,2,Australia,West Indies,190,7,113,18.5,10.09,190.0,0.0,7,3
+41506,Australia in West Indies T20I Series 2025,2025,1,West Indies,Australia,172,8,120,20.0,8.6,,,0,2
+41506,Australia in West Indies T20I Series 2025,2025,2,Australia,West Indies,173,2,92,15.2,11.28,173.0,0.0,28,8
+41507,Australia in West Indies T20I Series 2025,2025,1,West Indies,Australia,214,4,120,20.0,10.7,,,0,6
+41507,Australia in West Indies T20I Series 2025,2025,2,Australia,West Indies,215,4,97,16.1,13.3,215.0,0.0,23,6
+41508,Australia in West Indies T20I Series 2025,2025,1,West Indies,Australia,205,9,120,20.0,10.25,,,0,1
+41508,Australia in West Indies T20I Series 2025,2025,2,Australia,West Indies,206,7,116,19.2,10.66,206.0,0.0,4,3
+41509,Australia in West Indies T20I Series 2025,2025,1,West Indies,Australia,170,10,119,19.5,8.57,,,1,0
+41509,Australia in West Indies T20I Series 2025,2025,2,Australia,West Indies,173,7,102,17.0,10.18,171.0,0.0,18,3
+41510,Pakistan in West Indies T20I Series 2025,2025,1,Pakistan,West Indies,178,6,120,20.0,8.9,,,0,4
+41510,Pakistan in West Indies T20I Series 2025,2025,2,West Indies,Pakistan,164,7,120,20.0,8.2,179.0,15.0,0,3
+41511,Pakistan in West Indies T20I Series 2025,2025,1,Pakistan,West Indies,133,9,120,20.0,6.65,,,0,1
+41511,Pakistan in West Indies T20I Series 2025,2025,2,West Indies,Pakistan,135,8,120,20.0,6.75,134.0,0.0,0,2
+41512,Pakistan in West Indies T20I Series 2025,2025,1,Pakistan,West Indies,189,4,120,20.0,9.45,,,0,6
+41512,Pakistan in West Indies T20I Series 2025,2025,2,West Indies,Pakistan,176,6,120,20.0,8.8,190.0,14.0,0,4
+41849,West Indies in South Africa T20I Series 2026,2026,1,West Indies,South Africa,173,7,120,20.0,8.65,,,0,3
+41849,West Indies in South Africa T20I Series 2026,2026,2,South Africa,West Indies,176,1,107,17.5,9.87,174.0,0.0,13,9
+41850,West Indies in South Africa T20I Series 2026,2026,1,West Indies,South Africa,221,4,120,20.0,11.05,,,0,6
+41850,West Indies in South Africa T20I Series 2026,2026,2,South Africa,West Indies,225,3,105,17.3,12.86,222.0,0.0,15,7
+41851,West Indies in South Africa T20I Series 2026,2026,1,West Indies,South Africa,114,3,60,10.0,11.4,,,0,7
+41851,West Indies in South Africa T20I Series 2026,2026,2,South Africa,West Indies,118,6,60,10.0,11.8,125.0,7.0,0,4
+41969,South Africa in Australia T20I Series 2025,2025,1,Australia,South Africa,178,10,120,20.0,8.9,,,0,0
+41969,South Africa in Australia T20I Series 2025,2025,2,South Africa,Australia,161,9,120,20.0,8.05,179.0,18.0,0,1
+41970,South Africa in Australia T20I Series 2025,2025,1,South Africa,Australia,218,7,120,20.0,10.9,,,0,3
+41970,South Africa in Australia T20I Series 2025,2025,2,Australia,South Africa,165,10,106,17.4,9.34,219.0,54.0,14,0
+41971,South Africa in Australia T20I Series 2025,2025,1,South Africa,Australia,172,7,120,20.0,8.6,,,0,3
+41971,South Africa in Australia T20I Series 2025,2025,2,Australia,South Africa,173,8,119,19.5,8.72,173.0,0.0,1,2
+41975,India in Australia T20I Series 2025,2025,1,India,Australia,97,1,58,9.4,10.03,,,50,9
+41976,India in Australia T20I Series 2025,2025,1,India,Australia,125,10,112,18.4,6.7,,,8,0
+41976,India in Australia T20I Series 2025,2025,2,Australia,India,126,6,80,13.2,9.45,126.0,0.0,40,4
+41977,India in Australia T20I Series 2025,2025,1,Australia,India,186,6,120,20.0,9.3,,,0,4
+41977,India in Australia T20I Series 2025,2025,2,India,Australia,188,5,111,18.3,10.16,187.0,0.0,9,5
+41978,India in Australia T20I Series 2025,2025,1,India,Australia,167,8,120,20.0,8.35,,,0,2
+41978,India in Australia T20I Series 2025,2025,2,Australia,India,119,10,110,18.2,6.49,168.0,49.0,10,0
+41979,India in Australia T20I Series 2025,2025,1,India,Australia,52,0,29,4.5,10.76,,,91,10
+42027,South Africa in India T20I Series 2025,2025,1,India,South Africa,175,6,120,20.0,8.75,,,0,4
+42027,South Africa in India T20I Series 2025,2025,2,South Africa,India,74,10,75,12.3,5.92,176.0,102.0,45,0
+42028,South Africa in India T20I Series 2025,2025,1,South Africa,India,213,4,120,20.0,10.65,,,0,6
+42028,South Africa in India T20I Series 2025,2025,2,India,South Africa,162,10,115,19.1,8.45,214.0,52.0,5,0
+42029,South Africa in India T20I Series 2025,2025,1,South Africa,India,117,10,120,20.0,5.85,,,0,0
+42029,South Africa in India T20I Series 2025,2025,2,India,South Africa,120,3,95,15.5,7.58,118.0,0.0,25,7
+42031,South Africa in India T20I Series 2025,2025,1,India,South Africa,231,5,120,20.0,11.55,,,0,5
+42031,South Africa in India T20I Series 2025,2025,2,South Africa,India,201,8,120,20.0,10.05,232.0,31.0,0,2
+42742,Bangladesh in Pakistan T20I Series 2025,2025,1,Pakistan,Bangladesh,201,7,120,20.0,10.05,,,0,3
+42742,Bangladesh in Pakistan T20I Series 2025,2025,2,Bangladesh,Pakistan,164,10,116,19.2,8.48,202.0,38.0,4,0
+42743,Bangladesh in Pakistan T20I Series 2025,2025,1,Pakistan,Bangladesh,201,6,120,20.0,10.05,,,0,4
+42743,Bangladesh in Pakistan T20I Series 2025,2025,2,Bangladesh,Pakistan,144,9,114,19.0,7.58,202.0,58.0,6,1
+42744,Bangladesh in Pakistan T20I Series 2025,2025,1,Bangladesh,Pakistan,196,6,120,20.0,9.8,,,0,4
+42744,Bangladesh in Pakistan T20I Series 2025,2025,2,Pakistan,Bangladesh,197,3,104,17.2,11.37,197.0,0.0,16,7
+42783,Bangladesh in United Arab Emirates T20I Series 2025,2025,1,Bangladesh,United Arab Emirates,191,7,120,20.0,9.55,,,0,3
+42783,Bangladesh in United Arab Emirates T20I Series 2025,2025,2,United Arab Emirates,Bangladesh,164,10,120,20.0,8.2,192.0,28.0,0,0
+42784,Bangladesh in United Arab Emirates T20I Series 2025,2025,1,Bangladesh,United Arab Emirates,205,5,120,20.0,10.25,,,0,5
+42784,Bangladesh in United Arab Emirates T20I Series 2025,2025,2,United Arab Emirates,Bangladesh,206,8,119,19.5,10.39,206.0,0.0,1,2
+43057,IPL 2025,2025,1,Punjab Kings,Delhi Capitals,206,8,120,20.0,10.3,,,0,2
+43057,IPL 2025,2025,2,Delhi Capitals,Punjab Kings,208,4,117,19.3,10.67,207.0,0.0,3,6
+43171,Bangladesh in United Arab Emirates T20I Series 2025,2025,1,Bangladesh,United Arab Emirates,162,9,120,20.0,8.1,,,0,1
+43171,Bangladesh in United Arab Emirates T20I Series 2025,2025,2,United Arab Emirates,Bangladesh,166,3,115,19.1,8.66,163.0,0.0,5,7
+43592,Bangladesh in Sri Lanka T20I Series 2025,2025,1,Bangladesh,Sri Lanka,154,5,120,20.0,7.7,,,0,5
+43592,Bangladesh in Sri Lanka T20I Series 2025,2025,2,Sri Lanka,Bangladesh,159,3,114,19.0,8.37,155.0,0.0,6,7
+43594,Bangladesh in Sri Lanka T20I Series 2025,2025,1,Bangladesh,Sri Lanka,177,7,120,20.0,8.85,,,0,3
+43594,Bangladesh in Sri Lanka T20I Series 2025,2025,2,Sri Lanka,Bangladesh,94,10,92,15.2,6.13,178.0,84.0,28,0
+43595,Bangladesh in Sri Lanka T20I Series 2025,2025,1,Sri Lanka,Bangladesh,132,7,120,20.0,6.6,,,0,3
+43595,Bangladesh in Sri Lanka T20I Series 2025,2025,2,Bangladesh,Sri Lanka,133,2,99,16.3,8.06,133.0,0.0,21,8
+44265,Pakistan in Bangladesh T20I Series 2025,2025,1,Pakistan,Bangladesh,110,10,117,19.3,5.64,,,3,0
+44265,Pakistan in Bangladesh T20I Series 2025,2025,2,Bangladesh,Pakistan,112,3,93,15.3,7.23,111.0,0.0,27,7
+44266,Pakistan in Bangladesh T20I Series 2025,2025,1,Bangladesh,Pakistan,133,10,120,20.0,6.65,,,0,0
+44266,Pakistan in Bangladesh T20I Series 2025,2025,2,Pakistan,Bangladesh,125,10,116,19.2,6.47,134.0,9.0,4,0
+44267,Pakistan in Bangladesh T20I Series 2025,2025,1,Pakistan,Bangladesh,178,7,120,20.0,8.9,,,0,3
+44267,Pakistan in Bangladesh T20I Series 2025,2025,2,Bangladesh,Pakistan,104,10,100,16.4,6.24,179.0,75.0,20,0
+45390,India in England T20I Series 2026,2026,1,India,England,189,7,120,20.0,9.45,,,0,3
+45391,India in England T20I Series 2026,2026,1,India,England,190,7,120,20.0,9.5,,,0,3
+45391,India in England T20I Series 2026,2026,2,England,India,191,6,114,19.0,10.05,191.0,0.0,6,4
+45392,India in England T20I Series 2026,2026,1,England,India,201,7,120,20.0,10.05,,,0,3
+45392,India in England T20I Series 2026,2026,2,India,England,76,10,70,11.4,6.51,202.0,126.0,50,0
+45393,India in England T20I Series 2026,2026,1,India,England,158,7,120,20.0,7.9,,,0,3
+45393,India in England T20I Series 2026,2026,2,England,India,159,1,83,13.5,11.49,159.0,0.0,37,9
+45394,India in England T20I Series 2026,2026,1,England,India,257,3,120,20.0,12.85,,,0,7
+45394,India in England T20I Series 2026,2026,2,India,England,201,8,120,20.0,10.05,258.0,57.0,0,2
+45489,Sri Lanka in England T20I Series 2026,2026,1,England,Sri Lanka,254,4,120,20.0,12.7,,,0,6
+45489,Sri Lanka in England T20I Series 2026,2026,2,Sri Lanka,England,135,10,114,19.0,7.11,255.0,120.0,6,0
+45490,Sri Lanka in England T20I Series 2026,2026,1,Sri Lanka,England,145,9,120,20.0,7.25,,,0,1
+45490,Sri Lanka in England T20I Series 2026,2026,2,England,Sri Lanka,146,4,73,12.1,12.0,146.0,0.0,47,6
+45491,Sri Lanka in England T20I Series 2026,2026,1,Sri Lanka,England,124,10,113,18.5,6.58,,,7,0
+45491,Sri Lanka in England T20I Series 2026,2026,2,England,Sri Lanka,126,2,58,9.4,13.03,125.0,0.0,62,8
+45495,Asia Cup 2025,2025,1,Afghanistan,Hong Kong,188,6,120,20.0,9.4,,,0,4
+45495,Asia Cup 2025,2025,2,Hong Kong,Afghanistan,94,9,120,20.0,4.7,189.0,95.0,0,1
+45496,Asia Cup 2025,2025,1,United Arab Emirates,India,57,10,79,13.1,4.33,,,41,0
+45496,Asia Cup 2025,2025,2,India,United Arab Emirates,60,1,27,4.3,13.33,58.0,0.0,93,9
+45497,Asia Cup 2025,2025,1,Hong Kong,Bangladesh,143,7,120,20.0,7.15,,,0,3
+45497,Asia Cup 2025,2025,2,Bangladesh,Hong Kong,144,3,106,17.4,8.15,144.0,0.0,14,7
+45498,Asia Cup 2025,2025,1,Pakistan,Oman,160,7,120,20.0,8.0,,,0,3
+45498,Asia Cup 2025,2025,2,Oman,Pakistan,67,10,100,16.4,4.02,161.0,94.0,20,0
+45499,Asia Cup 2025,2025,1,Bangladesh,Sri Lanka,139,5,120,20.0,6.95,,,0,5
+45499,Asia Cup 2025,2025,2,Sri Lanka,Bangladesh,140,4,88,14.4,9.55,140.0,0.0,32,6
+45500,Asia Cup 2025,2025,1,Pakistan,India,127,9,120,20.0,6.35,,,0,1
+45500,Asia Cup 2025,2025,2,India,Pakistan,131,3,95,15.5,8.27,128.0,0.0,25,7
+45501,Asia Cup 2025,2025,1,United Arab Emirates,Oman,172,5,120,20.0,8.6,,,0,5
+45501,Asia Cup 2025,2025,2,Oman,United Arab Emirates,130,10,112,18.4,6.96,173.0,43.0,8,0
+45502,Asia Cup 2025,2025,1,Hong Kong,Sri Lanka,149,4,120,20.0,7.45,,,0,6
+45502,Asia Cup 2025,2025,2,Sri Lanka,Hong Kong,153,6,113,18.5,8.12,150.0,0.0,7,4
+45503,Asia Cup 2025,2025,1,Bangladesh,Afghanistan,154,5,120,20.0,7.7,,,0,5
+45503,Asia Cup 2025,2025,2,Afghanistan,Bangladesh,146,10,120,20.0,7.3,155.0,9.0,0,0
+45504,Asia Cup 2025,2025,1,Pakistan,United Arab Emirates,146,9,120,20.0,7.3,,,0,1
+45504,Asia Cup 2025,2025,2,United Arab Emirates,Pakistan,105,10,106,17.4,5.94,147.0,42.0,14,0
+45505,Asia Cup 2025,2025,1,Afghanistan,Sri Lanka,169,8,120,20.0,8.45,,,0,2
+45505,Asia Cup 2025,2025,2,Sri Lanka,Afghanistan,171,4,112,18.4,9.16,170.0,0.0,8,6
+45506,Asia Cup 2025,2025,1,India,Oman,188,8,120,20.0,9.4,,,0,2
+45506,Asia Cup 2025,2025,2,Oman,India,167,4,120,20.0,8.35,189.0,22.0,0,6
+45507,Asia Cup 2025,2025,1,Sri Lanka,Bangladesh,168,7,120,20.0,8.4,,,0,3
+45507,Asia Cup 2025,2025,2,Bangladesh,Sri Lanka,169,6,119,19.5,8.52,169.0,0.0,1,4
+45508,Asia Cup 2025,2025,1,Pakistan,India,171,5,120,20.0,8.55,,,0,5
+45508,Asia Cup 2025,2025,2,India,Pakistan,174,4,113,18.5,9.24,172.0,0.0,7,6
+45509,Asia Cup 2025,2025,1,Sri Lanka,Pakistan,133,8,120,20.0,6.65,,,0,2
+45509,Asia Cup 2025,2025,2,Pakistan,Sri Lanka,138,5,108,18.0,7.67,134.0,0.0,12,5
+45510,Asia Cup 2025,2025,1,India,Bangladesh,168,6,120,20.0,8.4,,,0,4
+45510,Asia Cup 2025,2025,2,Bangladesh,India,127,10,117,19.3,6.51,169.0,42.0,3,0
+45511,Asia Cup 2025,2025,1,Pakistan,Bangladesh,135,8,120,20.0,6.75,,,0,2
+45511,Asia Cup 2025,2025,2,Bangladesh,Pakistan,124,9,120,20.0,6.2,136.0,12.0,0,1
+45512,Asia Cup 2025,2025,1,India,Sri Lanka,202,5,120,20.0,10.1,,,0,5
+45512,Asia Cup 2025,2025,2,Sri Lanka,India,202,5,120,20.0,10.1,203.0,1.0,0,5
+45512,Asia Cup 2025,2025,3,Sri Lanka,India,2,2,5,0.5,2.4,,,1,0
+45512,Asia Cup 2025,2025,4,India,Sri Lanka,3,0,1,0.1,18.0,3.0,0.0,5,2
+45513,Asia Cup 2025,2025,1,Pakistan,India,146,10,115,19.1,7.62,,,5,0
+45513,Asia Cup 2025,2025,2,India,Pakistan,150,5,118,19.4,7.63,147.0,0.0,2,5
+45851,United Arab Emirates T20I Tri-Series 2025,2025,1,Pakistan,Afghanistan,182,7,120,20.0,9.1,,,0,3
+45851,United Arab Emirates T20I Tri-Series 2025,2025,2,Afghanistan,Pakistan,143,10,119,19.5,7.21,183.0,40.0,1,0
+45852,United Arab Emirates T20I Tri-Series 2025,2025,1,Pakistan,United Arab Emirates,207,10,120,20.0,10.35,,,0,0
+45852,United Arab Emirates T20I Tri-Series 2025,2025,2,United Arab Emirates,Pakistan,176,8,120,20.0,8.8,208.0,32.0,0,2
+45853,United Arab Emirates T20I Tri-Series 2025,2025,1,Afghanistan,United Arab Emirates,188,4,120,20.0,9.4,,,0,6
+45853,United Arab Emirates T20I Tri-Series 2025,2025,2,United Arab Emirates,Afghanistan,150,8,120,20.0,7.5,189.0,39.0,0,2
+45854,United Arab Emirates T20I Tri-Series 2025,2025,1,Afghanistan,Pakistan,169,5,120,20.0,8.45,,,0,5
+45854,United Arab Emirates T20I Tri-Series 2025,2025,2,Pakistan,Afghanistan,151,9,120,20.0,7.55,170.0,19.0,0,1
+45855,United Arab Emirates T20I Tri-Series 2025,2025,1,Pakistan,United Arab Emirates,171,5,120,20.0,8.55,,,0,5
+45855,United Arab Emirates T20I Tri-Series 2025,2025,2,United Arab Emirates,Pakistan,140,7,120,20.0,7.0,172.0,32.0,0,3
+45856,United Arab Emirates T20I Tri-Series 2025,2025,1,Afghanistan,United Arab Emirates,170,4,120,20.0,8.5,,,0,6
+45856,United Arab Emirates T20I Tri-Series 2025,2025,2,United Arab Emirates,Afghanistan,166,5,120,20.0,8.3,171.0,5.0,0,5
+45857,United Arab Emirates T20I Tri-Series 2025,2025,1,Pakistan,Afghanistan,141,8,120,20.0,7.05,,,0,2
+45857,United Arab Emirates T20I Tri-Series 2025,2025,2,Afghanistan,Pakistan,66,10,95,15.5,4.17,142.0,76.0,25,0
+45903,Sri Lanka in Zimbabwe T20I Series 2025,2025,1,Zimbabwe,Sri Lanka,175,7,120,20.0,8.75,,,0,3
+45903,Sri Lanka in Zimbabwe T20I Series 2025,2025,2,Sri Lanka,Zimbabwe,177,6,115,19.1,9.23,176.0,0.0,5,4
+45904,Sri Lanka in Zimbabwe T20I Series 2025,2025,1,Sri Lanka,Zimbabwe,80,10,106,17.4,4.53,,,14,0
+45904,Sri Lanka in Zimbabwe T20I Series 2025,2025,2,Zimbabwe,Sri Lanka,84,5,86,14.2,5.86,81.0,0.0,34,5
+45905,Sri Lanka in Zimbabwe T20I Series 2025,2025,1,Zimbabwe,Sri Lanka,191,8,120,20.0,9.55,,,0,2
+45905,Sri Lanka in Zimbabwe T20I Series 2025,2025,2,Sri Lanka,Zimbabwe,193,2,106,17.4,10.92,192.0,0.0,14,8
+45906,Netherlands in Bangladesh T20I Series 2025,2025,1,Netherlands,Bangladesh,136,8,120,20.0,6.8,,,0,2
+45906,Netherlands in Bangladesh T20I Series 2025,2025,2,Bangladesh,Netherlands,138,2,81,13.3,10.22,137.0,0.0,39,8
+45907,Netherlands in Bangladesh T20I Series 2025,2025,1,Netherlands,Bangladesh,103,10,105,17.3,5.89,,,15,0
+45907,Netherlands in Bangladesh T20I Series 2025,2025,2,Bangladesh,Netherlands,104,1,79,13.1,7.9,104.0,0.0,41,9
+45908,Netherlands in Bangladesh T20I Series 2025,2025,1,Bangladesh,Netherlands,164,4,110,18.2,8.95,,,10,6
+46007,England in Ireland T20I series 2025,2025,1,Ireland,England,196,3,120,20.0,9.8,,,0,7
+46007,England in Ireland T20I series 2025,2025,2,England,Ireland,197,6,106,17.4,11.15,197.0,0.0,14,4
+46009,England in Ireland T20I series 2025,2025,1,Ireland,England,154,8,120,20.0,7.7,,,0,2
+46009,England in Ireland T20I series 2025,2025,2,England,Ireland,155,4,103,17.1,9.03,155.0,0.0,17,6
+46249,Nepal v West Indies T20I Series 2025,2025,1,Nepal,West Indies,148,8,120,20.0,7.4,,,0,2
+46249,Nepal v West Indies T20I Series 2025,2025,2,West Indies,Nepal,129,9,120,20.0,6.45,149.0,20.0,0,1
+46250,Nepal v West Indies T20I Series 2025,2025,1,Nepal,West Indies,173,6,120,20.0,8.65,,,0,4
+46250,Nepal v West Indies T20I Series 2025,2025,2,West Indies,Nepal,83,10,103,17.1,4.83,174.0,91.0,17,0
+46251,Nepal v West Indies T20I Series 2025,2025,1,Nepal,West Indies,122,10,119,19.5,6.15,,,1,0
+46251,Nepal v West Indies T20I Series 2025,2025,2,West Indies,Nepal,123,0,74,12.2,9.97,123.0,0.0,46,10
+46310,Australia in New Zealand T20I Series 2025,2025,1,New Zealand,Australia,181,6,120,20.0,9.05,,,0,4
+46310,Australia in New Zealand T20I Series 2025,2025,2,Australia,New Zealand,185,4,99,16.3,11.21,182.0,0.0,21,6
+46311,Australia in New Zealand T20I Series 2025,2025,1,Australia,New Zealand,16,1,13,2.1,7.38,,,41,9
+46312,Australia in New Zealand T20I Series 2025,2025,1,New Zealand,Australia,156,9,120,20.0,7.8,,,0,1
+46312,Australia in New Zealand T20I Series 2025,2025,2,Australia,New Zealand,160,7,108,18.0,8.89,157.0,0.0,12,3
+46740,South Africa in Pakistan T20I Series 2025,2025,1,South Africa,Pakistan,194,9,120,20.0,9.7,,,0,1
+46740,South Africa in Pakistan T20I Series 2025,2025,2,Pakistan,South Africa,139,10,109,18.1,7.65,195.0,56.0,11,0
+46741,South Africa in Pakistan T20I Series 2025,2025,1,South Africa,Pakistan,110,10,116,19.2,5.69,,,4,0
+46741,South Africa in Pakistan T20I Series 2025,2025,2,Pakistan,South Africa,112,1,79,13.1,8.51,111.0,0.0,41,9
+46742,South Africa in Pakistan T20I Series 2025,2025,1,South Africa,Pakistan,139,9,120,20.0,6.95,,,0,1
+46742,South Africa in Pakistan T20I Series 2025,2025,2,Pakistan,South Africa,140,6,114,19.0,7.37,140.0,0.0,6,4
+46747,England in New Zealand T20I Series 2025,2025,1,England,New Zealand,153,6,120,20.0,7.65,,,0,4
+46748,England in New Zealand T20I Series 2025,2025,1,England,New Zealand,236,4,120,20.0,11.8,,,0,6
+46748,England in New Zealand T20I Series 2025,2025,2,New Zealand,England,171,10,108,18.0,9.5,237.0,66.0,12,0
+46749,England in New Zealand T20I Series 2025,2025,1,New Zealand,England,38,1,22,3.4,10.36,,,62,9
+46753,Afghanistan v Bangladesh T20I Series 2025,2025,1,Afghanistan,Bangladesh,151,9,120,20.0,7.55,,,0,1
+46753,Afghanistan v Bangladesh T20I Series 2025,2025,2,Bangladesh,Afghanistan,153,6,112,18.4,8.2,152.0,0.0,8,4
+46754,Afghanistan v Bangladesh T20I Series 2025,2025,1,Afghanistan,Bangladesh,147,5,120,20.0,7.35,,,0,5
+46754,Afghanistan v Bangladesh T20I Series 2025,2025,2,Bangladesh,Afghanistan,150,8,115,19.1,7.83,148.0,0.0,5,2
+46755,Afghanistan v Bangladesh T20I Series 2025,2025,1,Afghanistan,Bangladesh,143,9,120,20.0,7.15,,,0,1
+46755,Afghanistan v Bangladesh T20I Series 2025,2025,2,Bangladesh,Afghanistan,144,4,108,18.0,8.0,144.0,0.0,12,6
+46940,West Indies in Bangladesh T20I Series 2025,2025,1,West Indies,Bangladesh,165,3,120,20.0,8.25,,,0,7
+46940,West Indies in Bangladesh T20I Series 2025,2025,2,Bangladesh,West Indies,149,10,118,19.4,7.58,166.0,17.0,2,0
+46941,West Indies in Bangladesh T20I Series 2025,2025,1,West Indies,Bangladesh,149,9,120,20.0,7.45,,,0,1
+46941,West Indies in Bangladesh T20I Series 2025,2025,2,Bangladesh,West Indies,135,8,120,20.0,6.75,150.0,15.0,0,2
+46942,West Indies in Bangladesh T20I Series 2025,2025,1,Bangladesh,West Indies,151,10,120,20.0,7.55,,,0,0
+46942,West Indies in Bangladesh T20I Series 2025,2025,2,West Indies,Bangladesh,152,5,101,16.5,9.03,152.0,0.0,19,5
+47241,Ireland in Bangladesh T20I Series 2025,2025,1,Ireland,Bangladesh,181,4,120,20.0,9.05,,,0,6
+47241,Ireland in Bangladesh T20I Series 2025,2025,2,Bangladesh,Ireland,142,9,120,20.0,7.1,182.0,40.0,0,1
+47242,Ireland in Bangladesh T20I Series 2025,2025,1,Ireland,Bangladesh,170,6,120,20.0,8.5,,,0,4
+47242,Ireland in Bangladesh T20I Series 2025,2025,2,Bangladesh,Ireland,174,6,118,19.4,8.85,171.0,0.0,2,4
+47243,Ireland in Bangladesh T20I Series 2025,2025,1,Ireland,Bangladesh,117,10,119,19.5,5.9,,,1,0
+47243,Ireland in Bangladesh T20I Series 2025,2025,2,Bangladesh,Ireland,119,2,82,13.4,8.71,118.0,0.0,38,8
+47260,Afghanistan in Zimbabwe T20I Series 2025,2025,1,Afghanistan,Zimbabwe,180,6,120,20.0,9.0,,,0,4
+47260,Afghanistan in Zimbabwe T20I Series 2025,2025,2,Zimbabwe,Afghanistan,127,10,97,16.1,7.86,181.0,54.0,23,0
+47261,Afghanistan in Zimbabwe T20I Series 2025,2025,1,Zimbabwe,Afghanistan,125,10,117,19.3,6.41,,,3,0
+47261,Afghanistan in Zimbabwe T20I Series 2025,2025,2,Afghanistan,Zimbabwe,129,3,108,18.0,7.17,126.0,0.0,12,7
+47262,Afghanistan in Zimbabwe T20I Series 2025,2025,1,Afghanistan,Zimbabwe,210,3,120,20.0,10.5,,,0,7
+47262,Afghanistan in Zimbabwe T20I Series 2025,2025,2,Zimbabwe,Afghanistan,201,10,120,20.0,10.05,211.0,10.0,0,0
+47965,West Indies in New Zealand T20I Series 2025,2025,1,West Indies,New Zealand,164,6,120,20.0,8.2,,,0,4
+47965,West Indies in New Zealand T20I Series 2025,2025,2,New Zealand,West Indies,157,9,120,20.0,7.85,165.0,8.0,0,1
+47966,West Indies in New Zealand T20I Series 2025,2025,1,New Zealand,West Indies,207,5,120,20.0,10.35,,,0,5
+47966,West Indies in New Zealand T20I Series 2025,2025,2,West Indies,New Zealand,204,8,120,20.0,10.2,208.0,4.0,0,2
+47967,West Indies in New Zealand T20I Series 2025,2025,1,New Zealand,West Indies,177,9,120,20.0,8.85,,,0,1
+47967,West Indies in New Zealand T20I Series 2025,2025,2,West Indies,New Zealand,168,10,119,19.5,8.47,178.0,10.0,1,0
+47968,West Indies in New Zealand T20I Series 2025,2025,1,West Indies,New Zealand,38,1,39,6.3,5.85,,,81,9
+47969,West Indies in New Zealand T20I Series 2025,2025,1,West Indies,New Zealand,140,10,112,18.4,7.5,,,8,0
+47969,West Indies in New Zealand T20I Series 2025,2025,2,New Zealand,West Indies,141,2,94,15.4,9.0,141.0,0.0,26,8
+47976,Pakistan T20I Tri-Series 2025,2025,1,Zimbabwe,Pakistan,147,8,120,20.0,7.35,,,0,2
+47976,Pakistan T20I Tri-Series 2025,2025,2,Pakistan,Zimbabwe,151,5,116,19.2,7.81,148.0,0.0,4,5
+47977,Pakistan T20I Tri-Series 2025,2025,1,Zimbabwe,Sri Lanka,162,8,120,20.0,8.1,,,0,2
+47977,Pakistan T20I Tri-Series 2025,2025,2,Sri Lanka,Zimbabwe,95,10,120,20.0,4.75,163.0,68.0,0,0
+47978,Pakistan T20I Tri-Series 2025,2025,1,Sri Lanka,Pakistan,128,7,120,20.0,6.4,,,0,3
+47978,Pakistan T20I Tri-Series 2025,2025,2,Pakistan,Sri Lanka,131,3,93,15.3,8.45,129.0,0.0,27,7
+47979,Pakistan T20I Tri-Series 2025,2025,1,Pakistan,Zimbabwe,195,5,120,20.0,9.75,,,0,5
+47979,Pakistan T20I Tri-Series 2025,2025,2,Zimbabwe,Pakistan,126,10,114,19.0,6.63,196.0,70.0,6,0
+47980,Pakistan T20I Tri-Series 2025,2025,1,Zimbabwe,Sri Lanka,146,5,120,20.0,7.3,,,0,5
+47980,Pakistan T20I Tri-Series 2025,2025,2,Sri Lanka,Zimbabwe,148,1,98,16.2,9.06,147.0,0.0,22,9
+47981,Pakistan T20I Tri-Series 2025,2025,1,Sri Lanka,Pakistan,184,5,120,20.0,9.2,,,0,5
+47981,Pakistan T20I Tri-Series 2025,2025,2,Pakistan,Sri Lanka,178,7,120,20.0,8.9,185.0,7.0,0,3
+47982,Pakistan T20I Tri-Series 2025,2025,1,Sri Lanka,Pakistan,114,10,115,19.1,5.95,,,5,0
+47982,Pakistan T20I Tri-Series 2025,2025,2,Pakistan,Sri Lanka,118,4,112,18.4,6.32,115.0,0.0,8,6
+48466,Ireland in United Arab Emirates T20I Series 2026,2026,1,Ireland,United Arab Emirates,178,6,120,20.0,8.9,,,0,4
+48466,Ireland in United Arab Emirates T20I Series 2026,2026,2,United Arab Emirates,Ireland,121,10,119,19.5,6.1,179.0,58.0,1,0
+48467,Ireland in United Arab Emirates T20I Series 2026,2026,1,Ireland,United Arab Emirates,170,7,120,20.0,8.5,,,0,3
+48467,Ireland in United Arab Emirates T20I Series 2026,2026,2,United Arab Emirates,Ireland,140,8,120,20.0,7.0,171.0,31.0,0,2
+48512,Pakistan in Sri Lanka T20I Series 2026,2026,1,Sri Lanka,Pakistan,128,10,116,19.2,6.62,,,4,0
+48512,Pakistan in Sri Lanka T20I Series 2026,2026,2,Pakistan,Sri Lanka,129,4,100,16.4,7.74,129.0,0.0,20,6
+48514,Pakistan in Sri Lanka T20I Series 2026,2026,1,Sri Lanka,Pakistan,160,6,72,12.0,13.33,,,48,4
+48514,Pakistan in Sri Lanka T20I Series 2026,2026,2,Pakistan,Sri Lanka,146,8,72,12.0,12.17,161.0,15.0,48,2
+48591,New Zealand in India T20I Series 2026,2026,1,India,New Zealand,238,7,120,20.0,11.9,,,0,3
+48591,New Zealand in India T20I Series 2026,2026,2,New Zealand,India,190,7,120,20.0,9.5,239.0,49.0,0,3
+48592,New Zealand in India T20I Series 2026,2026,1,New Zealand,India,208,6,120,20.0,10.4,,,0,4
+48592,New Zealand in India T20I Series 2026,2026,2,India,New Zealand,209,3,92,15.2,13.63,209.0,0.0,28,7
+48593,New Zealand in India T20I Series 2026,2026,1,New Zealand,India,153,9,120,20.0,7.65,,,0,1
+48593,New Zealand in India T20I Series 2026,2026,2,India,New Zealand,155,2,60,10.0,15.5,154.0,0.0,60,8
+48594,New Zealand in India T20I Series 2026,2026,1,New Zealand,India,215,7,120,20.0,10.75,,,0,3
+48594,New Zealand in India T20I Series 2026,2026,2,India,New Zealand,165,10,112,18.4,8.84,216.0,51.0,8,0
+48595,New Zealand in India T20I Series 2026,2026,1,India,New Zealand,271,5,120,20.0,13.55,,,0,5
+48595,New Zealand in India T20I Series 2026,2026,2,New Zealand,India,225,10,118,19.4,11.44,272.0,47.0,2,0
+48596,Afghanistan v West Indies T20I Series 2026,2026,1,Afghanistan,West Indies,181,3,120,20.0,9.05,,,0,7
+48596,Afghanistan v West Indies T20I Series 2026,2026,2,West Indies,Afghanistan,143,9,120,20.0,7.15,182.0,39.0,0,1
+48597,Afghanistan v West Indies T20I Series 2026,2026,1,Afghanistan,West Indies,189,4,120,20.0,9.45,,,0,6
+48597,Afghanistan v West Indies T20I Series 2026,2026,2,West Indies,Afghanistan,150,10,113,18.5,7.96,190.0,40.0,7,0
+48598,Afghanistan v West Indies T20I Series 2026,2026,1,West Indies,Afghanistan,151,7,120,20.0,7.55,,,0,3
+48598,Afghanistan v West Indies T20I Series 2026,2026,2,Afghanistan,West Indies,138,8,120,20.0,6.9,152.0,14.0,0,2
+48610,England in Sri Lanka T20I Series 2026,2026,1,Sri Lanka,England,133,10,98,16.2,8.14,,,4,0
+48610,England in Sri Lanka T20I Series 2026,2026,2,England,Sri Lanka,125,4,90,15.0,8.33,115.0,0.0,0,6
+48611,England in Sri Lanka T20I Series 2026,2026,1,Sri Lanka,England,189,5,120,20.0,9.45,,,0,5
+48611,England in Sri Lanka T20I Series 2026,2026,2,England,Sri Lanka,173,4,100,16.4,10.38,168.0,0.0,2,6
+48612,England in Sri Lanka T20I Series 2026,2026,1,England,Sri Lanka,128,9,120,20.0,6.4,,,0,1
+48612,England in Sri Lanka T20I Series 2026,2026,2,Sri Lanka,England,116,10,117,19.3,5.95,129.0,13.0,3,0
+48915,Australia in Pakistan T20I Series 2026,2026,1,Pakistan,Australia,168,8,120,20.0,8.4,,,0,2
+48915,Australia in Pakistan T20I Series 2026,2026,2,Australia,Pakistan,146,8,120,20.0,7.3,169.0,23.0,0,2
+48916,Australia in Pakistan T20I Series 2026,2026,1,Pakistan,Australia,198,5,120,20.0,9.9,,,0,5
+48916,Australia in Pakistan T20I Series 2026,2026,2,Australia,Pakistan,108,10,94,15.4,6.89,199.0,91.0,26,0
+48917,Australia in Pakistan T20I Series 2026,2026,1,Pakistan,Australia,207,6,120,20.0,10.35,,,0,4
+48917,Australia in Pakistan T20I Series 2026,2026,2,Australia,Pakistan,96,9,101,16.5,5.7,208.0,112.0,19,1
+49736,South Africa in New Zealand T20I Series 2026,2026,1,New Zealand,South Africa,91,10,87,14.3,6.28,,,33,0
+49736,South Africa in New Zealand T20I Series 2026,2026,2,South Africa,New Zealand,93,3,100,16.4,5.58,92.0,0.0,20,7
+49737,South Africa in New Zealand T20I Series 2026,2026,1,New Zealand,South Africa,175,6,120,20.0,8.75,,,0,4
+49737,South Africa in New Zealand T20I Series 2026,2026,2,South Africa,New Zealand,107,10,93,15.3,6.9,176.0,69.0,27,0
+49738,South Africa in New Zealand T20I Series 2026,2026,1,South Africa,New Zealand,136,9,120,20.0,6.8,,,0,1
+49738,South Africa in New Zealand T20I Series 2026,2026,2,New Zealand,South Africa,137,2,98,16.2,8.39,137.0,0.0,22,8
+49739,South Africa in New Zealand T20I Series 2026,2026,1,South Africa,New Zealand,164,5,120,20.0,8.2,,,0,5
+49739,South Africa in New Zealand T20I Series 2026,2026,2,New Zealand,South Africa,145,10,113,18.5,7.7,165.0,20.0,7,0
+49740,South Africa in New Zealand T20I Series 2026,2026,1,South Africa,New Zealand,187,4,120,20.0,9.35,,,0,6
+49740,South Africa in New Zealand T20I Series 2026,2026,2,New Zealand,South Africa,154,8,120,20.0,7.7,188.0,34.0,0,2
+50125,IPL 2026,2026,1,Sunrisers Hyderabad,Royal Challengers Bengaluru,201,9,120,20.0,10.05,,,0,1
+50125,IPL 2026,2026,2,Royal Challengers Bengaluru,Sunrisers Hyderabad,203,4,94,15.4,12.96,202.0,0.0,26,6
+50126,IPL 2026,2026,1,Kolkata Knight Riders,Mumbai Indians,220,4,120,20.0,11.0,,,0,6
+50126,IPL 2026,2026,2,Mumbai Indians,Kolkata Knight Riders,224,4,115,19.1,11.69,221.0,0.0,5,6
+50127,IPL 2026,2026,1,Chennai Super Kings,Rajasthan Royals,127,10,118,19.4,6.46,,,2,0
+50127,IPL 2026,2026,2,Rajasthan Royals,Chennai Super Kings,128,2,73,12.1,10.52,128.0,0.0,47,8
+50128,IPL 2026,2026,1,Gujarat Titans,Punjab Kings,162,6,120,20.0,8.1,,,0,4
+50128,IPL 2026,2026,2,Punjab Kings,Gujarat Titans,165,7,115,19.1,8.61,163.0,0.0,5,3
+50129,IPL 2026,2026,1,Lucknow Super Giants,Delhi Capitals,141,10,112,18.4,7.55,,,8,0
+50129,IPL 2026,2026,2,Delhi Capitals,Lucknow Super Giants,145,4,103,17.1,8.45,142.0,0.0,17,6
+50130,IPL 2026,2026,1,Sunrisers Hyderabad,Kolkata Knight Riders,226,8,120,20.0,11.3,,,0,2
+50130,IPL 2026,2026,2,Kolkata Knight Riders,Sunrisers Hyderabad,161,10,96,16.0,10.06,227.0,66.0,24,0
+50131,IPL 2026,2026,1,Chennai Super Kings,Punjab Kings,209,5,120,20.0,10.45,,,0,5
+50131,IPL 2026,2026,2,Punjab Kings,Chennai Super Kings,210,5,112,18.4,11.25,210.0,0.0,8,5
+50132,IPL 2026,2026,1,Mumbai Indians,Delhi Capitals,162,6,120,20.0,8.1,,,0,4
+50132,IPL 2026,2026,2,Delhi Capitals,Mumbai Indians,164,4,109,18.1,9.03,163.0,0.0,11,6
+50133,IPL 2026,2026,1,Rajasthan Royals,Gujarat Titans,210,6,120,20.0,10.5,,,0,4
+50133,IPL 2026,2026,2,Gujarat Titans,Rajasthan Royals,204,8,120,20.0,10.2,211.0,7.0,0,2
+50134,IPL 2026,2026,1,Sunrisers Hyderabad,Lucknow Super Giants,156,9,120,20.0,7.8,,,0,1
+50134,IPL 2026,2026,2,Lucknow Super Giants,Sunrisers Hyderabad,160,5,119,19.5,8.07,157.0,0.0,1,5
+50135,IPL 2026,2026,1,Royal Challengers Bengaluru,Chennai Super Kings,250,3,120,20.0,12.5,,,0,7
+50135,IPL 2026,2026,2,Chennai Super Kings,Royal Challengers Bengaluru,207,10,118,19.4,10.53,251.0,44.0,2,0
+50136,IPL 2026,2026,1,Kolkata Knight Riders,Punjab Kings,25,2,22,3.4,6.82,,,98,8
+50137,IPL 2026,2026,1,Rajasthan Royals,Mumbai Indians,150,3,66,11.0,13.64,,,0,7
+50137,IPL 2026,2026,2,Mumbai Indians,Rajasthan Royals,123,9,66,11.0,11.18,151.0,28.0,0,1
+50138,IPL 2026,2026,1,Gujarat Titans,Delhi Capitals,210,4,120,20.0,10.5,,,0,6
+50138,IPL 2026,2026,2,Delhi Capitals,Gujarat Titans,209,8,120,20.0,10.45,211.0,2.0,0,2
+50139,IPL 2026,2026,1,Kolkata Knight Riders,Lucknow Super Giants,181,4,120,20.0,9.05,,,0,6
+50139,IPL 2026,2026,2,Lucknow Super Giants,Kolkata Knight Riders,182,7,120,20.0,9.1,182.0,0.0,0,3
+50140,IPL 2026,2026,1,Royal Challengers Bengaluru,Rajasthan Royals,201,8,120,20.0,10.05,,,0,2
+50140,IPL 2026,2026,2,Rajasthan Royals,Royal Challengers Bengaluru,202,4,108,18.0,11.22,202.0,0.0,12,6
+50141,IPL 2026,2026,1,Sunrisers Hyderabad,Punjab Kings,219,6,120,20.0,10.95,,,0,4
+50141,IPL 2026,2026,2,Punjab Kings,Sunrisers Hyderabad,223,4,113,18.5,11.84,220.0,0.0,7,6
+50142,IPL 2026,2026,1,Chennai Super Kings,Delhi Capitals,212,1,120,20.0,10.6,,,0,9
+50142,IPL 2026,2026,2,Delhi Capitals,Chennai Super Kings,189,10,120,20.0,9.45,213.0,24.0,0,0
+50143,IPL 2026,2026,1,Lucknow Super Giants,Gujarat Titans,164,8,120,20.0,8.2,,,0,2
+50143,IPL 2026,2026,2,Gujarat Titans,Lucknow Super Giants,165,3,112,18.4,8.84,165.0,0.0,8,7
+50144,IPL 2026,2026,1,Royal Challengers Bengaluru,Mumbai Indians,240,4,120,20.0,12.0,,,0,6
+50144,IPL 2026,2026,2,Mumbai Indians,Royal Challengers Bengaluru,222,5,120,20.0,11.1,241.0,19.0,0,5
+50188,New Zealand in Bangladesh T20I Series 2026,2026,1,New Zealand,Bangladesh,182,6,120,20.0,9.1,,,0,4
+50188,New Zealand in Bangladesh T20I Series 2026,2026,2,Bangladesh,New Zealand,183,4,108,18.0,10.17,183.0,0.0,12,6
+50190,New Zealand in Bangladesh T20I Series 2026,2026,1,Bangladesh,New Zealand,102,10,86,14.2,7.12,,,4,0
+50190,New Zealand in Bangladesh T20I Series 2026,2026,2,New Zealand,Bangladesh,104,4,70,11.4,8.91,103.0,0.0,20,6
+50340,India in Ireland T20I Series 2026,2026,1,Ireland,India,182,9,120,20.0,9.1,,,0,1
+50340,India in Ireland T20I Series 2026,2026,2,India,Ireland,148,10,113,18.5,7.86,183.0,35.0,7,0
+50341,India in Ireland T20I Series 2026,2026,1,Ireland,India,154,8,120,20.0,7.7,,,0,2
+50341,India in Ireland T20I Series 2026,2026,2,India,Ireland,153,9,120,20.0,7.65,155.0,2.0,0,1
+50342,IPL 2026,2026,1,Sunrisers Hyderabad,Rajasthan Royals,216,6,120,20.0,10.8,,,0,4
+50342,IPL 2026,2026,2,Rajasthan Royals,Sunrisers Hyderabad,159,10,114,19.0,8.37,217.0,58.0,6,0
+50343,IPL 2026,2026,1,Chennai Super Kings,Kolkata Knight Riders,192,5,120,20.0,9.6,,,0,5
+50343,IPL 2026,2026,2,Kolkata Knight Riders,Chennai Super Kings,160,7,120,20.0,8.0,193.0,33.0,0,3
+50344,IPL 2026,2026,1,Lucknow Super Giants,Royal Challengers Bengaluru,146,10,120,20.0,7.3,,,0,0
+50344,IPL 2026,2026,2,Royal Challengers Bengaluru,Lucknow Super Giants,149,5,91,15.1,9.82,147.0,0.0,29,5
+50345,IPL 2026,2026,1,Mumbai Indians,Punjab Kings,195,6,120,20.0,9.75,,,0,4
+50345,IPL 2026,2026,2,Punjab Kings,Mumbai Indians,198,3,99,16.3,12.0,196.0,0.0,21,7
+50346,IPL 2026,2026,1,Kolkata Knight Riders,Gujarat Titans,180,10,120,20.0,9.0,,,0,0
+50346,IPL 2026,2026,2,Gujarat Titans,Kolkata Knight Riders,181,5,118,19.4,9.2,181.0,0.0,2,5
+50347,IPL 2026,2026,1,Royal Challengers Bengaluru,Delhi Capitals,175,8,120,20.0,8.75,,,0,2
+50347,IPL 2026,2026,2,Delhi Capitals,Royal Challengers Bengaluru,179,4,119,19.5,9.03,176.0,0.0,1,6
+50348,IPL 2026,2026,1,Sunrisers Hyderabad,Chennai Super Kings,194,9,120,20.0,9.7,,,0,1
+50348,IPL 2026,2026,2,Chennai Super Kings,Sunrisers Hyderabad,184,8,120,20.0,9.2,195.0,11.0,0,2
+50349,IPL 2026,2026,1,Rajasthan Royals,Kolkata Knight Riders,155,9,120,20.0,7.75,,,0,1
+50349,IPL 2026,2026,2,Kolkata Knight Riders,Rajasthan Royals,161,6,118,19.4,8.19,156.0,0.0,2,4
+50350,IPL 2026,2026,1,Punjab Kings,Lucknow Super Giants,254,7,120,20.0,12.7,,,0,3
+50350,IPL 2026,2026,2,Lucknow Super Giants,Punjab Kings,200,5,120,20.0,10.0,255.0,55.0,0,5
+50351,IPL 2026,2026,1,Mumbai Indians,Gujarat Titans,199,5,120,20.0,9.95,,,0,5
+50351,IPL 2026,2026,2,Gujarat Titans,Mumbai Indians,100,10,95,15.5,6.32,200.0,100.0,25,0
+50352,IPL 2026,2026,1,Sunrisers Hyderabad,Delhi Capitals,242,2,120,20.0,12.1,,,0,8
+50352,IPL 2026,2026,2,Delhi Capitals,Sunrisers Hyderabad,195,9,120,20.0,9.75,243.0,48.0,0,1
+50353,IPL 2026,2026,1,Rajasthan Royals,Lucknow Super Giants,159,6,120,20.0,7.95,,,0,4
+50353,IPL 2026,2026,2,Lucknow Super Giants,Rajasthan Royals,119,10,108,18.0,6.61,160.0,41.0,12,0
+50354,IPL 2026,2026,1,Chennai Super Kings,Mumbai Indians,207,6,120,20.0,10.35,,,0,4
+50354,IPL 2026,2026,2,Mumbai Indians,Chennai Super Kings,104,10,114,19.0,5.47,208.0,104.0,6,0
+50355,IPL 2026,2026,1,Gujarat Titans,Royal Challengers Bengaluru,205,3,120,20.0,10.25,,,0,7
+50355,IPL 2026,2026,2,Royal Challengers Bengaluru,Gujarat Titans,206,5,113,18.5,10.94,206.0,0.0,7,5
+50356,IPL 2026,2026,1,Delhi Capitals,Punjab Kings,264,2,120,20.0,13.2,,,0,8
+50356,IPL 2026,2026,2,Punjab Kings,Delhi Capitals,265,4,113,18.5,14.07,265.0,0.0,7,6
+50357,IPL 2026,2026,1,Rajasthan Royals,Sunrisers Hyderabad,228,6,120,20.0,11.4,,,0,4
+50357,IPL 2026,2026,2,Sunrisers Hyderabad,Rajasthan Royals,229,5,111,18.3,12.38,229.0,0.0,9,5
+50358,IPL 2026,2026,1,Chennai Super Kings,Gujarat Titans,158,7,120,20.0,7.9,,,0,3
+50358,IPL 2026,2026,2,Gujarat Titans,Chennai Super Kings,162,2,100,16.4,9.72,159.0,0.0,20,8
+50359,IPL 2026,2026,1,Kolkata Knight Riders,Lucknow Super Giants,155,7,120,20.0,7.75,,,0,3
+50359,IPL 2026,2026,2,Lucknow Super Giants,Kolkata Knight Riders,155,8,120,20.0,7.75,156.0,1.0,0,2
+50359,IPL 2026,2026,3,Lucknow Super Giants,Kolkata Knight Riders,1,2,3,0.3,2.0,,,3,0
+50359,IPL 2026,2026,4,Kolkata Knight Riders,Lucknow Super Giants,4,0,1,0.1,24.0,2.0,0.0,5,2
+50360,IPL 2026,2026,1,Delhi Capitals,Royal Challengers Bengaluru,75,10,99,16.3,4.55,,,21,0
+50360,IPL 2026,2026,2,Royal Challengers Bengaluru,Delhi Capitals,77,1,39,6.3,11.85,76.0,0.0,81,9
+50361,IPL 2026,2026,1,Punjab Kings,Rajasthan Royals,222,4,120,20.0,11.1,,,0,6
+50361,IPL 2026,2026,2,Rajasthan Royals,Punjab Kings,228,4,116,19.2,11.79,223.0,0.0,4,6
+50362,IPL 2026,2026,1,Mumbai Indians,Sunrisers Hyderabad,243,5,120,20.0,12.15,,,0,5
+50362,IPL 2026,2026,2,Sunrisers Hyderabad,Mumbai Indians,249,4,112,18.4,13.34,244.0,0.0,8,6
+50363,IPL 2026,2026,1,Royal Challengers Bengaluru,Gujarat Titans,155,10,116,19.2,8.02,,,4,0
+50363,IPL 2026,2026,2,Gujarat Titans,Royal Challengers Bengaluru,158,6,95,15.5,9.98,156.0,0.0,25,4
+50364,IPL 2026,2026,1,Rajasthan Royals,Delhi Capitals,225,6,120,20.0,11.25,,,0,4
+50364,IPL 2026,2026,2,Delhi Capitals,Rajasthan Royals,226,3,115,19.1,11.79,226.0,0.0,5,7
+50365,IPL 2026,2026,1,Mumbai Indians,Chennai Super Kings,159,7,120,20.0,7.95,,,0,3
+50365,IPL 2026,2026,2,Chennai Super Kings,Mumbai Indians,160,2,109,18.1,8.81,160.0,0.0,11,8
+50366,IPL 2026,2026,1,Sunrisers Hyderabad,Kolkata Knight Riders,165,10,114,19.0,8.68,,,6,0
+50366,IPL 2026,2026,2,Kolkata Knight Riders,Sunrisers Hyderabad,169,3,110,18.2,9.22,166.0,0.0,10,7
+50367,IPL 2026,2026,1,Punjab Kings,Gujarat Titans,163,9,120,20.0,8.15,,,0,1
+50367,IPL 2026,2026,2,Gujarat Titans,Punjab Kings,167,6,119,19.5,8.42,164.0,0.0,1,4
+50368,IPL 2026,2026,1,Lucknow Super Giants,Mumbai Indians,228,5,120,20.0,11.4,,,0,5
+50368,IPL 2026,2026,2,Mumbai Indians,Lucknow Super Giants,229,4,112,18.4,12.27,229.0,0.0,8,6
+50369,IPL 2026,2026,1,Delhi Capitals,Chennai Super Kings,155,7,120,20.0,7.75,,,0,3
+50369,IPL 2026,2026,2,Chennai Super Kings,Delhi Capitals,159,2,105,17.3,9.09,156.0,0.0,15,8
+50370,IPL 2026,2026,1,Sunrisers Hyderabad,Punjab Kings,235,4,120,20.0,11.75,,,0,6
+50370,IPL 2026,2026,2,Punjab Kings,Sunrisers Hyderabad,202,7,120,20.0,10.1,236.0,34.0,0,3
+50371,IPL 2026,2026,1,Lucknow Super Giants,Royal Challengers Bengaluru,209,3,114,19.0,11.0,,,0,7
+50371,IPL 2026,2026,2,Royal Challengers Bengaluru,Lucknow Super Giants,203,6,114,19.0,10.68,213.0,10.0,0,4
+50372,IPL 2026,2026,1,Delhi Capitals,Kolkata Knight Riders,142,8,120,20.0,7.1,,,0,2
+50372,IPL 2026,2026,2,Kolkata Knight Riders,Delhi Capitals,147,2,86,14.2,10.26,143.0,0.0,34,8
+50373,IPL 2026,2026,1,Gujarat Titans,Rajasthan Royals,229,4,120,20.0,11.45,,,0,6
+50373,IPL 2026,2026,2,Rajasthan Royals,Gujarat Titans,152,10,99,16.3,9.21,230.0,78.0,21,0
+50374,IPL 2026,2026,1,Lucknow Super Giants,Chennai Super Kings,203,8,120,20.0,10.15,,,0,2
+50374,IPL 2026,2026,2,Chennai Super Kings,Lucknow Super Giants,208,5,116,19.2,10.76,204.0,0.0,4,5
+50375,IPL 2026,2026,1,Mumbai Indians,Royal Challengers Bengaluru,166,7,120,20.0,8.3,,,0,3
+50375,IPL 2026,2026,2,Royal Challengers Bengaluru,Mumbai Indians,167,8,120,20.0,8.35,167.0,0.0,0,2
+50376,IPL 2026,2026,1,Punjab Kings,Delhi Capitals,210,5,120,20.0,10.5,,,0,5
+50376,IPL 2026,2026,2,Delhi Capitals,Punjab Kings,216,7,114,19.0,11.37,211.0,0.0,6,3
+50377,IPL 2026,2026,1,Gujarat Titans,Sunrisers Hyderabad,168,5,120,20.0,8.4,,,0,5
+50377,IPL 2026,2026,2,Sunrisers Hyderabad,Gujarat Titans,86,10,89,14.5,5.8,169.0,83.0,31,0
+50378,IPL 2026,2026,1,Kolkata Knight Riders,Royal Challengers Bengaluru,192,4,120,20.0,9.6,,,0,6
+50378,IPL 2026,2026,2,Royal Challengers Bengaluru,Kolkata Knight Riders,194,4,115,19.1,10.12,193.0,0.0,5,6
+50379,IPL 2026,2026,1,Punjab Kings,Mumbai Indians,200,8,120,20.0,10.0,,,0,2
+50379,IPL 2026,2026,2,Mumbai Indians,Punjab Kings,205,4,119,19.5,10.34,201.0,0.0,1,6
+50380,IPL 2026,2026,1,Chennai Super Kings,Lucknow Super Giants,187,5,120,20.0,9.35,,,0,5
+50380,IPL 2026,2026,2,Lucknow Super Giants,Chennai Super Kings,188,3,100,16.4,11.28,188.0,0.0,20,7
+50381,IPL 2026,2026,1,Kolkata Knight Riders,Gujarat Titans,247,2,120,20.0,12.35,,,0,8
+50381,IPL 2026,2026,2,Gujarat Titans,Kolkata Knight Riders,218,4,120,20.0,10.9,248.0,30.0,0,6
+50382,IPL 2026,2026,1,Royal Challengers Bengaluru,Punjab Kings,222,4,120,20.0,11.1,,,0,6
+50382,IPL 2026,2026,2,Punjab Kings,Royal Challengers Bengaluru,199,8,120,20.0,9.95,223.0,24.0,0,2
+50383,IPL 2026,2026,1,Rajasthan Royals,Delhi Capitals,193,8,120,20.0,9.65,,,0,2
+50383,IPL 2026,2026,2,Delhi Capitals,Rajasthan Royals,197,5,116,19.2,10.19,194.0,0.0,4,5
+50384,IPL 2026,2026,1,Chennai Super Kings,Sunrisers Hyderabad,180,7,120,20.0,9.0,,,0,3
+50384,IPL 2026,2026,2,Sunrisers Hyderabad,Chennai Super Kings,181,5,114,19.0,9.53,181.0,0.0,6,5
+50385,IPL 2026,2026,1,Lucknow Super Giants,Rajasthan Royals,220,5,120,20.0,11.0,,,0,5
+50385,IPL 2026,2026,2,Rajasthan Royals,Lucknow Super Giants,225,3,115,19.1,11.74,221.0,0.0,5,7
+50386,IPL 2026,2026,1,Mumbai Indians,Kolkata Knight Riders,147,8,120,20.0,7.35,,,0,2
+50386,IPL 2026,2026,2,Kolkata Knight Riders,Mumbai Indians,148,6,113,18.5,7.86,148.0,0.0,7,4
+50387,IPL 2026,2026,1,Gujarat Titans,Chennai Super Kings,229,4,120,20.0,11.45,,,0,6
+50387,IPL 2026,2026,2,Chennai Super Kings,Gujarat Titans,140,10,82,13.4,10.24,230.0,90.0,38,0
+50388,IPL 2026,2026,1,Sunrisers Hyderabad,Royal Challengers Bengaluru,255,4,120,20.0,12.75,,,0,6
+50388,IPL 2026,2026,2,Royal Challengers Bengaluru,Sunrisers Hyderabad,200,4,120,20.0,10.0,256.0,56.0,0,6
+50389,IPL 2026,2026,1,Lucknow Super Giants,Punjab Kings,196,6,120,20.0,9.8,,,0,4
+50389,IPL 2026,2026,2,Punjab Kings,Lucknow Super Giants,200,3,108,18.0,11.11,197.0,0.0,12,7
+50390,IPL 2026,2026,1,Rajasthan Royals,Mumbai Indians,205,8,120,20.0,10.25,,,0,2
+50390,IPL 2026,2026,2,Mumbai Indians,Rajasthan Royals,175,9,120,20.0,8.75,206.0,31.0,0,1
+50391,IPL 2026,2026,1,Delhi Capitals,Kolkata Knight Riders,203,5,120,20.0,10.15,,,0,5
+50391,IPL 2026,2026,2,Kolkata Knight Riders,Delhi Capitals,163,10,112,18.4,8.73,204.0,41.0,8,0
+50404,West Indies in India T20I Series 2026,2026,1,West Indies,India,171,10,115,19.1,8.92,,,5,0
+50404,West Indies in India T20I Series 2026,2026,2,India,West Indies,172,2,88,14.4,11.73,172.0,0.0,32,8
+50405,West Indies in India T20I Series 2026,2026,1,India,West Indies,249,5,120,20.0,12.45,,,0,5
+50405,West Indies in India T20I Series 2026,2026,2,West Indies,India,252,4,111,18.3,13.62,250.0,0.0,9,6
+50406,West Indies in India T20I Series 2026,2026,1,India,West Indies,223,10,120,20.0,11.15,,,0,0
+50406,West Indies in India T20I Series 2026,2026,2,West Indies,India,209,7,120,20.0,10.45,224.0,15.0,0,3
+50407,West Indies in India T20I Series 2026,2026,1,West Indies,India,247,3,120,20.0,12.35,,,0,7
+50407,West Indies in India T20I Series 2026,2026,2,India,West Indies,223,9,117,19.3,11.44,248.0,25.0,3,1
+50408,West Indies in India T20I Series 2026,2026,1,India,West Indies,118,5,46,7.4,15.39,,,8,5
+50503,Sri Lanka in West Indies T20I Series 2026,2026,1,Sri Lanka,West Indies,147,9,120,20.0,7.35,,,0,1
+50503,Sri Lanka in West Indies T20I Series 2026,2026,2,West Indies,Sri Lanka,149,3,116,19.2,7.71,148.0,0.0,4,7
+50504,Sri Lanka in West Indies T20I Series 2026,2026,1,Sri Lanka,West Indies,194,6,120,20.0,9.7,,,0,4
+50504,Sri Lanka in West Indies T20I Series 2026,2026,2,West Indies,Sri Lanka,157,10,109,18.1,8.64,195.0,38.0,11,0
+50505,Sri Lanka in West Indies T20I Series 2026,2026,1,Sri Lanka,West Indies,169,10,120,20.0,8.45,,,0,0
+50505,Sri Lanka in West Indies T20I Series 2026,2026,2,West Indies,Sri Lanka,170,5,118,19.4,8.64,170.0,0.0,2,5
+50507,India in Zimbabwe T20I Series 2026,2026,1,Zimbabwe,India,125,7,120,20.0,6.25,,,0,3
+50507,India in Zimbabwe T20I Series 2026,2026,2,India,Zimbabwe,126,3,80,13.2,9.45,126.0,0.0,40,7
+50508,India in Zimbabwe T20I Series 2026,2026,1,India,Zimbabwe,219,5,120,20.0,10.95,,,0,5
+50508,India in Zimbabwe T20I Series 2026,2026,2,Zimbabwe,India,129,10,107,17.5,7.23,220.0,91.0,13,0
+50509,India in Zimbabwe T20I Series 2026,2026,1,India,Zimbabwe,192,5,120,20.0,9.6,,,0,5
+50509,India in Zimbabwe T20I Series 2026,2026,2,Zimbabwe,India,157,7,120,20.0,7.85,193.0,36.0,0,3
+50597,Australia in Bangladesh T20I Series 2026,2026,1,Bangladesh,Australia,131,10,114,19.0,6.89,,,6,0
+50597,Australia in Bangladesh T20I Series 2026,2026,2,Australia,Bangladesh,133,6,110,18.2,7.25,132.0,0.0,10,4
+50598,Australia in Bangladesh T20I Series 2026,2026,1,Australia,Bangladesh,196,5,120,20.0,9.8,,,0,5
+50598,Australia in Bangladesh T20I Series 2026,2026,2,Bangladesh,Australia,189,6,120,20.0,9.45,197.0,8.0,0,4
+50599,Australia in Bangladesh T20I Series 2026,2026,1,Bangladesh,Australia,109,8,120,20.0,5.45,,,0,2
+50599,Australia in Bangladesh T20I Series 2026,2026,2,Australia,Bangladesh,112,3,66,11.0,10.18,110.0,0.0,54,7
+50942,IPL 2026,2026,1,Royal Challengers Bengaluru,Gujarat Titans,254,5,120,20.0,12.7,,,0,5
+50942,IPL 2026,2026,2,Gujarat Titans,Royal Challengers Bengaluru,162,10,117,19.3,8.31,255.0,93.0,3,0
+50943,IPL 2026,2026,1,Rajasthan Royals,Sunrisers Hyderabad,243,8,120,20.0,12.15,,,0,2
+50943,IPL 2026,2026,2,Sunrisers Hyderabad,Rajasthan Royals,196,10,116,19.2,10.14,244.0,48.0,4,0
+50944,IPL 2026,2026,1,Rajasthan Royals,Gujarat Titans,214,6,120,20.0,10.7,,,0,4
+50944,IPL 2026,2026,2,Gujarat Titans,Rajasthan Royals,219,3,112,18.4,11.73,215.0,0.0,8,7
+50945,IPL 2026,2026,1,Gujarat Titans,Royal Challengers Bengaluru,155,8,120,20.0,7.75,,,0,2
+50945,IPL 2026,2026,2,Royal Challengers Bengaluru,Gujarat Titans,161,5,108,18.0,8.94,156.0,0.0,12,5
+51383,Bangladesh in Zimbabwe T20I Series 2026,2026,1,Zimbabwe,Bangladesh,170,6,120,20.0,8.5,,,0,4
+51383,Bangladesh in Zimbabwe T20I Series 2026,2026,2,Bangladesh,Zimbabwe,138,10,114,19.0,7.26,171.0,33.0,6,0
+51384,Bangladesh in Zimbabwe T20I Series 2026,2026,1,Bangladesh,Zimbabwe,186,5,120,20.0,9.3,,,0,5
+51384,Bangladesh in Zimbabwe T20I Series 2026,2026,2,Zimbabwe,Bangladesh,152,10,118,19.4,7.73,187.0,35.0,2,0
+51385,Bangladesh in Zimbabwe T20I Series 2026,2026,1,Zimbabwe,Bangladesh,143,7,120,20.0,7.15,,,0,3
+51385,Bangladesh in Zimbabwe T20I Series 2026,2026,2,Bangladesh,Zimbabwe,144,6,118,19.4,7.32,144.0,0.0,2,4
+54210,India in New Zealand T20I Series 2026,2026,1,New Zealand,India,225,4,120,20.0,11.25,,,0,6
+54210,India in New Zealand T20I Series 2026,2026,2,India,New Zealand,230,6,118,19.4,11.69,226.0,0.0,2,4
+54211,India in New Zealand T20I Series 2026,2026,1,New Zealand,India,180,5,120,20.0,9.0,,,0,5
+54211,India in New Zealand T20I Series 2026,2026,2,India,New Zealand,181,6,119,19.5,9.13,181.0,0.0,1,4
+54212,India in New Zealand T20I Series 2026,2026,1,New Zealand,India,198,3,120,20.0,9.9,,,0,7
+54212,India in New Zealand T20I Series 2026,2026,2,India,New Zealand,199,4,80,13.2,14.92,199.0,0.0,40,6
+54213,India in New Zealand T20I Series 2026,2026,1,New Zealand,India,259,7,120,20.0,12.95,,,0,3
+54213,India in New Zealand T20I Series 2026,2026,2,India,New Zealand,172,9,120,20.0,8.6,260.0,88.0,0,1
+54214,India in New Zealand T20I Series 2026,2026,1,India,New Zealand,191,8,120,20.0,9.55,,,0,2
+54214,India in New Zealand T20I Series 2026,2026,2,New Zealand,India,195,3,108,18.0,10.83,192.0,0.0,12,7
+54408,Afghanistan vs India in India T20I Series 2026,2026,1,Afghanistan,India,156,8,120,20.0,7.8,,,0,2
+54408,Afghanistan vs India in India T20I Series 2026,2026,2,India,Afghanistan,157,3,82,13.4,11.49,157.0,0.0,38,7
+54409,Afghanistan vs India in India T20I Series 2026,2026,1,Afghanistan,India,159,8,120,20.0,7.95,,,0,2
+54409,Afghanistan vs India in India T20I Series 2026,2026,2,India,Afghanistan,163,3,89,14.5,10.99,160.0,0.0,31,7
+54410,Afghanistan vs India in India T20I Series 2026,2026,1,India,Afghanistan,221,7,120,20.0,11.05,,,0,3
+54410,Afghanistan vs India in India T20I Series 2026,2026,2,Afghanistan,India,94,10,85,14.1,6.64,222.0,128.0,35,0
+54711,India in Japan T20I Match 2026,2026,1,India,Japan,32,4,30,5.0,6.4,,,0,6
+54711,India in Japan T20I Match 2026,2026,2,Japan,India,30,3,30,5.0,6.0,33.0,3.0,0,7
+55078,Sri Lanka in Pakistan T20I Series 2026,2026,1,Sri Lanka,Pakistan,182,8,120,20.0,9.1,,,0,2
+55078,Sri Lanka in Pakistan T20I Series 2026,2026,2,Pakistan,Sri Lanka,187,6,113,18.5,9.93,183.0,0.0,7,4
+55079,Sri Lanka in Pakistan T20I Series 2026,2026,1,Pakistan,Sri Lanka,215,3,120,20.0,10.75,,,0,7
+55079,Sri Lanka in Pakistan T20I Series 2026,2026,2,Sri Lanka,Pakistan,133,7,120,20.0,6.65,216.0,83.0,0,3
+55080,Sri Lanka in Pakistan T20I Series 2026,2026,1,Pakistan,Sri Lanka,168,8,120,20.0,8.4,,,0,2
+55080,Sri Lanka in Pakistan T20I Series 2026,2026,2,Sri Lanka,Pakistan,172,2,103,17.1,10.02,169.0,0.0,17,8
+55559,Afghanistan v Zimbabwe T20I Series 2026,2026,1,Afghanistan,Zimbabwe,177,10,119,19.5,8.92,,,1,0
+55559,Afghanistan v Zimbabwe T20I Series 2026,2026,2,Zimbabwe,Afghanistan,140,10,115,19.1,7.3,178.0,38.0,5,0
+55560,Afghanistan v Zimbabwe T20I Series 2026,2026,1,Afghanistan,Zimbabwe,221,7,120,20.0,11.05,,,0,3
+55560,Afghanistan v Zimbabwe T20I Series 2026,2026,2,Zimbabwe,Afghanistan,202,5,120,20.0,10.1,222.0,20.0,0,5
+55561,Afghanistan v Zimbabwe T20I Series 2026,2026,1,Zimbabwe,Afghanistan,79,10,87,14.3,5.45,,,33,0
+55561,Afghanistan v Zimbabwe T20I Series 2026,2026,2,Afghanistan,Zimbabwe,81,3,49,8.1,9.92,80.0,0.0,71,7

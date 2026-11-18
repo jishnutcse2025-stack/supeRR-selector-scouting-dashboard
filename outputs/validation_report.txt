@@ -1,0 +1,92 @@
+=====================================================================================
+SUPERR SELECTOR SEASON 2 — ADVANCED CRICKET ANALYTICS ENGINE
+DATA VALIDATION & INTEGRITY REPORT
+=====================================================================================
+Execution Timestamp : 2026-11-16 15:25:55
+Suite Status        : PASS
+Checks Evaluated    : 10 (Passed: 10, Failed: 0)
+-------------------------------------------------------------------------------------
+
+SUMMARY OF FILTERED UNIVERSE (IPL 2022+ & T20I 2022+):
+  Total Eligible Competitions     : 139 (IPL: 5, T20I: 134)
+  Total Eligible Matches          : 853 (IPL: 371, T20I: 482)
+  Matches with Ball-by-Ball Data  : 837 (16 abandoned matches had 0 balls bowled)
+  Total Ball-by-Ball Deliveries   : 194,014
+  Total Innings Processed         : 1,660
+  Total Player-Match Records      : 19,014
+  Total Eligible Batters          : 829
+  Total Eligible Bowlers          : 596
+
+=====================================================================================
+AUTOMATED VALIDATION CHECK RESULTS
+=====================================================================================
+[PASS] Check #01: Batter Runs Reconciliation
+       Expected   : 261119
+       Actual     : 261119
+       Difference : 0
+       Notes      : Sum of batter total_runs (261,119) matches sum of delivery runs (261,119) exactly.
+
+[PASS] Check #02: Bowling Runs Conceded Reconciliation
+       Expected   : 270826
+       Actual     : 270826
+       Difference : 0
+       Notes      : Bowler runs conceded (270,826) strictly charges bat runs and bowler extras (wides/no-balls) while excluding byes/leg-byes.
+
+[PASS] Check #03: Legal Delivery Count Reconciliation
+       Expected   : 185715
+       Actual     : 185715
+       Difference : 0
+       Notes      : Total legal deliveries (185,715) correctly excludes wides and no-balls (Overstep / other).
+
+[PASS] Check #04: Bowler Wicket Attribution & Exclusion
+       Expected   : 9905
+       Actual     : 9905
+       Difference : 0
+       Notes      : Bowler wickets (9,905) strictly include Caught/Bowled/LBW/Stump/Hit Wicket and exclude 581 non-bowler dismissals.
+
+[PASS] Check #05: Innings Total Runs Reconciliation
+       Expected   : 275375
+       Actual     : 275375
+       Difference : 0
+       Notes      : Innings runs (275,375) equals delivery-level (runs + extras1 + extras2) total (275,375).
+
+[PASS] Check #06: Duplicate Join Prevention
+       Expected   : 0
+       Actual     : 0
+       Difference : 0
+       Notes      : Zero duplicate (match_id, player_id) rows in player_match_statistics and zero duplicate innings.
+
+[PASS] Check #07: Authoritative Player Identity Integrity
+       Expected   : 0
+       Actual     : 0
+       Difference : 0
+       Notes      : 100% of player IDs map to canonical names without missing, null, or placeholder mappings.
+
+[PASS] Check #08: Competition Split Additivity (IPL + T20I)
+       Expected   : 0
+       Actual     : 0
+       Difference : 0
+       Notes      : IPL and T20I statistics partition additively into combined statistics across all players with 0 bleed.
+
+[PASS] Check #09: Transparent Missing Data Profiling
+       Expected   : >= 70 columns
+       Actual     : 77 columns
+       Difference : 0
+       Notes      : Data quality report explicitly audits 77 columns across all 6 input tables.
+
+[PASS] Check #10: Playing XI Participation Agreement
+       Expected   : 0
+       Actual     : 0
+       Difference : 0
+       Notes      : 100% of ball-by-ball matches are represented by confirmed Playing XI participants in player_match_statistics.
+
+-------------------------------------------------------------------------------------
+METHODOLOGICAL NOTES & VERIFICATION PROTOCOLS:
+1. Wides & No-balls: Excluded from legal balls. Wide runs charged entirely to bowler. No-ball penalty (1 run) charged to bowler.
+2. Byes & Leg-byes: Excluded from bowler runs conceded and excluded from batter runs scored.
+3. Wickets: Run-outs, retired out, and obstructing the field are strictly excluded from bowler wickets.
+4. Non-participating Players: Included in player_match_statistics with 0s and did_bat=False, did_bowl=False.
+5. Super Overs: Preserved in innings_statistics and ball-by-ball records with exact innings numbering (3 and 4).
+6. Deduping: Exact player appearances in matches are deduplicated by (match_id, player_id) to prevent match inflation.
+=====================================================================================
+END OF VALIDATION REPORT

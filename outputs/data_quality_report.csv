@@ -1,0 +1,78 @@
+table_name,column_name,data_type,total_records,missing_count,missing_pct,unique_count,sample_value
+competitions,comp_id,int64,141,0,0.0,141,3395
+competitions,comp_name,object,141,0,0.0,141,South Africa in New Zealand T20I Seri...
+competitions,match_format,object,141,0,0.0,2,T20I
+competitions,season,object,141,0,0.0,8,2026
+teams,comp_id,int64,353,0,0.0,141,1331
+teams,team_id,int64,353,0,0.0,38,22
+teams,team_name,object,353,0,0.0,38,England
+matches,match_id,int64,883,0,0.0,883,13511
+matches,comp_id,int64,883,0,0.0,138,1331
+matches,match_number,int64,883,0,0.0,75,1
+matches,match_date,datetime64[ns],883,0,0.0,686,2022-01-22 00:00:00
+matches,stage,object,883,0,0.0,7,League
+matches,venue_id,int64,883,0,0.0,98,54
+matches,venue_country,object,883,0,0.0,17,West Indies
+matches,home_team_id,int64,883,0,0.0,36,28
+matches,home_team,object,883,0,0.0,36,West Indies
+matches,away_team_id,int64,883,0,0.0,36,22
+matches,away_team,object,883,0,0.0,36,England
+matches,home_team_captain_id,float64,883,44,4.98,89,494.0
+matches,away_team_captain_id,float64,883,45,5.1,98,478.0
+matches,toss_win_team_id,float64,883,15,1.7,37,28.0
+matches,toss_opted,object,883,15,1.7,2,Fielding
+matches,man_of_the_match,int64,883,0,0.0,293,0
+matches,first_inn_revised_overs,float64,883,858,97.17,13,114.0
+matches,second_inn_revised_overs,float64,883,858,97.17,12,114.0
+matches,revised_target,float64,883,860,97.4,23,143.0
+matches,knock_out,int64,883,0,0.0,2,0
+matches,win_team_id,float64,883,41,4.64,36,28.0
+matches,result,object,883,0,0.0,670,West Indies Won by 9 Wickets
+mapping,comp_id,int64,6413,0,0.0,140,1331
+mapping,comp_name,object,6413,0,0.0,140,England in West Indies T20I Series 2022
+mapping,team_id,int64,6413,0,0.0,38,22
+mapping,team_name,object,6413,0,0.0,38,England
+mapping,player_id,int64,6413,0,0.0,1217,478
+mapping,player_name,object,6413,0,0.0,1210,Eoin Morgan
+playing_eleven,match_id,int64,28381,0,0.0,880,13511
+playing_eleven,team_id,int64,28381,0,0.0,38,22
+playing_eleven,player_id,int64,28381,0,0.0,1082,1187
+playing_eleven,batting_order,float64,28381,8678,30.58,13,1.0
+playing_eleven,is_played,bool,28381,0,0.0,2,True
+playing_eleven,is_captain,boolean,28381,8667,30.54,2,False
+playing_eleven,is_wk,boolean,28381,8667,30.54,2,False
+playing_eleven,is_impact,int64,28381,0,0.0,2,0
+playing_eleven,is_impact_off,int64,28381,0,0.0,2,0
+ball_by_ball,match_id,int64,200999,0,0.0,867,13511
+ball_by_ball,innings,int64,200999,0,0.0,4,1
+ball_by_ball,overid,int64,200999,0,0.0,20,1
+ball_by_ball,over_ball_num,int64,200999,0,0.0,13,1
+ball_by_ball,innings_ball_num,int64,200999,0,0.0,136,1
+ball_by_ball,batting_team_id,int64,200999,0,0.0,38,22
+ball_by_ball,bowling_team_id,int64,200999,0,0.0,38,28
+ball_by_ball,striker_id,int64,200999,0,0.0,888,1187
+ball_by_ball,striker_name,object,200999,0,0.0,885,Jason Roy
+ball_by_ball,non_striker_id,int64,200999,0,0.0,867,6273
+ball_by_ball,non_striker_name,object,200999,0,0.0,864,Tom Banton
+ball_by_ball,bowler_id,int64,200999,0,0.0,647,1772
+ball_by_ball,bowler_name,object,200999,0,0.0,646,Sheldon Cottrell
+ball_by_ball,batting_type,object,200999,0,0.0,2,RHB
+ball_by_ball,bowling_type,object,200999,0,0.0,12,Left-arm fast-medium
+ball_by_ball,batting_order,int64,200999,0,0.0,13,1
+ball_by_ball,runs,int64,200999,0,0.0,7,0
+ball_by_ball,is_four,bool,200999,0,0.0,2,False
+ball_by_ball,is_six,bool,200999,0,0.0,2,False
+ball_by_ball,is_wicket,bool,200999,0,0.0,2,False
+ball_by_ball,dismissal_type_id,float64,200999,190118,94.59,8,1.0
+ball_by_ball,dismissal_type,object,200999,190118,94.59,9,Bowled
+ball_by_ball,dismissed_player_id,float64,200999,190107,94.58,814,1187.0
+ball_by_ball,extras_type,object,200999,189167,94.11,6,wide
+ball_by_ball,extras1_runs,int64,200999,0,0.0,6,0
+ball_by_ball,extras_2_runs,int64,200999,0,0.0,3,0
+ball_by_ball,pace_or_spin,object,200999,0,0.0,2,Pace
+ball_by_ball,bowl_speed,float64,200999,0,0.0,1033,0.0
+ball_by_ball,stroke,object,200999,6158,3.06,30,Cover Drive
+ball_by_ball,delivery_style,object,200999,391,0.19,34,Inswing
+ball_by_ball,over_or_around,object,200999,407,0.2,2,Over
+ball_by_ball,on_or_off,object,200999,0,0.0,2,Off-side
+ball_by_ball,delivery_ist_time,object,200999,0,0.0,200826,2022-01-23 00:00:00 UTC

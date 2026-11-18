@@ -1,0 +1,6 @@
+# Streamlit Dashboard Requirements
+# SupeRR Selector Season 2 - Round 1 Challenge: Most Reliable Players Under Pressure
+streamlit>=1.35.0
+plotly>=5.20.0
+pandas>=2.0.0
+numpy>=1.24.0
