@@ -69,12 +69,14 @@ def apply_custom_css():
     """
     st.markdown(f"""
     <style>
-        /* Import Google Fonts (Inter) */
-        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+        /* Import Google Fonts (Plus Jakarta Sans & Inter) */
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
 
-        /* Global App Styling */
+        /* Global App Canvas */
         html, body, [class*="css"] {{
-            font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            font-family: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: {BG_MAIN} !important;
+            color: {TEXT_PRIMARY} !important;
         }}
         
         .stApp {{
@@ -82,69 +84,95 @@ def apply_custom_css():
             color: {TEXT_PRIMARY} !important;
         }}
         
-        /* Streamlit Header / Chrome Bar */
+        /* Streamlit Header / Chrome Bar — Seamless White-Header Integration */
         header[data-testid="stHeader"] {{
             background-color: {BG_MAIN} !important;
             border-bottom: 1px solid {BORDER} !important;
+            height: 3.5rem !important;
+        }}
+        header[data-testid="stHeader"] .stActionButton {{
+            color: {TEXT_PRIMARY} !important;
         }}
         
-        /* Sidebar Styling (Elegant White) */
+        /* Main Container Padding */
+        .block-container {{
+            padding-top: 2rem !important;
+            padding-bottom: 3.5rem !important;
+            max-width: 1380px !important;
+        }}
+        
+        /* Sidebar Styling (Elegant Crisp White) */
         section[data-testid="stSidebar"] {{
             background-color: #FFFFFF !important;
             border-right: 1px solid {BORDER} !important;
-            box-shadow: 2px 0 16px rgba(32, 43, 69, 0.03) !important;
+            box-shadow: 2px 0 16px rgba(32, 43, 69, 0.04) !important;
         }}
         section[data-testid="stSidebar"] div[data-testid="stVerticalBlock"] {{
-            gap: 0.6rem;
+            gap: 0.5rem;
         }}
         section[data-testid="stSidebar"] hr {{
-            margin: 12px 0;
+            margin: 10px 0;
             border-color: {BORDER};
         }}
         
-        /* Radio Navigation in Sidebar */
+        /* Sidebar Radio Navigation Items */
+        section[data-testid="stSidebar"] div[data-testid="stRadio"] > div {{
+            gap: 4px;
+        }}
         section[data-testid="stSidebar"] div[data-testid="stRadio"] label {{
             color: {TEXT_PRIMARY} !important;
-            font-weight: 500;
-            font-size: 0.92rem;
-            padding: 8px 12px;
-            border-radius: 8px;
-            transition: all 0.2s ease;
-            margin-bottom: 2px;
+            font-weight: 600;
+            font-size: 0.90rem;
+            padding: 8px 14px;
+            border-radius: 9px;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            margin-bottom: 1px;
+            display: flex;
+            align-items: center;
+            border: 1px solid transparent;
         }}
         section[data-testid="stSidebar"] div[data-testid="stRadio"] label:hover {{
-            background-color: #F0F4FC;
+            background-color: #EEF4FD;
             color: {PRIMARY_BLUE} !important;
+            transform: translateX(2px);
+        }}
+        section[data-testid="stSidebar"] div[data-testid="stRadio"] label[data-checked="true"],
+        section[data-testid="stSidebar"] div[data-testid="stRadio"] label:has(input:checked) {{
+            background-color: #EEF4FD !important;
+            color: {PRIMARY_BLUE} !important;
+            border-color: rgba(38, 152, 220, 0.3) !important;
+            font-weight: 700 !important;
         }}
         
         /* Typography */
         h1, h2, h3, h4, h5, h6 {{
             color: {TEXT_PRIMARY} !important;
             font-family: 'Plus Jakarta Sans', sans-serif !important;
-            font-weight: 700;
-            letter-spacing: -0.02em;
+            font-weight: 800;
+            letter-spacing: -0.025em;
         }}
         p, span, label {{
             color: {TEXT_PRIMARY};
         }}
 
-        /* Premium KPI & Content Cards */
+        /* Premium SaaS Content & KPI Cards */
         .saas-card {{
             background-color: {CARD_BG};
             border: 1px solid {BORDER};
             border-radius: 14px;
             padding: 20px 22px;
             margin-bottom: 16px;
-            box-shadow: 0 4px 16px rgba(32, 43, 69, 0.04);
-            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            box-shadow: 0 4px 18px rgba(32, 43, 69, 0.04);
+            transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
             position: relative;
         }}
         .saas-card:hover {{
             transform: translateY(-2px);
-            box-shadow: 0 8px 24px rgba(32, 43, 69, 0.08);
+            box-shadow: 0 10px 28px rgba(32, 43, 69, 0.08);
+            border-color: #D3DBE8;
         }}
         
-        /* Card Accents (Top Border Strips) */
+        /* Colourful Card Top Accents */
         .card-accent-blue {{ border-top: 4px solid {PRIMARY_BLUE}; }}
         .card-accent-pink {{ border-top: 4px solid {ROYAL_PINK}; }}
         .card-accent-purple {{ border-top: 4px solid {PURPLE}; }}
@@ -158,23 +186,23 @@ def apply_custom_css():
             margin-bottom: 8px;
         }}
         .kpi-title {{
-            font-size: 0.78rem;
+            font-size: 0.76rem;
             font-weight: 700;
             text-transform: uppercase;
-            letter-spacing: 0.06em;
+            letter-spacing: 0.07em;
             color: {TEXT_SECONDARY};
         }}
         .kpi-icon-wrap {{
-            width: 32px;
-            height: 32px;
-            border-radius: 8px;
+            width: 34px;
+            height: 34px;
+            border-radius: 9px;
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 1.05rem;
+            font-size: 1.1rem;
         }}
         .kpi-value {{
-            font-size: 2.15rem;
+            font-size: 2.2rem;
             font-weight: 800;
             color: {TEXT_PRIMARY};
             line-height: 1.1;
@@ -187,59 +215,64 @@ def apply_custom_css():
             font-weight: 500;
         }}
         
-        /* Badges & Pills */
+        /* Badges & Status Pills */
         .badge {{
             display: inline-flex;
             align-items: center;
-            border-radius: 6px;
+            border-radius: 7px;
             padding: 3px 10px;
-            font-size: 0.75rem;
+            font-size: 0.76rem;
             font-weight: 700;
             letter-spacing: 0.02em;
         }}
-        .badge-blue {{ background-color: rgba(38, 152, 220, 0.12); color: {PRIMARY_BLUE}; border: 1px solid rgba(38, 152, 220, 0.25); }}
-        .badge-pink {{ background-color: rgba(232, 62, 140, 0.12); color: {ROYAL_PINK}; border: 1px solid rgba(232, 62, 140, 0.25); }}
-        .badge-purple {{ background-color: rgba(121, 80, 216, 0.12); color: {PURPLE}; border: 1px solid rgba(121, 80, 216, 0.25); }}
-        .badge-teal {{ background-color: rgba(22, 184, 166, 0.12); color: {TEAL}; border: 1px solid rgba(22, 184, 166, 0.25); }}
-        .badge-orange {{ background-color: rgba(245, 166, 35, 0.12); color: {ORANGE}; border: 1px solid rgba(245, 166, 35, 0.25); }}
+        .badge-blue {{ background-color: rgba(38, 152, 220, 0.12); color: {PRIMARY_BLUE}; border: 1px solid rgba(38, 152, 220, 0.28); }}
+        .badge-pink {{ background-color: rgba(232, 62, 140, 0.12); color: {ROYAL_PINK}; border: 1px solid rgba(232, 62, 140, 0.28); }}
+        .badge-purple {{ background-color: rgba(121, 80, 216, 0.12); color: {PURPLE}; border: 1px solid rgba(121, 80, 216, 0.28); }}
+        .badge-teal {{ background-color: rgba(22, 184, 166, 0.12); color: {TEAL}; border: 1px solid rgba(22, 184, 166, 0.28); }}
+        .badge-orange {{ background-color: rgba(245, 166, 35, 0.12); color: {ORANGE}; border: 1px solid rgba(245, 166, 35, 0.28); }}
         
-        /* Custom Modern Tabs */
+        /* Modern Segmented Tabs */
         .stTabs [data-baseweb="tab-list"] {{
             background-color: #EAEFF8;
-            padding: 4px;
-            border-radius: 10px;
-            gap: 4px;
+            padding: 5px;
+            border-radius: 11px;
+            gap: 6px;
         }}
         .stTabs [data-baseweb="tab"] {{
             background-color: transparent;
             border-radius: 8px;
-            padding: 8px 18px;
+            padding: 8px 20px;
             color: {TEXT_SECONDARY};
-            font-weight: 600;
+            font-weight: 700;
+            font-size: 0.88rem;
             border: none;
             transition: all 0.2s ease;
+        }}
+        .stTabs [data-baseweb="tab"]:hover {{
+            color: {TEXT_PRIMARY};
+            background-color: rgba(255, 255, 255, 0.5);
         }}
         .stTabs [aria-selected="true"] {{
             background-color: #FFFFFF !important;
             color: {TEXT_PRIMARY} !important;
-            box-shadow: 0 2px 8px rgba(32, 43, 69, 0.08);
+            box-shadow: 0 3px 10px rgba(32, 43, 69, 0.08);
         }}
 
-        /* Buttons */
+        /* Buttons (Vibrant SaaS Gradient) */
         .stButton>button {{
-            background: linear-gradient(135deg, {PRIMARY_BLUE} 0%, #1a7ebc 100%);
+            background: linear-gradient(135deg, {PRIMARY_BLUE} 0%, #1a7ebc 100%) !important;
             color: #FFFFFF !important;
-            border: none;
-            border-radius: 8px;
-            padding: 8px 18px;
-            font-weight: 600;
-            box-shadow: 0 3px 10px rgba(38, 152, 220, 0.25);
-            transition: all 0.2s ease;
+            border: none !important;
+            border-radius: 9px !important;
+            padding: 8px 20px !important;
+            font-weight: 700 !important;
+            box-shadow: 0 3px 12px rgba(38, 152, 220, 0.28) !important;
+            transition: all 0.2s ease !important;
         }}
         .stButton>button:hover {{
-            background: linear-gradient(135deg, #3aa7e8 0%, {PRIMARY_BLUE} 100%);
-            box-shadow: 0 5px 16px rgba(38, 152, 220, 0.35);
-            transform: translateY(-1px);
+            background: linear-gradient(135deg, #3aa7e8 0%, {PRIMARY_BLUE} 100%) !important;
+            box-shadow: 0 6px 18px rgba(38, 152, 220, 0.38) !important;
+            transform: translateY(-1px) !important;
         }}
         
         /* Download Buttons */
@@ -247,16 +280,17 @@ def apply_custom_css():
             background: #FFFFFF !important;
             color: {TEXT_PRIMARY} !important;
             border: 1px solid {BORDER} !important;
-            border-radius: 8px;
-            font-weight: 600;
-            box-shadow: 0 2px 6px rgba(32, 43, 69, 0.04);
-            transition: all 0.2s ease;
+            border-radius: 9px !important;
+            font-weight: 700 !important;
+            box-shadow: 0 2px 8px rgba(32, 43, 69, 0.04) !important;
+            transition: all 0.2s ease !important;
         }}
         .stDownloadButton>button:hover {{
             border-color: {PRIMARY_BLUE} !important;
             color: {PRIMARY_BLUE} !important;
             background: #F8FAFC !important;
-            transform: translateY(-1px);
+            transform: translateY(-1px) !important;
+            box-shadow: 0 4px 14px rgba(38, 152, 220, 0.15) !important;
         }}
         
         /* Table & DataFrames */
@@ -265,31 +299,36 @@ def apply_custom_css():
             border: 1px solid {BORDER} !important;
             border-radius: 12px !important;
             overflow: hidden;
-            box-shadow: 0 2px 10px rgba(32, 43, 69, 0.03);
+            box-shadow: 0 3px 12px rgba(32, 43, 69, 0.03);
         }}
 
         /* Input Elements */
         .stTextInput>div>div>input {{
-            background-color: #FFFFFF;
-            border: 1px solid {BORDER};
-            border-radius: 8px;
-            color: {TEXT_PRIMARY};
+            background-color: #FFFFFF !important;
+            border: 1px solid {BORDER} !important;
+            border-radius: 9px !important;
+            color: {TEXT_PRIMARY} !important;
+            font-weight: 500;
+        }}
+        .stTextInput>div>div>input:focus {{
+            border-color: {PRIMARY_BLUE} !important;
+            box-shadow: 0 0 0 2px rgba(38, 152, 220, 0.2) !important;
         }}
         .stSelectbox>div>div {{
-            background-color: #FFFFFF;
-            border: 1px solid {BORDER};
-            border-radius: 8px;
-            color: {TEXT_PRIMARY};
+            background-color: #FFFFFF !important;
+            border: 1px solid {BORDER} !important;
+            border-radius: 9px !important;
+            color: {TEXT_PRIMARY} !important;
         }}
         
         /* Metric widget styling */
         div[data-testid="stMetricValue"] {{
             color: {TEXT_PRIMARY} !important;
-            font-weight: 700 !important;
+            font-weight: 800 !important;
         }}
         div[data-testid="stMetricLabel"] {{
             color: {TEXT_SECONDARY} !important;
-            font-weight: 600 !important;
+            font-weight: 700 !important;
         }}
     </style>
     """, unsafe_allow_html=True)
@@ -356,7 +395,7 @@ def create_top10_bar_chart(df: pd.DataFrame, is_batter: bool = True):
         template="plotly_white",
         paper_bgcolor=CARD_BG,
         plot_bgcolor=CARD_BG,
-        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, Segoe UI, sans-serif"),
+        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, sans-serif"),
         height=460,
         margin=dict(l=20, r=45, t=55, b=30),
         xaxis=dict(
@@ -429,7 +468,7 @@ def create_batter_scatter_chart(all_batters: pd.DataFrame, top10_batters: pd.Dat
         template="plotly_white",
         paper_bgcolor=CARD_BG,
         plot_bgcolor=CARD_BG,
-        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, Segoe UI, sans-serif"),
+        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, sans-serif"),
         height=520,
         margin=dict(l=20, r=20, t=55, b=30),
         xaxis=dict(showgrid=True, gridcolor=BORDER, tickfont=dict(color=TEXT_SECONDARY)),
@@ -440,7 +479,7 @@ def create_batter_scatter_chart(all_batters: pd.DataFrame, top10_batters: pd.Dat
             y=1.02,
             xanchor="right",
             x=1,
-            bgcolor="rgba(255, 255, 255, 0.9)",
+            bgcolor="rgba(255, 255, 255, 0.95)",
             bordercolor=BORDER,
             borderwidth=1
         )
@@ -503,7 +542,7 @@ def create_bowler_scatter_chart(all_bowlers: pd.DataFrame, top10_bowlers: pd.Dat
         template="plotly_white",
         paper_bgcolor=CARD_BG,
         plot_bgcolor=CARD_BG,
-        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, Segoe UI, sans-serif"),
+        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, sans-serif"),
         height=520,
         margin=dict(l=20, r=20, t=55, b=30),
         xaxis=dict(showgrid=True, gridcolor=BORDER, tickfont=dict(color=TEXT_SECONDARY)),
@@ -514,7 +553,7 @@ def create_bowler_scatter_chart(all_bowlers: pd.DataFrame, top10_bowlers: pd.Dat
             y=1.02,
             xanchor="right",
             x=1,
-            bgcolor="rgba(255, 255, 255, 0.9)",
+            bgcolor="rgba(255, 255, 255, 0.95)",
             bordercolor=BORDER,
             borderwidth=1
         )
@@ -592,7 +631,7 @@ def create_player_radar_chart(player_row: pd.Series, is_batter: bool = True, ben
         ),
         paper_bgcolor=CARD_BG,
         plot_bgcolor=CARD_BG,
-        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, Segoe UI, sans-serif"),
+        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, sans-serif"),
         height=390,
         margin=dict(l=35, r=35, t=30, b=30),
         legend=dict(
@@ -638,7 +677,7 @@ def create_sensitivity_plot(sens_df: pd.DataFrame, category: str = "Batter"):
         template="plotly_white",
         paper_bgcolor=CARD_BG,
         plot_bgcolor=CARD_BG,
-        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, Segoe UI, sans-serif"),
+        font=dict(color=TEXT_PRIMARY, family="Plus Jakarta Sans, sans-serif"),
         height=410,
         margin=dict(l=20, r=20, t=55, b=30),
         legend=dict(
