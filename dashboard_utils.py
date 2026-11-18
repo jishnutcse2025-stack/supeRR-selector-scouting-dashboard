@@ -2,14 +2,22 @@
 SupeRR Selector Season 2 — Dashboard Utility Functions
 Premium Light-Mode Sports Analytics SaaS Design System.
 Helper modules for data caching, styling, and interactive Plotly visualizations.
+Uses robust Path(__file__).resolve().parent for cloud-safe relative asset loading.
 """
 
-import os
+from pathlib import Path
 import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
+
+# =============================================================================
+# PATH CONSTANTS (BULLETPROOF CLOUD & LOCAL RESOLUTION)
+# =============================================================================
+BASE_DIR = Path(__file__).resolve().parent
+OUTPUTS_DIR = BASE_DIR / "outputs"
+CHARTS_DIR = OUTPUTS_DIR / "charts"
 
 # =============================================================================
 # EXACT COLOUR SYSTEM (PREMIUM LIGHT SAAS)
@@ -26,11 +34,12 @@ ORANGE = "#F5A623"
 BORDER = "#E7EAF2"
 
 @st.cache_data
-def load_data(output_dir: str = "outputs"):
+def load_data(output_dir=None):
     """
     Loads all precomputed analytics engine outputs from the outputs directory.
-    Uses st.cache_data for instantaneous page responsiveness.
+    Uses Path(__file__).resolve().parent for reliable path resolution in cloud environments.
     """
+    target_dir = Path(output_dir) if output_dir is not None else OUTPUTS_DIR
     data = {}
     
     files = {
@@ -45,19 +54,25 @@ def load_data(output_dir: str = "outputs"):
         'data_quality': 'data_quality_report.csv'
     }
     
+    missing_files = []
     for key, filename in files.items():
-        path = os.path.join(output_dir, filename)
-        if os.path.exists(path):
-            data[key] = pd.read_csv(path)
+        file_path = target_dir / filename
+        if file_path.exists():
+            data[key] = pd.read_csv(file_path)
         else:
+            missing_files.append(filename)
             data[key] = pd.DataFrame()
             
-    val_path = os.path.join(output_dir, 'validation_report.txt')
-    if os.path.exists(val_path):
+    val_path = target_dir / 'validation_report.txt'
+    if val_path.exists():
         with open(val_path, 'r', encoding='utf-8', errors='ignore') as f:
             data['validation_text'] = f.read()
     else:
+        missing_files.append('validation_report.txt')
         data['validation_text'] = "Validation report not found."
+        
+    if missing_files:
+        st.warning(f"Note: Some data files were not found in {target_dir}: {', '.join(missing_files)}")
         
     return data
 

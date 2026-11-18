@@ -5,7 +5,7 @@ A Premium Modern Light-Mode Sports Analytics SaaS Portal.
 Built for the Rajasthan Royals Scouting & Analytics Division with Streamlit & Plotly.
 """
 
-import os
+from pathlib import Path
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -13,6 +13,11 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 import dashboard_utils as utils
+
+# Robust Cloud-Safe Path Resolution
+BASE_DIR = Path(__file__).resolve().parent
+OUTPUTS_DIR = BASE_DIR / "outputs"
+CHARTS_DIR = OUTPUTS_DIR / "charts"
 
 # -----------------------------------------------------------------------------
 # 1. PAGE CONFIGURATION & DESIGN SYSTEM INJECTION
@@ -28,7 +33,7 @@ st.set_page_config(
 utils.apply_custom_css()
 
 # Load Cached Analytics Outputs
-DATA = utils.load_data(output_dir="outputs")
+DATA = utils.load_data(output_dir=OUTPUTS_DIR)
 
 # -----------------------------------------------------------------------------
 # 2. SIDEBAR NAVIGATION (ELEGANT WHITE SAAS)
@@ -197,9 +202,9 @@ if page == "📊 Executive Overview":
 
         st.markdown("<br>", unsafe_allow_html=True)
         st.markdown("### 📊 Pre-Delivery Pressure Distribution")
-        chart_p_path = os.path.join("outputs", "charts", "pressure_distribution.png")
-        if os.path.exists(chart_p_path):
-            st.image(chart_p_path, caption="Figure 1: Distribution of Pre-Delivery Situational Pressure Scores (0 to 100) across 185,715 deliveries.", use_container_width=True)
+        chart_p_path = CHARTS_DIR / "pressure_distribution.png"
+        if chart_p_path.exists():
+            st.image(str(chart_p_path), caption="Figure 1: Distribution of Pre-Delivery Situational Pressure Scores (0 to 100) across 185,715 deliveries.", use_container_width=True)
 
     with col_right:
         st.markdown("### 🔍 Strategic Scouting Intelligence")
@@ -958,13 +963,13 @@ elif page == "⚡ Pressure Analysis":
         
         s_col1, s_col2 = st.columns(2)
         with s_col1:
-            bat_chart_path = os.path.join("outputs", "charts", "batters_baseline_vs_pressure.png")
-            if os.path.exists(bat_chart_path):
-                st.image(bat_chart_path, caption="Batters: Baseline SR vs High-Pressure Strike Rate", use_container_width=True)
+            bat_chart_path = CHARTS_DIR / "batters_baseline_vs_pressure.png"
+            if bat_chart_path.exists():
+                st.image(str(bat_chart_path), caption="Batters: Baseline SR vs High-Pressure Strike Rate", use_container_width=True)
         with s_col2:
-            bowl_chart_path = os.path.join("outputs", "charts", "bowlers_baseline_vs_pressure.png")
-            if os.path.exists(bowl_chart_path):
-                st.image(bowl_chart_path, caption="Bowlers: Baseline Economy vs High-Pressure Economy Rate", use_container_width=True)
+            bowl_chart_path = CHARTS_DIR / "bowlers_baseline_vs_pressure.png"
+            if bowl_chart_path.exists():
+                st.image(str(bowl_chart_path), caption="Bowlers: Baseline Economy vs High-Pressure Economy Rate", use_container_width=True)
                 
     with an_tab2:
         st.markdown("### Match Phase Breakdown")
@@ -987,9 +992,9 @@ elif page == "⚡ Pressure Analysis":
         
     with an_tab3:
         st.markdown("### PPI Component Weights & Relative Importance")
-        comp_img_path = os.path.join("outputs", "charts", "top10_ppi_components.png")
-        if os.path.exists(comp_img_path):
-            st.image(comp_img_path, caption="Figure: Component Decomposition for Top 10 Batters and Bowlers", use_container_width=True)
+        comp_img_path = CHARTS_DIR / "top10_ppi_components.png"
+        if comp_img_path.exists():
+            st.image(str(comp_img_path), caption="Figure: Component Decomposition for Top 10 Batters and Bowlers", use_container_width=True)
             
         st.markdown("""
         #### Component Weights in PPI Formula:
@@ -1197,8 +1202,8 @@ elif page == "📥 Reports & Downloads":
             </p>
         </div>
         """, unsafe_allow_html=True)
-        pdf_path = os.path.join("outputs", "SupeRR_Selector_S2_Methodology_Report.pdf")
-        if os.path.exists(pdf_path):
+        pdf_path = OUTPUTS_DIR / "SupeRR_Selector_S2_Methodology_Report.pdf"
+        if pdf_path.exists():
             with open(pdf_path, "rb") as f:
                 pdf_bytes = f.read()
             st.download_button(
@@ -1218,8 +1223,8 @@ elif page == "📥 Reports & Downloads":
             </p>
         </div>
         """, unsafe_allow_html=True)
-        md_path = os.path.join("outputs", "SupeRR_Selector_S2_Methodology_Report.md")
-        if os.path.exists(md_path):
+        md_path = OUTPUTS_DIR / "SupeRR_Selector_S2_Methodology_Report.md"
+        if md_path.exists():
             with open(md_path, "rb") as f:
                 md_bytes = f.read()
             st.download_button(
@@ -1248,8 +1253,8 @@ elif page == "📥 Reports & Downloads":
     for i, (label, fname, dl_name) in enumerate(export_files):
         col = e_col1 if i % 2 == 0 else e_col2
         with col:
-            p = os.path.join("outputs", fname)
-            if os.path.exists(p):
+            p = OUTPUTS_DIR / fname
+            if p.exists():
                 with open(p, "rb") as f:
                     b = f.read()
                 mime_t = "text/plain" if fname.endswith(".txt") else "text/csv"
